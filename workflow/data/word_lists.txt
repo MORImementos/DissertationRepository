@@ -1,0 +1,9688 @@
+Frame_Death:
+  moribund.a
+  demise.n
+  fatal.a
+  mourn.v
+  cadaver.n
+  dead.a
+  stillborn.a
+  death.n
+  carcass.n
+  die.v
+  mourning.n
+  corpse.n
+  fatality.n
+  deceased.a
+  funeral.n
+Frame_Corporation:
+  corporation.n
+  firm.n
+  corporate.a
+Frame_Smell:
+  cologne.n
+  fragrance.n
+  smell.v
+  perfumed.a
+  fragrance-free.a
+  aroma.n
+  perfume.v
+  smell.n
+  odor.n
+  unscented.a
+  olfactory.a
+  odour.n
+  fragrant.a
+  odorless.a
+  perfume.n
+  incense.n
+  scent.n
+  scented.a
+  whiff.n
+  aromatic.a
+  odourless.a
+  bouquet.n
+  sniff.v
+Frame_Constructed_confinement:
+  incarcerated.a
+  dungeon.n
+  imprisoned.a
+  corral.v
+  jail.v
+  lockup.n
+  prison.n
+  bastille.n
+  stockade.n
+  penitentiary.n
+  lock.v up
+  walls.n
+  prisoner.n
+  inmate.n
+  escape.v
+  wall.n
+  jail.n
+  cage.n
+  escape.n
+  incarcerate.v
+  corral.n
+  cage.v
+  imprison.v
+Frame_Adoption:
+  adopt.v
+Frame_Payment:
+  price.n
+  payment.n
+  repay.v
+  spend.v
+  expense.n
+  spending.n
+  expenditure.n
+  pay.v
+  repayment.n
+Frame_Climate_mitigation:
+  global warming action plan.n
+  global warming mitigation tactic.n
+  climate change action.n
+  climate change mitigation tactic.n
+  net zero.n
+  carbon pricing.n
+  carbon offset.n
+  climate change mitigation.n
+  carbon dioxide sink.n
+  CO2 capture and storage.n
+  carbon trading.n
+  mitigative climate action.n
+  afforestation.n
+  reforestation.n
+  global warming mitigation strategy.n
+  mitigation of climate change.n
+  low-carbon economy.n
+  low-carbon.n
+  climate action.n
+  carbon sequestration.n
+  carbon cut.n
+  climate change adaptation strategy.n
+  climate action incentive.n
+  climate change mitigation strategy.n
+  carbon removal.n
+  climate goal.n
+  global warming action.n
+  carbon cutting.n
+  global warming adaptation strategies.n
+  climate action incentive payment.n
+  climate change action plan.n
+  climate change goal.n
+  carbon emission reduction.n
+  carbon pool.n
+  carbon offsetting.n
+  mitigation of global warming.n
+  climate restoration.n
+  carbon capture.n
+  global warming mitigation.n
+  global warming goal.n
+  climate mitigation.n
+  carbon dioxide capture and storage.n
+  carbon capture and storage.n
+Frame_Laundering:
+  starch.v
+  dryclean.v
+  laundry.n
+  washing.n
+  dry-cleaning.n
+  iron.v
+  dry-clean.v
+  launder.v
+Frame_Criticizing:
+  critique.v
+  criticize.v
+  critique.n
+  criticism.n
+Frame_Motion_away_from_a_location:
+  way.n out
+  go.v out
+  depart.v
+  egress.n
+  exit.v
+  move.v out
+  leave.v
+  climb.v out
+  get.v out
+Frame_Air_motion:
+  breeze.n
+  blow.v
+  wind.n
+  gale.n
+  flight.n
+  gust.v
+  squall.n
+  draft.n
+  blast.n
+  gust.n
+Frame_Beverages:
+  smoothie.n
+  pepsi.n
+  milkshake.n
+  bubbly water.n
+  drinkable.a
+  soda water.n
+  potable.a
+  seltzer water.n
+  fizzy water.n
+  bottled water.n
+  lemonade.n
+  milk.n
+  ginger ale.n
+  soft drink.n
+  sparkling water.n
+  beverage.n
+  hot chocolate.n
+  drink.n
+  tonic water.n
+  coke.n
+  root beer.n
+  cider.n
+  cola.n
+  soda.n
+  mineral water.n
+  carbonated water.n
+  juice.n
+Frame_Tending_to_plants:
+  weed.v
+  cull.v
+  prune.v
+  graft.v
+  winnow.v
+  pot.v
+  mow.v
+  sow.v
+  rake.v
+  trim.v
+  seed.v
+  cultivate.v
+  water.v
+  winnow.n
+  garden.v
+  fertilize.v
+  cross-pollinate.v
+  watering.n
+  hoe.v
+Frame_Unboundedness:
+  unbounded.a
+  endless.a
+  bottomless.a
+  boundless.a
+  limitless.a
+  inexhaustible.a
+  infinite.a
+  unending.a
+  unlimited.a
+  infinity.n
+Frame_Vehicular_motion:
+  skateboard.v
+  caravan.v
+  gondola.v
+  steer.v
+  trolley.v
+  moped.v
+  conduct.v
+  brake.v
+  bus.v
+  dogsled.v
+  bobsled.v
+  toboggan.v
+  jeep.v
+  sleigh.v
+  skate.v
+  sledge.v
+  drive.v
+  cab.v
+  tram.v
+  steering wheel.n
+  pedal.v
+  motorcycle.v
+  brakes.n
+  rickshaw.v
+  chariot.v
+  pilot.v
+  commute.v
+  jump-start.n
+  motorbike.v
+  bike.v
+  taxi.v
+  jump-start.v
+  put.v on the brakes
+  coach.v
+  driver.n
+  ride.v
+  motor.v
+  bicycle.v
+  scoot.v
+  slalom.v
+  sled.v
+Frame_Impoverished:
+  poor families.n
+  underprivileged.n
+  destitute.n
+  poor.a
+  needy.a
+  poor children.n
+  pauper.n
+  destitute.a
+  indigent.a
+  homeless.n
+  the indigent.n
+  moneyless.a
+  impoverished.a
+  poor people.n
+  poorest families.n
+  the poor.n
+  homeless.a
+  poverty-stricken.a
+  poor.n
+  working poor.n
+  the destitute.n
+  poorest people.n
+  welfare queen.n
+  penniless.a
+  broke.a
+Frame_Gun_rights_advocacy_interest_group:
+  Gun Owners of America.n
+  Minutemen.n
+  National Association for Gun Rights.n
+  Second Amendment Foundation.n
+  NRA.n
+  NAGR.n
+  gun rights advocate.n
+  National Rifle Association.n
+Frame_Silencing:
+  mute.v
+  shush.v
+  quiet.v
+  hush.v up
+  gag.v
+  shut.v up
+  hush.v
+  silence.v
+Frame_Heating_fluid:
+  stew.v
+  steam.n
+  bubble.v
+  simmer.v
+  steam.v
+  simmering.a
+  steaming.a
+  boiling.a
+  boil.v
+Frame_Environmentalism:
+  ecological economics.n
+  David Suzuki.n
+  Gerald Butts.n
+  ecologically ethical.a
+  ecological community.n
+  biocentrism.n
+  emancipatory environmentalism.n
+  Steven Guilbeault.n
+  environmentalism.n
+  environmental justice.n
+  green tech.n
+  environmental coalition.n
+  environmental ethics.n
+  environmental group.n
+  environmental feminist.n
+  green political party.n
+  green ideology.n
+  green ethics.n
+  environmental engineering.n
+  apocalyptic environmentalism.n
+  ecofeminism.n
+  post-apocalyptic environmentalism.n
+  free-market environmentalism.n
+  environmental job.n
+  environmentalist.n
+  environmental movement.n
+  eco-technology.n
+  environmental infrastructure solutions.n
+  ecofeminist.n
+  green politics.n
+  environmental organization.n
+  green technology.n
+  evangelical environmentalism.n
+  Rachel Carson.n
+  environmental law.n
+  environmental technology.n
+  eco-feminism.n
+  ecotechnology.n
+  environmental politics.n
+  eco-tech.n
+  ecotech.n
+  environmental social movement.n
+  ecology.n
+  environmental ideology.n
+  Al Gore.n
+  ecological ethics.n
+  environmental lawyer.n
+  environmental feminism.n
+  ecosystem.n
+Frame_Voting:
+  balloting.n
+  vote.v
+  ballot.n
+  voter.n
+Frame_Luxury:
+  luxurious.a
+  swanky.a
+  opulence.n
+  luxury.n
+  sumptuous.a
+  swank.a
+  sumptuousness.n
+  deluxe.a
+Frame_Crime:
+  wrongdoing.n
+  criminal.n
+  thuggery.n
+  goon.n
+  mobster.n
+  crime.n
+  wrongdoer.n
+  mob boss.n
+  felony.n
+  felon.n
+  gangster.n
+  criminality.n
+  perpetrate.v
+  malfeasance.n
+  hood.n
+  perpetrator.n
+  mafioso.n
+  thug.n
+  victim.n
+Frame_Premium:
+  upscale.a
+  premiumness.n
+  top-end.a
+  superior.a
+  premium.a
+  top-notch.a
+  top of the line.a
+  high-end.a
+  premium.n
+  high-quality.a
+  first-rate.a
+  top-of-the-line.a
+Frame_Time:
+  time.n
+  temporal.a
+Frame_Genetics:
+  cytosine.n
+  genetic.a
+  adenine.n
+  phosphate backbone.n
+  gene.n
+  thymine.n
+  guanine.n
+  genomic surveillance system.n
+  DNA.n
+  genetic trait.n
+  chromosome.n
+  hereditary traits.n
+  nucleotide.n
+  cell.n
+  genomic sequencing.n
+  heredity.n
+Frame_Animal:
+  horse.n
+  wallow.v
+  pig.n
+  bark.v
+  rat.n
+  pedigree.n
+  creature.n
+  cat.n
+  swine.n
+  breed.v
+  breed.n
+  species.n
+  phylum.n
+  varmint.n
+  critter.n
+  animal.n
+  hog.n
+  dog.n
+Frame_Taste_negative:
+  yucky.a
+  unappetizing.a
+  flavorless.a
+  savorless.a
+  unpalatable.a
+  unsavory.a
+Frame_Cycle:
+  cycle.n
+  cyclic.a
+Frame_Generic_locale:
+  elsewhere.adv
+  anywhere.adv
+  nowhere.adv
+  there.adv
+  somewhere.adv
+  here.adv
+  everywhere.adv
+Frame_Starvation:
+  voraciousness.n
+  fast.v
+  emaciated.a
+  ravenousness.n
+  famished.a
+  starve.v
+  famine.n
+  starving.a
+  ravenous.a
+  voracious.a
+  starvation.n
+  emaciate.v
+  famishment.n
+Frame_Plant_life_cycle:
+  vegetate.v
+  sapling.n
+  blossom.n
+  fruit.v
+  blossom.v
+  over-ripe.a
+  budding.a
+  sprout.v
+  take.v root.n
+  blooming.a
+  sprout.n
+  bloom.n
+  bloom.v
+  bud.v
+  unripe.a
+  seedling.n
+  ripe.a
+  blossoming.a
+  ripen.v
+  wither.v
+  germinate.v
+  bud.n
+Frame_Bodily_sensation:
+  numbness.n
+  numb.v
+  numb.a
+Frame_Education:
+  study.n
+  education.n
+  training.n
+  an education.n
+  educational.a
+  pedagogy.n
+  study.v
+  erudition.n
+Frame_Increase_ease_of_motion:
+  grease.n
+  lubricant.n
+  oil.v
+  grease.v
+  lubricate.v
+  grease.v the wheel.n
+Frame_Gun_possession:
+  access.n to guns
+  gun license.n
+  open carry.n
+  gun ownership.n
+  disarmament.n
+  gun possession.n
+  gun-toting.a
+  bear.v arms
+  gun ownership license.n
+  access.n to firearms
+  concealed carry.n
+  civilian disarmament.n
+Frame_Epidemic:
+  secondary case.n
+  positivity rate.n
+  primary case.n
+  epidemic.n
+  community spread.n
+Frame_Possession:
+  owner.n
+  own.v
+  possess.v
+  ownership.n
+  possession.n
+Frame_Traffic_light:
+  traffic signal light.n
+  non-flashing yellow light.n
+  flashing yellow light.n
+  yellow light.n
+  green light.n
+  stoplight.n
+  traffic signal.n
+  walking signal.n
+  traffic intersection.n
+  walk light.n
+  bicycle signal.n
+  pedestrian light.n
+  flashing green light.n
+  pedestrian signal.n
+  traffic light.n
+  non-flashing green light.n
+  cycling signal.n
+  non-flashing red light.n
+  flashing red light.n
+  red light.n
+  green arrow.n
+Frame_Government_institution:
+  governmental.a department.n
+  governmental.a bureau.n
+  governmental.a board.n
+  governmental.a agency.n
+Frame_Healthcare_provider:
+  LPN.n
+  MD.n
+  psychiatrist.n
+  podiatrist.n
+  preventive medicine specialist.n
+  psychologist.n
+  allergist.n
+  therapist.n
+  social worker.n
+  audiologist.n
+  otolaryngologist.n
+  Chief Public Health Officer.n
+  pediatrician.n
+  primary care do.n
+  physician.n
+  neurologist.n
+  oncologist.n
+  ophthalmologist.n
+  dietician.n
+  Theresa Tam.pn
+  infectious disease doctor.n
+  Bonnie Henry.pn
+  nurse.n
+  Anthony Fauci.pn
+  intensivist.n
+  nutritionist.n
+  primary care physician.n
+  paediatrician.n
+  physical therapist.n
+  anesthesiologist.n
+  immunologist.n
+  hospitalist.n
+  obstetrician.n
+  radiologist.n
+  GP.n
+  Surgeon.n General
+  essential worker.n
+  doctor.n
+  hematologist.n
+  dermatologist.n
+  doula.n
+  Minister.n of Health
+  pharmacist.n
+  family doctor.n
+  gynecologist.n
+  cardiologist.n
+  RN.n
+  occupational therapist.n
+  general practictioner.n
+  respiratory therapist.n
+  anaesthesiologist.n
+  nurse practitioner.n
+  urologist.n
+  physician assistant.n
+  anaesthetist.n
+  rheumatologist.n
+  nephrologist.n
+  pathologist.n
+  surgeon.n
+  environmental health officer.n
+  infectious disease specialist.n
+  public health inspector.n
+  endocrinologist.n
+  epidemiologist.n
+  pulmonologist.n
+  midwife.n
+  gastroenterologist.n
+Frame_Bureaucracy:
+  civil service.n
+  bureaucratic.a
+  bureaucrat.n
+  official.n
+  bureaucracy.n
+  red-tape.n
+  red.a tape.n
+  civil servant.n
+  pencil-pusher.n
+  administration.n
+Frame_Avalanche:
+  avalanche.n
+  loose snow avalanche.n
+  slab avalanche.n
+  terrain trap.n
+  wet sluff.n
+  powder snow avalanche.n
+  wind slab.n
+  wet slab.n
+  wet snow avalanche.n
+  soft slab.n
+Frame_Advocacy:
+  proponent.n
+  advocate.n
+  proponence.n
+  advocacy.n
+  promote.v
+  lobby.n
+  promotion.n
+  lobbyist.n
+  advocate.v
+  promoter.n
+  lobby.v
+  patron.n
+  exponent.n
+Frame_Social_group:
+  social group.n
+Frame_Stable:
+  stable.a
+  unfluctuating.a
+  unvarying.a
+  durable.a
+  steady.a
+  long-lasting.a
+  lasting.a
+  immovable.a
+  enduring.a
+  sturdy.a
+Frame_Wet:
+  moisten.v
+  wet.a
+  moist.a
+  rinse.n
+  damp.a
+  soggy.a
+  rinse.v
+  dampen.v
+  soaked.a
+  wetness.n
+  dewy.a
+  wet.v
+  watery.a
+Frame_Food_texture:
+  squishy.a
+  crunchy.a
+  crisp.a
+  crispy.a
+  fleshy.a
+  spongy.a
+  doughy.a
+  pulpy.a
+  crusty.a
+  soft.a
+  firm.a
+  chewy.a
+  mushy.a
+Frame_Chewing:
+  crunch.v
+  masticate.v
+  chomp.n
+  ruminate.v
+  chew.v
+  bite.v
+  nibble.v
+  gnaw.v
+  nibble.n
+  munch.v
+  chomp.v
+  bite.n
+  munch.n
+  biting.v
+Frame_Evil:
+  loathsome.a
+  evil.a
+  vile.a
+  vicious.a
+  atrocious.a
+  depraved.a
+  hideous.a
+Frame_Restraints:
+  restraint.n
+  restrainment.n
+  suppress.v
+  entangle.v
+  restrain.v
+  snare.n
+  hinder.v
+  ensnare.v
+  hold.v back
+  restriction.n
+  restrict.v
+  entanglement.n
+  hindrance.n
+  tangle.n
+Frame_Stop_airflow:
+  noose.n
+  stifle.v
+  muzzle.v
+  strangle.v
+  gag.n
+  choke hold.n
+  chokehold.n
+  muzzle.n
+  choke.v
+  throttle.v
+  gag.v
+  suffocate.v
+  strangulation.n
+  stopper.n
+  squelch.v
+  smother.v
+  stranglehold.n
+  strangulate.v
+  muffle.v
+  asphyxiate.v
+Frame_Extreme_heat:
+  extreme temperature warning.n
+  extreme heat preparedness.n
+  extreme temperature.n
+  extreme heat precaution.n
+  heat dome.n
+  extreme heat alert.n
+  extreme heat warning.n
+Frame_Understanding:
+  comprehend.v
+  comprehension.n
+  understand.v
+  understanding.n
+Frame_Boredom:
+  boring.a
+  boredom.n
+  bored.a
+  ennui.n
+  tediousness.n
+  tedious.a
+  tedium.n
+  bore.v
+Frame_Exemplar:
+  archetypical.a
+  paragon.n
+  archetype.n
+  model.n
+  epitome.n
+  standard.a
+  prototype.n
+  exemplar.n
+  exemplification.n
+  quintessence.n
+  prototypical.a
+Frame_Causation:
+  cause.v
+  causation.n
+  effect.n
+  cause.n
+Frame_Expensive:
+  pricey.a
+  costly.a
+  uneconomical.a
+  over-priced.a
+  exorbitant.a
+  expensive.a
+  high-priced.a
+Frame_Gap_in_path:
+  gap.n
+  fissure.n
+  gulf.n
+  crack.n
+  cleft.n
+  schism.n
+  crack.v
+Frame_Marriage:
+  wife.n
+  wed.v
+  married.a
+  matrimony.n
+  wedded.a
+  marriage.n
+  wedlock.n
+  husband.n
+  wedding.n
+  marry.v
+  spouse.n
+Frame_Citrus:
+  citrusy.a
+  buddhas hand.n
+  citron.n
+  yuzu.n
+  tangelo.n
+  mandarin.n
+  lime.n
+  clementine.n
+  pomelo.n
+  orange.n
+  citrus.n
+  lemony.a
+  lemon.n
+  grapefruit.n
+Frame_Learning:
+  learn.v
+  learning.n
+Frame_Educational_institution:
+  college.n
+  exam.n
+  university.n
+  academy.n
+  test.n
+  school.n
+  testing.n
+  examination.n
+Frame_Tropical_fruit:
+  guava.n
+  passion fruit.n
+  papaya.n
+  coconut.n
+  kiwi.n
+  rambutan.n
+  jackfruit.n
+  banana.n
+  pineapple.n
+  kumquat.n
+  loquat.n
+  lychee.n
+  mango.n
+  mangosteen.n
+Frame_Criminal_gun_violence:
+  handgun crime.n
+  gun atrocity.n
+  gun murder.n
+  gun criminal.n
+  gun related violent crime.n
+  gun felony.n
+  gun homicide.n
+  gun related crime.n
+  gun crime.n
+Frame_Nation:
+  federal.a
+  national.a
+  nation.n
+  country.n
+Frame_Dispersal:
+  hand.v out
+  apportion.v
+  allocate.v
+  strew.v
+  dispersal.n
+  dole.v out
+  share.v
+  allocation.n
+  dispense.v
+  disseminate.v
+  dole.n
+  parcel.v out
+  disperse.v
+  distribute.v
+  scatter.v
+  distribution.n
+  handout.n
+Frame_Consume:
+  depletion.n
+  consumption.n
+  deplete.v
+  consume.v
+  eat.v
+  devour.v
+Frame_Gun_industry:
+  gun show loophole.n
+  gun industry.n
+  firearms manufacturer.n
+  sale.n of guns
+  gun fair.n
+  gun show.n
+  gun maker.n
+  gun sales.n
+  gun manufacturer.n
+  firearms industry.n
+Frame_Festive_event:
+  cook-off.n
+  carnival.n
+  fete.n
+  festival.n
+  banquet.n
+  festivity.n
+  parade.n
+  fair.n
+  block party.n
+  concert.n
+Frame_Living:
+  thriving.a
+  thrive.v
+  flourishing.a
+  flourish.v
+  survive.v
+  survival.n
+  alive.a
+  live.v
+Frame_Process_ongoing:
+  proceed.v
+  unfold.v
+  ongoing.a
+  continuation.n
+  persistent.a
+  unfolding.a
+  continue.v
+  persist.v
+Frame_Competitive_sport:
+  scrimmage.n
+  referee.n
+  boxing match.n
+  team.n
+  scrum.n
+  umpire.n
+  boxer.n
+  playing field.n
+  scrimmage.v
+  player.n
+Frame_Belief:
+  intuition.n
+  belief.n
+  suspicion.n
+  assumption.n
+  hunch.n
+  believe.v
+  assume.v
+Frame_Difficulties_in_action:
+  difficulties.n
+  difficult.a
+  hardship.n
+  adversity.n
+  difficulty.n
+  distress.n
+  complication.n
+  crisis.n
+  crises.n
+Frame_Lack_of_clarity:
+  haze.n
+  non-transparent.a
+  hazy.a
+  murky.a
+  smoky.a
+  opaque.a
+  cloudy.a
+  murkiness.n
+  haziness.n
+  fogginess.n
+  foggy.a
+Frame_Barrier_to_accessing_a_location:
+  rocky.adj
+  deadend.n
+  hurdle.n
+  stand.v in the way of
+  barricade.n
+  cul-de-sac.n
+  treacherous.adj
+  dead-end.n
+  cul de sac.n
+  barricade.v
+  dead end.n
+Frame_Loose_fit:
+  loosen.v
+  comfortable.a
+  loose.a
+  relaxed.a
+  wide.a
+  baggy.a
+  cushy.a
+Frame_Surface:
+  outward.a
+  covering.n
+  superficial.a
+  exterior.n
+  surface.n
+Frame_Machine:
+  cog.n
+  breakdown.n
+  motor.n
+  apparatus.n
+  repair.v
+  bolt.n
+  malfunction.v
+  machine.n
+  engine.n
+  appliance.n
+  machinery.n
+  hum.v along
+  take.v apart
+  gadget.n
+  device.n
+  run.v smoothly
+  mechanism.n
+  well-oiled.a
+  mechanical.a
+  gear.n
+Frame_Touching:
+  touch.n
+  feel.v
+  feeling.n
+  touch.v
+  tactile.a
+Frame_Diagnosis_of_affliction:
+  full blood panel.n
+  rapid test.n
+  biopsy.n
+  test result.n
+  misdiagnosis.n
+  fMRI.n
+  self-diagnose.v
+  swab.v
+  nose swab.n
+  X-Ray.n
+  platelets.n
+  symptom.n
+  antigen test.n
+  mouth swab.n
+  false negative.n
+  CT-scan.n
+  blood sample.n
+  stool sample.n
+  misdiagnosed.a
+  false positive.n
+  physical.n
+  diagnosis.n
+  red blood cell count.n
+  prognosis.n
+  diagnose.v
+  EKG.n
+  ECG.n
+  white blood cell count.n
+  urine sample.n
+  pathogen test.n
+  hemoglobin.n
+  misdiagnose.v
+  MRI.n
+  stethoscope.n
+  hemocrit.n
+  PAP test.n
+  thermometer.n
+Frame_Bird:
+  egg.n
+  bird.n
+  fledgling.n
+  feather.n
+  talon.n
+  chick.n
+  beak.n
+  full-fledged.a
+  hatch.v
+  wings.n
+Frame_Ideology:
+  ideology.n
+  ideologue.n
+Frame_Climate_emergency:
+  climate change catastrophe.n
+  climate crisis.n
+  code red climate crisis.n
+  code red.n on global warming
+  code red climate report.n
+  global warming code red.n
+  code red climate campaign.n
+  global warming catastrophe.n
+  climate change emergency.n
+  code red.n on climate change
+  climate urgency.n
+  code red.n on climate
+  code red climate.n
+  climate change urgency.n
+  global warming emergency.n
+  climate emergency.n
+  climate catastrophe.n
+  code red climate emergency.n
+Frame_Speech_in_society:
+  voice.n
+  discourse.n
+  expression.n
+  speech.n
+Frame_Sleeping:
+  hibernation.n
+  dozing.a
+  somnolent.a
+  drowse.v
+  dormant.a
+  unconscious.a
+  doze.v
+  slumbering.a
+  sleeping.a
+  snoozing.a
+  shut-eye.n
+  nap.v
+  napping.a
+  unconsciousness.n
+  hibernate.v
+  snooze.v
+  slumber.n
+  asleep.a
+  sleep.n
+  slumber.v
+  nap.n
+  hibernating.a
+  sleep.v
+Frame_Reciprocation:
+  reciprocate.v
+  repay.v
+Frame_Downward_motion:
+  backslide.v
+  flop.v
+  stoop.v low
+  fall.v back into
+  sink.v
+  slide.v
+  parachute.v
+  slip.v
+  sank.v
+  dig.v self deeper
+  decline.n
+  downward spiral.n
+  sag.v
+  topple.v
+  fall.v
+  slump.v
+  spiral.v
+  dip.v
+  slump.n
+  drop.v
+  descend.v
+  fall.v into
+  dive.v
+  slide.n
+  burrow.v
+  plummet.v
+  downswing.n
+  stumble.v
+  descent.n
+  stoop.v
+  decline.v
+  tumble.v
+  plunge.v
+Frame_Dirtiness:
+  unclean.a
+  filthy.a
+  unwashed.a
+  dirty.a
+  stain.n
+  soiled.a
+  stained.a
+  stain.v
+  soil.v
+  filth.n
+Frame_Community:
+  community.n
+Frame_Gain_possession:
+  seize.v
+  obtain.v
+  accumulate.v
+  snatch.v
+  gain.v
+  accumulation.n
+  take.v
+  acquire.v
+  regain.v
+  get.v
+  gain.n
+  acquisition.n
+  receive.v
+Frame_Business:
+  company.n
+  industry.n
+  business.n
+Frame_Access_to_an_object:
+  access.n
+Frame_Destroying:
+  devastation.n
+  havoc.n
+  pulverize.v
+  clobber.v
+  expunge.v
+  dismantle.v
+  level.v
+  obliterate.v
+  crumble.v
+  demolition.n
+  tear.v down
+  raze.v
+  stomp.v out
+  destroy.v
+  destroyer.n
+  stomp.v
+  trash.v
+  collapse.n
+  decimate.v
+  smash.v
+  wipe.v out
+  obliterate.v
+  crush.v
+  devastate.v
+  demolish.v
+  destruction.n
+  bulldoze.v
+  wreck.v
+  ruin.v
+  wrack.v
+  destruct.v
+  erase.v
+  collapse.v
+Frame_Flood:
+  flooded.a
+  flood.v
+  flood.n
+  groundwater flood.n
+  river flood.n
+  pluvial flood.n
+  climate-induced flood.n
+  fluvial flood.n
+  climate change-induced flood.n
+  flash flood.n
+  tidal flooding.n
+  coastal flood.n
+  sewage flood.n
+Frame_Lust:
+  sensual.a
+  lustfulness.n
+  lasciviousness.n
+  lecher.n
+  lecherousness.n
+  lust.v
+  libido.n
+  rapaciousness.n
+  lust.n
+  carnal.a
+  carnality.n
+  sensuality.n
+  lusty.a
+  lascivious.a
+Frame_Badness:
+  awful.a
+  horrible.a
+  terribleness.n
+  awfulness.n
+  worst.a
+  horribleness.n
+  terrible.a
+  badness.n
+  worse.a
+  bad.a
+Frame_Paths_out_of_a_location:
+  pathway.n out
+  drain.n
+  egress.n
+  path.n out
+  off-ramp.n
+  off ramp.n
+  exit ramp.n
+  way.n out
+  exit.n
+  road.n out
+  offramp.n
+  outlet.n
+  vent.n
+Frame_Citizens:
+  citizen.n
+Frame_Hearing:
+  listening.a
+  hear.v
+  listen.v
+  overhear.v
+Frame_Physical_weakness:
+  weakling.n
+  weakness.n
+  weak.a
+  feeble.a
+  sluggish.a
+Frame_Size:
+  large.a
+  big.a
+  little.a
+  miniscule.a
+  size.n
+  tiny.a
+  enormous.a
+  small.a
+  miniature.a
+  huge.a
+  bitty.a
+  teeny.a
+  gigantic.a
+  massive.a
+Frame_Perception:
+  perceive.v
+  sense.v
+  sensory.a
+  sensation.n
+  perception.n
+  perceiver.n
+  sense.n
+Frame_COVID_19:
+  covid.n
+  long COVID.n
+  coronavirus.n
+  COVID alert.n
+  COVID-19.n
+  corona.n
+Frame_Opportunities:
+  chance.n
+  opportunity.n
+  opportunities.n
+Frame_Harm:
+  harmful.a
+  damage.v
+  harm.v
+  damage.n
+  harm.n
+Frame_Aids_to_downward_motion:
+  trapdoor.n
+  slope.n
+  trap door.n
+  slope.v
+  slippery.a slope.n
+  slide.n
+  greased.a pole.n
+  chute.n
+Frame_Path_verbs:
+  advance.v
+  descend.v
+  escape.v
+  plummet.v
+  topple.v
+  ascend.v
+  come.v
+  burrow.v
+  hike.v
+  ford.v
+  run away.v
+  climb.v
+  repair.v
+  slant.v
+  skyrocket.v
+  cut.v
+  flee.v
+  fall.v
+  return.v
+  exit.v
+  charge.v
+  depart.v
+  edge.v
+  recede.v
+  dip.v
+  arrive.v
+  back.v
+  plunge.v
+  cross.v
+  desert.v
+  drop.v
+  angle.v
+  flop.v
+  tumble.v
+  rise.v
+  make a beeline.v
+  head.v
+  abandon.v
+  enter.v
+  leave.v
+Frame_Weed:
+  weed.n
+  vine.n
+Frame_Neighbor:
+  neighbor.n
+  next-door neighbor.n
+Frame_Sustainability:
+  sustainability.n
+  maintainable.a
+  viability.a
+  renewability.n
+  viable.a
+  renewable.a
+  future-friendly.a
+  sustain.v
+  sustainable.a
+Frame_Argument:
+  claim.n
+  point.n
+  argument.n
+  debate.v
+  debate.n
+  criticism.n
+Frame_Drugs:
+  narcotic.a
+  narcotic.n
+  alcohol.n
+  ketamine.n
+  marijuana.n
+  salvia.n
+  coke.n
+  methamphetamine.n
+  pcp.n
+  cocaine.n
+  lsd.n
+  mescaline.n
+  psilocybin.n
+  pot.n
+  heroin.n
+  mdma.n
+  meth.n
+  ecstasy.n
+Frame_Heat:
+  overheat.v
+  heat up.v
+  heat.v
+  hotness.n
+  hot.a
+  heat.n
+Frame_Disease_treatment:
+  pharmaceuticals.n
+  immunize.v
+  palliative.n
+  treatment protocol.n
+  antiparasitic.n
+  antifungal.a
+  Mucoactive agent.n
+  drug.n
+  intubation.n
+  disease treatment.n
+  antifungal.n
+  antibiotic.n
+  pharmaceutical intervention.n
+  expectorant.n
+  homeopathy.n
+  treatment.n
+  immunization.n
+  antiviral.n
+  patient.n
+  syringe.n
+  palliate.v
+  holistic treatment.n
+  antibiotic.a
+  cough medicine.n
+  antifungal.n
+  antihistamine.n
+  inoculation.n
+  inoculate.v
+  treatment plan.n
+  antiparasitic.a
+Frame_Awakening:
+  arise.v
+  awake.a
+  wake-up.n
+  awakened.a
+  rouse.v
+  awoke.v
+  wakeful.a
+  alert.a
+  wake.v
+  arouse.v
+  wakefulness.n
+  awaken.v
+  wake.v up
+Frame_Democracy:
+  democracy.n
+  democratic.a
+Frame_Safety:
+  safety.n
+  safe.a
+  safeness.n
+Frame_Trust_relationship:
+  trust.v
+  trustworthy.a
+  trust.n
+  count.v on
+  trustworthiness.n
+  trusting.a
+Frame_Change_of_state:
+  modify.v
+  revise.v
+  modification.n
+  change.v
+  change.n
+  transform.v
+  revision.n
+  transformation.n
+Frame_Crafting:
+  craft.v
+  form.v
+  articulate.v
+Frame_Component_of_building:
+  false front.n
+  brick.n
+  building block.n
+  ceiling.n
+  veneer.n
+  roof.n
+  facade.n
+Frame_Physical_attributes:
+  mass.n
+  length.n
+  size.n
+  shape.n
+  color.n
+  width.n
+Frame_Being_at_a_low_location:
+  bottom percent.n
+  bottom of the totem pole.n
+  bottom.n
+  depths.n
+  rock-bottom.adj
+  depth.n
+  live.v below.prep
+  bottom.v
+  bottom of the heap.n
+  lower.a
+  lower.v
+  abysmal.adj
+  down.prep
+  lowest.a
+  be.v under.prep
+  the pits.n
+  rock bottom.n
+  low.a
+Frame_Instrument:
+  instrument.n
+  gear.n
+  tool.n
+  equipment.n
+  contrivance.n
+  utensil.n
+Frame_Freedom:
+  independence.n
+  liberated.a
+  free.v
+  free.a
+  freedom.n
+  liberation.n
+  independent.a
+  liberty.n
+Frame_Greed:
+  greed.n
+  avaricious.a
+  avarice.n
+  avariciousness.n
+  greedy.a
+Frame_Meaning:
+  meaningfulness.n
+  meaning.n
+  significance.n
+  meaningful.a
+  significant.a
+Frame_Natural_disaster:
+  cataclysm.n
+  Inter-Tropical Convergence Zone.n
+  natural disaster preparedness.n
+  natural disaster.n
+  natural disaster death toll.n
+  abiotic stress.n
+  natural disaster prevention.n
+  natural disaster mortality rate.n
+  natural disaster prediction.n
+  sinkhole.n
+  natural hazard.n
+Frame_Ticket:
+  ticket.n
+  entry card.n
+  exit visa.n
+  free pass.n
+  passport.n
+  license.n
+  visa.n
+  pass.n
+Frame_Organizational_leadership:
+  executive.n
+  C.E.O.n
+  supervisor.n
+  CEO.n
+  chairman.n
+  chief executive officer.n
+  director.n
+  president.n
+Frame_Cleanliness:
+  clean.a
+  spotless.a
+  cleansed.a
+  cleanliness.n
+Frame_Curriculum:
+  class content.n
+  curricular.a
+  curriculum.n
+  curricula.n
+Frame_Anti_vaccination_ideology:
+  vaccine conspiracy.n
+  anti-vaccination.n
+  anti-vaxxer.n
+  vaccine discrimination.n
+Frame_Center_periphery:
+  periphery.n
+  core.n
+  peripheral.a
+  center.n
+  centre.n
+  central.a
+  centre.v
+  center.v
+Frame_Motion_affecting_external_factors:
+  obstacle.n
+Frame_Family:
+  child.n
+  uncle.n
+  father.n
+  mother.n
+  aunt.n
+  cousin.n
+  children.n
+  brother.n
+  sibling.n
+  son.n
+  sister.n
+  household.n
+  family.n
+  daughter.n
+  nephew.n
+  niece.n
+  parent.n
+Frame_Deforestation:
+  final felling.n
+  clearcutting.n
+  TDH.n
+  deforestation.n
+  Target diameter harvesting.n
+Frame_Theory:
+  paradigm.n
+  hypothesis.n
+  theorizing.n
+  proposal.n
+  presupposition.n
+  postulate.n
+  theory.n
+  proposition.n
+  axiom.n
+  conjecture.n
+  premise.n
+  supposition.n
+  theorize.v
+  hypothesize.v
+  theorem.n
+Frame_Clearness:
+  clear.a
+  unclouded.a
+  transparency.n
+  transparent.a
+  clarity.a
+  crystal-clear.a
+Frame_Open:
+  agape.a
+  openness.n
+  gaping.a
+  opening.n
+  open.v
+  open.a
+  ajar.a
+  unlock.v
+  gape.v
+Frame_Trash:
+  castoff.n
+  solid.a waste.n
+  garbage.n
+  waste.n
+  detritus.n
+  rubbish.n
+  trash.n
+  scrap heap.n
+  debris.n
+  junk.n
+  landfill.n
+  litter.n
+  waste material.n
+  litter.v
+Frame_Law:
+  law.n
+  statute.n
+Frame_Light_source:
+  candle.n
+  sunshine.n
+  sunbeam.n
+  shine.n
+  beam.v
+  illuminate.v
+  glimmer.v
+  sun.n
+  light.n
+  floodlight.n
+  spotlight.n
+  torch.n
+  beaming.a
+  illumination.n
+  aurora.n
+  beacon.n
+  bonfire.n
+  flicker.n
+  lamp.n
+  glowing.a
+  flash.n
+  flashlight.n
+  glow.n
+  fire.n
+  glimmering.a
+  flame.n
+  flare.n
+  lantern.n
+  gleaming.a
+  gleam.n
+  glimmer.n
+  lighthouse.n
+  flicker.v
+  flickering.a
+Frame_Knowledge:
+  knowledge.n
+Frame_Resource:
+  reserve.n
+  capital.n
+  resource.n
+  asset.n
+Frame_Caring:
+  care.v
+  care.v for
+  caring.a
+Frame_COVID_19_virus:
+  COVID-19 variants.n
+  B.1.617
+  B.1.351
+  P.1.n
+  Delta.n
+  spike protein.n
+  COVID-19 protein.n
+  viral variant.n
+  Omnicron.n
+  B.1.1.529
+  B.1.1.7
+  Chinese virus.n
+  cytokine release syndrome.n
+  Gamma.n
+  Beta.n
+  Alpha.n
+  COVID-19.n
+  SARS CoV 2.n
+Frame_Theft:
+  embezzler.n
+  thief.n
+  steal.v
+  pillage.v
+  thievery.n
+  robbery.n
+  kleptomaniac.n
+  pilfer.v
+  bandit.n
+  extort.v
+  extortion.n
+  pirate.v
+  shoplifter.n
+  seizure of property.n
+  mugger.n
+  burglary.n
+  swindler.n
+  pilferer.n
+  larceny.n
+  thieve.v
+  stolen.v
+  hijack.v
+  stealer.n
+  embezzlement.n
+  mugging.n
+  embezzle.v
+  mug.v
+  pickpocket.n
+  burglar.n
+  larcenist.n
+  burgle.v
+  swindle.v
+  piracy.n
+  heist.n
+  robber.n
+  pickpocket.v
+  shoplift.v
+  compulsory seizure of property.n
+  shakedown.n
+  theft.n
+  daylight robbery.n
+  hijacker.n
+  rob.v
+  stolen.adj
+Frame_Commodity:
+  commodity.n
+Frame_Lightness:
+  lighted.a
+  dazzling.a
+  brilliance.n
+  lighten.v
+  glaring.a
+  brightness.n
+  luminous.a
+  sunny.a
+  glare.n
+  well-lit.a
+  brighten.v
+  lightness.n
+  illuminated.a
+  brilliant.a
+  bright.a
+Frame_Liquid:
+  fluid.n
+  watery.a
+  water.n
+  liquid.n
+Frame_Misfortune:
+  accident.n
+  fubar.v
+  disaster.n
+  calamity.n
+  misadventure.n
+  fluke.n
+  setback.n
+  catastrophe.n
+  misfortune.n
+  mishap.n
+Frame_Fixing:
+  fixing.n
+  fix.v
+  revamp.v
+  fix.n
+  stitch.v up
+  overhaul.v
+  glue.v
+  mend.v
+  repairing.n
+  repair.n
+  repair.v
+Frame_Plants:
+  leaf.n
+  leaves.n
+  tree.n
+  green.a
+  fruit.v
+  grow.v
+  grassroots.n
+  wilt.v
+  plant.n
+  stem.n
+  plant.v
+  grassroots.a
+  root.n
+  fruit.n
+  tendril.n
+  vine.n
+  seed.n
+Frame_Fluid_constructed_container:
+  teapot.n
+  decanter.n
+  tea pot.n
+  glass.n
+  cask.n
+  pitcher.n
+  coffee pot.n
+  flask.n
+  thermos.n
+  cup.n
+  samovar.n
+  kettle.n
+  mug.n
+  keg.n
+  goblet.n
+  jar.n
+  carafe.n
+  stein.n
+  bottle.n
+Frame_Fossil_fuel:
+  hydrofracturing.n
+  gasoline.n
+  fossil fuel extraction.n
+  blue hydrogen.n
+  induced hydraulic fracture.n
+  hydrofracking.n
+  petroleum.n
+  fracking.n
+  coal.n
+  fracking proppant.n
+  petrochemical.n
+  hydraulic fracturing.n
+  grey hydrogen.n
+  fluorinated gas.n
+  natural gas.n
+Frame_Climate_change_consequences:
+  climate-induced disaster.n
+  ocean acidification.n
+  global warming disaster.n
+  climate-induced water scarcity.n
+  climate consequence.n
+  climate-driven water insecurity.n
+  coral bleaching.n
+  global warming consequence.n
+  climate change consequence.n
+  climate-driven food insecurity.n
+  climatological disaster.n
+  climate-related disaster.n
+  climate change-related disasters.n
+  climate change disaster.n
+  climate disaster.n
+Frame_Backward_motion:
+  return.v
+  move.v back
+  recede.v
+  retreat.v
+  fall.v back
+  cut.v back
+  repair.v
+  pull.v back
+  backward movement.n
+  back.v
+Frame_Resource_container:
+  basket.n
+  lockbox.n
+  pocketbook.n
+  billfold.n
+  wallet.n
+  trainload.n
+  carload.n
+  barrel.n
+  boatload.n
+  piggybank.n
+  handbag.n
+  cup.n
+  purse.n
+  truckload.n
+  pocket.n
+  coffer.n
+  backpack.n
+  piggy.a bank.n
+  treasure.n chest.n
+  knapsack.n
+  ark.n
+  vault.n
+  coin.n purse.n
+  casket.n
+  sack.n
+  bucket.n
+  shipload.n
+  moneybag.n
+Frame_School:
+  graduation requirement.n
+  exam.n
+  teachers.n
+  teacher.n
+  homework.n
+  school.n
+  student.n
+  students.n
+Frame_Disseminating_climate_change_information:
+  climate fiction.n
+  rhetoric.n of climate
+  rhetoric.n of global warming
+  visual rhetoric.n of climate change
+  climate propaganda.n
+  climate change poster.n
+  climate poetry.n
+  climate change rhetoric.n
+  global warming art.n
+  climage change propaganda.n
+  climate change fiction.n
+  climate change dialogue.n
+  climate communication.n
+  anti-climate propaganda.n
+  anti-climate change propaganda.n
+  global warming discourse.n
+  global warming poem.n
+  global warming poster.n
+  climate dialogue.n
+  climate discourse.n
+  climate art.n
+  climate change art.n
+  cli-fi.n
+  climate change documentary.n
+  rhetoric.n of climate change
+  climate rhetoric.n
+  global warming communication.n
+  climate poster.n
+  global warming rhetoric.n
+  global warming dialogue.n
+  global warming propaganda.n
+  climate politics.n
+  climate change discourse.n
+  climate documentary.n
+  anti-global warming propaganda.n
+  climate change communication.n
+  global warming documentary.n
+  climate change poetry.n
+  visual rhetoric.n of global warming
+  climate change poem.n
+  climate change politics.n
+Frame_Surgery:
+  bypass.n
+  suture.n
+  operate.v
+  endoscopic surgery.n
+  operation.n
+  curettege.n
+  emergency surgery.n
+  elective surgery.n
+  muscle.n
+  cosmetic surgery.n
+  organ.n
+  surgical team.n
+  surgical nurse.n
+  open surgery.n
+  incision.n
+  paediatric surgery.n
+  surgical transplant.n
+  neurosurgery.n
+  paediatric surgeon.n
+  surgical assistant.n
+  exploratory surgery.n
+  surgical reconstruction.n
+  vascular surgery.n
+  grafting.v
+  ligation.n
+  ligature.n
+  amputate.v
+  semi-elective surgery.n
+  vein.n
+  debridement.n
+  amputation.n
+  cardiac surgery.n
+  orthopedic surgery.n
+  scalpel.n
+  surgical procedure.n
+  graft.v
+  laproscopic surgery.n
+  segmental resection.n
+  tissue.n
+  oral and maxillofacial surgery.n
+  arthrodesis.n
+  dissect.v
+  triple-bypass.n
+  urological surgery.n
+  thoracic surgery.n
+  electrosurgery.n
+  laparotomy.n
+  cryosurgery.n
+  transplant.n
+  fissure.n
+  surgical instruments.n
+  minimally invasive surgery.n
+  perfusionist.n
+  scrub nurse.n
+  surgical implantation.n
+  surgeon.n
+  anesthetize.v
+  cardiac surgeon.n
+  surgical extirpation.n
+  anesthetic.n
+  microsurgery.n
+  anesthesiologist.n
+  surgery.n
+  operating theater.n
+  gastric bypass.n
+  chief surgeon.n
+  laser surgery.n
+  gastrointestinal surgery.n
+  dllation.n
+  debride.v
+  nerve.n
+Frame_Agriculture:
+  farm.n
+  farm.v
+Frame_Motion_along_a_path:
+  slide.v
+  speed.v
+  inch.v
+  sweep.v
+  creep.v
+  go.v
+Frame_Clear_paths_to_accessing_a_location:
+  unhinder.v
+  unhindered.a
+  clear.v the area
+  vacate.v
+  unblocked.a
+  make.v way
+  unobstructed.a
+  clear.v the way
+Frame_Income:
+  compensate.v
+  compensation.n
+  minimum wage.n
+  wages.n
+  pay.n
+  earn.v
+  salary.n
+  wage.n
+  income.n
+  earnings.n
+  payment.n
+Frame_Separation:
+  split.n
+  segregate.v
+  segregation.n
+  section.v
+  sever.v
+  split.v
+  partition.n
+  separation.n
+  division.n
+  separate.v
+  segment.v
+  partition.v
+  divide.v
+Frame_Guided_motion:
+  guide.v
+  file.v
+  guide.n
+  misguide.v
+  trail.v
+  leader.n
+  track.v
+  lead.v
+  follower.n
+  follow.v
+Frame_Magic:
+  witch.n
+  hocuspocus.n
+  magical.a
+  cast.v spell.n
+  charm.n
+  hex.n
+  fetish.n
+  supernatural.a
+  magical.a object.n
+  amulet.n
+  enchant.v
+  totemic.a
+  cast.v a spell.n
+  hoodoo.n
+  talisman.n
+  voodoo.n
+  wand.n
+  magician.n
+  mystical.a
+  wizard.n
+  wizardly.a
+  conjure.v
+  wizardry.n
+  magical.a spell.n
+  conjurer.n
+  witchcraft.n
+  totem.n
+  alchemy.n
+  sleight of hand.a
+  sorcery.n
+  hex.v
+  bewitch.v
+  magic.n
+  sorcerer.n
+Frame_Addiction:
+  addiction.n
+  hooked.a
+  addict.n
+  addict.v
+Frame_Back:
+  behind.prep
+  backward.a
+  back.a
+  back.n
+  rearward.a
+  behind.adv
+  backwards.a
+Frame_Vaccine:
+  booster shot.n
+  vaccine series.n
+  vaccination plan.n
+  undesirable effect.n
+  partially vaccinated.n
+  vaccinated.a
+  immune.a
+  vaccine.n
+  unvaccinated.a
+  vaccinate.v
+  immunization.n
+  booster.n
+  collective immunity.n
+  vaccine bank.n
+  fully vaccinated.n
+  herd immunity.n
+  vaccination status.n
+  vaccine campaign.n
+  collective immunity.n
+Frame_Shopping:
+  bargain hunter.n
+  purchase.v
+  shopper.n
+  purchase.n
+  customer.n
+  shopping.n
+  bargain-hunter.n
+  shop.v
+  purchaser.n
+  buy.v
+  consumer.n
+  window-shopper.n
+  patron.n
+  buyer.n
+  window-shop.v
+Frame_Natural:
+  nature.n
+  natural.a
+  naturalness.n
+  untouched.a
+Frame_Steering_a_boat:
+  pilot.v
+  helm.v
+  captain.v
+Frame_Wearable_disguises:
+  veil.n
+  disguise.n
+  sheepskin.n
+  cloak.n
+  ["sheep's skin.n"]
+  camouflage.n
+  mask.n
+  ["sheep's clothing.n"]
+  camouflage.v
+  shroud.n
+  veil.v
+  cloak.v
+  disguise.v
+  shroud.v
+Frame_Representation_and_decision_making:
+  representative.n
+  represent.v
+  representation.n
+Frame_Concentration:
+  diffuse.v
+  density.n
+  de-concentrate.v
+  concentrated.a
+  concentrate.v
+  deconcentration.n
+  diffuse.a
+  concentration.n
+  diffusion.n
+  deconcentrate.v
+  de-concentration.n
+Frame_Gun_rights:
+  gun.n freedom.n
+  firearm.n freedom.n
+  right.n to bear arms
+  right.n to keep and bear arms
+  right.n to own gun.n
+  right.n to own firearm.n
+  private property right.n
+  firearm.n right.n
+  right.n to bear firearm.n
+  gun.n right.n
+Frame_Destructive_natural_process:
+  disintegrate.v
+  deterioration.n
+  deteriorate.v
+Frame_Discovery:
+  newfound.a
+  finding.n
+  discovery.n
+  discover.v
+  stumble.v across
+  unearth.v
+  find.v
+  encounter.v
+  find.n
+Frame_Existence:
+  be.v
+  is.v
+  exist.v
+  existence.n
+Frame_Peacefulness:
+  untroubled.a
+  peacefulness.n
+  soothe.v
+  laid-back.a
+  tranquility.n
+  unanxious.a
+  relax.v
+  calm.a
+  serene.a
+  unworried.a
+  placidity.n
+  unperturbed.a
+  placid.a
+  calmness.n
+  relaxing.a
+  soothing.a
+  easygoing.a
+  peace of mind.n
+  relaxed.a
+  unfazed.a
+  tranquil.a
+  relaxation.n
+  peaceful.a
+  carefree.a
+  serenity.n
+  placidness.n
+  calm.n
+  unbothered.a
+Frame_Police:
+  law enforcement.n
+  patrol.n
+  patrol.v
+  police.v
+  police.n
+  policeman.n
+Frame_Tsunami:
+  tsunami.n
+  teletsunami.n
+  local tsunami.n
+  ocean-wide tsunami.n
+  regional tsunami.n
+  tidal wave.n
+  distant tsunami.n
+Frame_Ecologically_viable_energy_source:
+  hydroelectricity.n
+  kinetic energy.n
+  renewable resource.n
+  alternative energy.n
+  eFuel.n
+  energy renewal.n
+  eco-resource.n
+  solar power.n
+  ecoenergy.n
+  hydropower.n
+  ecoresource.n
+  green hydrogen.n
+  wind energy.n
+  liquid biofuel.n
+  eco-energy.n
+  solar panel.n
+  geothermal power.n
+  photovoltaic panel.n
+  ecofuel.n
+  green energy.n
+  sustainable resource.n
+  solid biomass.n
+  ocean energy.n
+  wind turbine.n
+  electrofuel.n
+  thermochemical technology.n
+  eco-fuel.n
+  renewable energy.n
+  hydroelectric.a
+  sustainable energy.n
+  thermal energy.n
+  hydroelectric.n
+  sustainable energy resource.n
+  e-Fuel.n
+  renewable natural gas.n
+  fuel switching.n
+  green resource.n
+  solar technology.n
+  hydroelectric turbine.n
+  energy sustainability.n
+Frame_Career:
+  profession.n
+  gig.n
+  livelihood.n
+  job.n
+  occupation.n
+  career.n
+  vocation.n
+Frame_Pro_vaccination_ideology:
+  vaccine trust.n
+  pro-vaccination.a
+  vaccine nationalism.n
+Frame_Sadness:
+  unhappiness.n
+  woe.n
+  doleful.a
+  dolefulness.n
+  sorrowfulness.n
+  sadden.v
+  sad.a
+  glum.a
+  sadness.n
+  forlorn.a
+  woebegone.a
+  unhappy.a
+  mournful.n
+  sorrowful.a
+  sorrow.n
+Frame_Communication:
+  tell.v
+  communicate.v
+  communication.n
+  inform.v
+Frame_Insensitive:
+  insensitivity.n
+  hard as nails.a
+  insensitive.a
+  unfeeling.a
+  insensitiveness.n
+  unsusceptibility.n
+  thick-skinned.a
+  unsusceptible.a
+  hard-boiled.a
+Frame_Extinction:
+  last-chance tourism.n
+  endangered.a
+  extinct species.n
+  human extinction.n
+  endangered wildlife.n
+  extinct.n
+  adaptation.n
+  endangered species.n
+  sixth extinction.n
+Frame_Injurious_gun_use:
+  gun.n death.n
+  gun.n violence.n
+Frame_Cleaning:
+  vacuum.v
+  cleanse.v
+  clean.v
+  mop.v
+  wash.v
+Frame_Being_at_a_location:
+  setting.n
+  neighborhood.n
+  place.n
+  locale.n
+  location.n
+  dwell.v
+  site.n
+  be.v placed
+  area.n
+  locate.v
+  linger.v
+  region.n
+Frame_Judicial_decision_making:
+  acquit.v
+  rule.v
+  overturn.v
+  convict.v
+  uphold.v
+Frame_Gun_control_advocacy:
+  anti-gun ideology.n
+  gun control doctrine.n
+  gun control politics.n
+  anti gun lobby.n
+  anti gun lobbying.n
+  anti gun movement.n
+  anti-gun doctrine.n
+  antigun doctrine.n
+  anti gun ideology.n
+  gun control effort.n
+  anti gun sentiment.n
+  antigun sentiment.n
+  gun control lobby.n
+  anti-gun movement.n
+  gun-control effort.n
+  gun control movement.n
+  anti-gun lobby.n
+  antigun ideology.n
+  gun-control politics.n
+  anti-gun lobbying.n
+  gun control sentiment.n
+  gun-control sentiment.n
+  gun-control doctrine.n
+  anti gun doctrine.n
+  gun-control lobby.n
+  anti-gun sentiment.n
+Frame_Demonstrative_words:
+  that.p
+  this.p
+  those.p
+  these.p
+Frame_Life:
+  life.n
+Frame_Forced_motion:
+  sway.v
+  tow.v
+  blow.v
+  tow.n
+  drive.v
+  drag.v
+  swing.v
+  draw.v
+  whisk.v away
+  tug.n
+  punt.v
+  yank.v
+  push.v into
+  tug.v
+  pull.v
+Frame_Quality_of_landscape:
+  quicksand.n
+  rocky terrain.n
+  stumbling block.n
+  morass.n
+  treacherous.adj
+  rocky.adj
+  rocky road.n
+  rocky path.n
+Frame_Negotiation:
+  mediate.v
+  arbitrator.n
+  negotiator.n
+  negotiation.n
+  mediation.n
+  negotiate.v
+  arbiter.v
+Frame_Wealthy_people:
+  affluent.n
+  the affluent.n
+  the rich.n
+  the super rich.n
+  top 1 percent.n
+  multi-millionaire.n
+  elite.n
+  top one%.n
+  the fat cats.n
+  top one %.n
+  top one percent.n
+  billionaire.n
+  rich.n
+  the ultra rich.n
+  multi-billionaire.n
+  the super-rich.n
+  magnate.n
+  the 1 percent.n
+  well-off.a
+  wealthy.n
+  tycoon.n
+  the ultra-rich.n
+  the ultra-wealthy.n
+  the very rich.n
+  the 1%.n
+  the wealthy.n
+  the elite.n
+  the mega wealthy.n
+  the extremely well off.n
+  the mega-wealthy.n
+  millionaire.n
+  the well-off.n
+  top 1 %.n
+  fat cat.n
+  the ultra wealthy.n
+  the extremely wealthy.n
+  the one percent.n
+  upper crust.a
+Frame_Weapons_handling:
+  open.v fire.n
+  aim.v
+  fire.v
+  shoot.v
+  pull.v the trigger.n
+  blast.v
+  launch.v
+  discharge.v
+  trigger.v
+  torpedo.v
+  set.v off
+Frame_Portals:
+  threshold.n
+  window.n
+  doorway.n
+  gate.n
+  entryway.n
+  portal.n
+  gateway.n
+  door.n
+Frame_Gun_rights_advocacy:
+  pro-gun movement.n
+  gun proponent.n
+  gun-rights lobby.n
+  gun right.n movement.n
+  S.C.O.P.E .n
+  gun-rights advocacy.n
+  pro-gun lobby.n
+  gun lobby.n
+  gun rights advocacy.n
+  gun advocacy.n
+  the gun lobby.n
+Frame_Speaking:
+  voice.v
+  voice.n
+  speak.v
+  address.v
+Frame_Confront:
+  confrontation.n
+  face-to-face.v
+  face.v
+  confront.v
+Frame_Pride:
+  pride.n
+  self esteem.n
+  self confidence.n
+  confidence.n
+  dignity.n
+  confident.a
+  proud.a
+Frame_Energy:
+  electricity.n
+  wattage.n
+  supercharged.a
+  dynamo.n
+  fuel.n
+  electrical.a
+  recharge.v
+  electric.a
+  live wire.n
+  voltage.n
+  powerhouse.n
+  energize.v
+  recharged.a
+  supercharge.v
+  refuel.v
+  electrify.v
+  voltaic.a
+  amp.v up
+  power.a plant.n
+  spark plug.n
+  electrifying.a
+  energy.n
+  fuel.v
+Frame_Society:
+  societal.a
+  society.n
+  social.a
+Frame_Neutral_motion_verbs:
+  move.v
+  go.v
+Frame_Disorderly_group:
+  gang.n
+  mob.n
+  rabble.n
+  posse.n
+Frame_Corruption:
+  corrupt.a
+  corruption.n
+  corrupt.v
+Frame_Building_subparts:
+  hallway.n
+  attic.n
+  entry hall.n
+  powder room.n
+  parlor.n
+  stairway.n
+  boudoir.n
+  foyer.n
+  dining room.n
+  basement.n
+  hall.n
+  studio.n
+  bedroom.n
+  laundry room.n
+  workroom.n
+  closet.n
+  bathroom.n
+  lobby.n
+  play room.n
+  family room.n
+  room.n
+  wine cellar.n
+  kitchen.n
+  living room.n
+  den.n
+  salon.n
+  pantry.n
+Frame_Earthquake:
+  earthquake swarm.n
+  tectonic earthquake.n
+  S-wave.n
+  convergent plate boundary.n
+  fault line.n
+  seismic wave.n
+  seismic activity.n
+  volcanic earthquake.n
+  interplate earthquake.n
+  induced seismicity.n
+  supershear earthquake.n
+  slow earthquake.n
+  Wadatti-Beniof Zone.n
+  plate tectonic force.n
+  earthquake aftershock.n
+  divergent plate boundary.n
+  aftershock.n
+  P-wave.n
+  earthquake.n
+  seismic wave arrival.n
+Frame_Darkness:
+  cloud.v over
+  unlit.a
+  blackness.n
+  twilight.n
+  darken.v
+  gloom.n
+  shady.a
+  moonless.a
+  darkness.n
+  wane.v
+  dim.v
+  pitch-black.a
+  caliginous.a
+  dark cloud.n
+  dusk.n
+  fade.v
+  pall.n
+  darkened.a
+  dim.a
+  pitch-dark.a
+  shade.v
+  gloomy.a
+  faded.a
+  shadow.n
+  starless.a
+  dark.a
+  inky.a
+  dark day.n
+  cloud.n
+  sunless.a
+  overcast.a
+Frame_Meal:
+  dessert.n
+  high tea.n
+  luncheon.n
+  morning tea.n
+  elevenses.n
+  supper.n
+  lunch.n
+  afternoon tea.n
+  coffee break.n
+  snack.n
+  meal.n
+  breakfast.n
+  brunch.n
+  teatime.n
+  midnight snack.n
+  dinner.n
+  late-night snack.n
+Frame_Cancer_patient:
+  cancer victim.n
+  cancer survivor.n
+  cancer patient.n
+Frame_Firm:
+  denseness.n
+  hardness.n
+  compact.a
+  stiff.a
+  rigidity.n
+  solid.a
+  firmness.n
+  hardened.a
+  inflexibility.a
+  firm.a
+  rigid.a
+  stiffness.n
+  staunch.a
+  solidity.n
+  unyielding.a
+  dense.a
+  staunchness.n
+  inflexible.a
+  hard.a
+Frame_Constructed_restraints:
+  tether.v
+  snare.v
+  yoke.v
+  pitfall.n
+  trap.n
+  handcuffs.n
+  leash.n
+  hogtie.v
+  ball-and-chain.n
+  chain.n
+  bridle.n
+  hobble.v
+  unfetter.v
+  handcuff.n
+  tether.n
+  manacle.v
+  fetter.v
+  fetter.n
+  yoke.n
+  vice grip.n
+  tie.v down
+  manacle.n
+  entrap.v
+  fetters.v
+  ensnare.v
+  unfettered.a
+  shackle.v
+  shackle.n
+  unleash.v
+  trap.v
+  leash.v
+  untether.v
+  snare.n
+  ball and chain.n
+  unbridle.v
+  hobble.n
+  bear trap.n
+  tie.v up
+  handcuff.v
+  tie.v
+  vise.n
+Frame_Climate_advocacy:
+  global warming activist.n
+  climate change demonstration.n
+  climate change march.n
+  climate activist.n
+  climate change billboard.n
+  climate justice.n
+  climate change activist.n
+  climate activism.n
+  climate demonstration.n
+  climate change activism.n
+  climate billboard.n
+  global warming graffiti.n
+  global warming demonstration.n
+  Greenpeace.n
+  Extinction Rebellion.n
+  global warming billboard.n
+  environmental activism.n
+  climate change protest.n
+  Greta Thunberg.n
+  Environmental Defense Fund.n
+  Earthjustice.n
+  climate demand.n
+  environmental activist.n
+  climate graffiti.n
+  climate movement.n
+  Rainforest Alliance.n
+  global warming activism.n
+  climate march.n
+  climate change graffiti.n
+  climate protest.n
+  climate change movement.n
+Frame_Color:
+  purple.a
+  colourful.a
+  blue.a
+  color.n
+  magenta.a
+  orange.a
+  colour.v
+  grey.a
+  brown.a
+  red.a
+  color.v
+  black.a
+  beige.a
+  colour.n
+  pink.a
+  white.a
+  gray.a
+  crimson.a
+  yellow.a
+  colorful.a
+  green.a
+Frame_Diplomacy:
+  diplomatic.a
+  diplomat.n
+  diplomacy.n
+  liaison.n
+  negotiation.n
+Frame_Economy:
+  economy.n
+  economic.a
+Frame_Vertical_position:
+  level.n
+  tier.n
+  layer.n
+  strata.n
+  stratum.n
+  rung.n
+Frame_Weight:
+  weight.n
+Frame_Gambling:
+  high-stakes bet.n
+  gamble.v
+  deal.v
+  craps.n
+  jackpot.n
+  bet.n
+  crapshoot.n
+  high-stakes.a
+  poker.n
+  poker game.n
+  ante.v
+  bet.v
+  gambling.n
+  betting.n
+  card.n
+  chip.n
+  roulette.n
+Frame_Containing:
+  contain.v
+  containable.a
+  contained.a
+  uncontainable.a
+Frame_Ingestion:
+  swallow.n
+  imbibe.v
+  quaff.v
+  gulp.n
+  ingest.v
+  gulp.v
+  slurp.v
+  sip.v
+  slurp.n
+  quaff.n
+  swig.v
+  ingestion.n
+  sip.n
+  drink.v
+  guzzle.v
+  lap.v up
+  swallow.v
+  swig.n
+Frame_Inexpensive:
+  cheapo.a
+  low-budget.a
+  uncostly.a
+  cut-rate.a
+  underpriced.a
+  affordable.a
+  good value.a
+  bargain-basement.a
+  low-priced.a
+  economical.a
+  budget.n
+  marked down.a
+  low-cost.a
+  cheap.a
+  bargain.n
+  sale-priced.a
+  inexpensive.a
+Frame_Purity:
+  undiluted.a
+  purity.n
+  pristine.a
+  untainted.a
+  unadulterated.a
+  pure.a
+Frame_Voting_rights:
+  voter.n eligibility
+  franchise.n
+  enfranchisement.n
+  enfranchise.v
+  suffrage.n
+  disenfranchisement.n
+  disenfranchise.v
+  right.n to vote
+  voting rights.n
+Frame_Goodness:
+  good.a
+  better.a
+  best.a
+  goodness.n
+  great.a
+Frame_Enablement:
+  enablement.n
+  enabling.adj
+  enable.v
+Frame_Environmental_deregulation:
+  rescinded environmental regulation.n
+  climate deregulation.n
+  environmental deregulation.n
+Frame_Grief:
+  woeful.adj
+  woe.n
+  broken-hearted.adj
+  heartache.n
+  distress.n
+  bereaved.adj
+  pining.v
+  doleful.n
+  despair.n
+  heartbreak.n
+  despondency.n
+  sorrowful.adj
+  misery.n
+  grief.n
+  anguish.n
+  dejected.adj
+  pine.v
+  suffer.v
+  bereavement.n
+  grieving.v
+  dejection.n
+  despondent.adj
+  lamenting.v
+  sadness.n
+  sorrow.n
+  broken-heartedness.n
+  mourn.n
+Frame_Genuine:
+  genuineness.n
+  real.a
+  authenticity.n
+  genuine.a
+  true.a
+  authentic.a
+  bona fide.a
+Frame_Social_obligation:
+  obligation.n
+Frame_Fire:
+  fan.v the flame.n
+  ember.n
+  burn.v to the ground.n
+  fire.n
+  kindling.n
+  light.v
+  relight.v
+  smoldering.a
+  stoke.v
+  incinerate.v
+  smolder.v
+  burn.v
+  inextinguishable.a
+  reignite.v
+  blazing.a
+  combustible.a
+  kindle.v
+  fireball.n
+  burn.v up
+  combustion.n
+  fiery.a
+  firestorm.n
+  pyre.n
+  ignite.v
+  spark.n
+  burning.a
+  set.v on fire
+  campfire.n
+  incendiary.a
+  char.v
+  rekindle.v
+  blaze.v
+  re-ignite.v
+  inferno.n
+  bonfire.n
+  flame.n
+  smouldering.a
+  flaming.a
+  firewood.n
+  conflagration.n
+  wildfire.n
+  aflame.a
+  ablaze.a
+  afire.a
+  scorch.v
+  spark.v
+  blaze.n
+  smoulder.v
+  combust.v
+Frame_Well_being:
+  well-being.n
+Frame_Thirst:
+  thirst.n
+  thirsty.a
+  cottonmouthed.a
+  parched.a
+  thirsting.a
+  dehydrated.a
+  thirst.v
+Frame_Secret:
+  secret.n
+  covert.a
+  sneak.v
+  undercover.a
+  secret.a
+  stealthy.a
+  sneak.n
+  sneaky.a
+  secretive.a
+  furtive.a
+  stealth.n
+  clandestine.a
+Frame_Annoying:
+  gall.v
+  galling.a
+  peeve.n
+  irritate.v
+  beleaguered.a
+  beleaguer.v
+  vexing.a
+  aggravating.a
+  annoy.v
+  bother.v
+  exasperate.v
+  irritation.n
+  vex.v
+  pester.v
+  irk.v
+  tiresome.a
+  annoyance.n
+  displease.v
+  irritating.a
+  pestering.a
+  harass.v
+  annoying.a
+  aggravate.v
+  bothersome.a
+  peeve.v
+Frame_Market:
+  market.n
+Frame_Disgust:
+  reek.n
+  stinking.a
+  stinky.a
+  unclean.a
+  revulsion.n
+  stink.v
+  odious.a
+  repulsive.a
+  nasty.a
+  smelly.a
+  stink.n
+  revulsive.a
+  slime.v
+  malodorous.a
+  disgusting.a
+  slimy.a
+  stench.n
+  vile.a
+  rottenness.n
+  scummy.a
+  filthy.a
+  sleazy.a
+  gross.a
+  reek.v
+  putrid.a
+  putrescence.n
+  sleaze.n
+  scum.n
+  repugnant.a
+  revolting.a
+  disgust.n
+  foul.a
+Frame_Being_stable:
+  anchor.v
+  balance.v
+Frame_Passion:
+  fervor.n
+  fervency.n
+  impassioned.a
+  passion.n
+  passionate.a
+  ardor.n
+  passionateness.n
+  ardent.a
+Frame_Reveal:
+  unmasked.a
+  revealed.a
+  unmask.v
+  reveal.v
+  unveiling.n
+  uncover.v
+  unveiled.a
+  unveil.v
+  uncovered.a
+  expose.v
+  exposed.a
+Frame_Cut:
+  cut.v
+  chop.v
+  trim.v
+  slice.v
+  carve.v
+  clip.v
+  prune.v
+  slash.v
+  gouge.v
+  cut.v back
+Frame_Object:
+  object.n
+  thing.n
+Frame_Life_cycle:
+  lifecycle.n
+  life cycle.n
+Frame_Liberal_market:
+  market.n
+Frame_Leadership:
+  chaperone.n
+  guide.v
+  lead.n
+  usher.n
+  leader.n
+  usher.v
+  escort.v
+  lead.v
+  leadership.n
+  guide.n
+Frame_Physical_structure:
+  stabilize.v
+  construct.v
+  structure.v
+  build.n
+  destabilize.v
+  stable.a
+  brace.v
+  build.v
+  underpin.v
+  structure.n
+  set.v up
+  reinforce.v
+  construct.n
+  stability.n
+Frame_Monotony:
+  monotone.n
+  monotony.n
+  monotonous.a
+  monotonousness.n
+  sameness.n
+Frame_Alcohol:
+  alcohol.n
+  moonshine.n
+  sangria.n
+  vermouth.n
+  cocktail.n
+  margarita.n
+  beer.n
+  claret.n
+  whisky.n
+  bourbon.n
+  lager.n
+  cognac.n
+  whiskey.n
+  daiquiri.n
+  mixed drink.n
+  booze.n
+  wine.n
+  cabernet.n
+  gin.n
+  sherry.n
+  liquor.n
+  vodka.n
+  brandy.n
+  pilsner.n
+  ale.n
+  mai tai.n
+  champagne.n
+  alcoholic beverage.n
+  chardonnay.n
+  hootch.n
+  rum.n
+  martini.n
+  tequila.n
+Frame_Expertise:
+  mastery.n
+  expertise.n
+  expert.n
+  virtuoso.n
+  adeptness.n
+  virtuosity.a
+  skillfulness.n
+  hotshot.n
+  skill.n
+  savvy.a
+  proficient.a
+  hotshot.a
+  expertness.n
+  knowledgeable.a
+  proficiency.n
+  competence.n
+  skillful.a
+  masterful.a
+  know-how.n
+Frame_Wildfire:
+  dead out.n
+  climate-induced wildfire.n
+  prescribed burn.n
+  intermix fire.n
+  Category 2 open fire.n
+  aerial firefighting.n
+  wildfire.n
+  Canadian Wildland Fire Simulation Model.n
+  Canadian Forest Fire Danger Rating System.n
+  wildfire trail.n
+  wildfire flare.n
+  holdover fire.n
+  fire blindness.n
+  National Interagency Fire Center.n
+  wildfire ignition.n
+  controlled burn.n
+  wildfire regulation.n
+  fire season.n
+  forest fire.n
+  firestorm.n
+  climate change-induced wildfire.n
+  spot fire.n
+  Category 3 open fire.n
+  Canadian Forest Fire Weather Index System.n
+  control line.n
+  bushfire.n
+  wet line.n
+  wildland urban interface.n
+  wildfire behavior.n
+  Canadian Forest Fire Behaviour Prediction System.n
+  escaped fire.n
+  interface fire.n
+  Canadian Interagency Forest Fire Centre.n
+  wildland fire engine.n
+  wildfire behaviour.n
+  wildfire containment.n
+Frame_Indulgence:
+  indulge.v
+  cosset.v
+  splurge.v
+  pamper.v
+  splurge.n
+  indulgence.n
+  coddle.v
+Frame_Impact:
+  hammer.v
+  batter.v
+  hit.n
+  hit.v
+  crash.n
+  impact.n
+  crash.v
+  smack.v
+  hard-hitting.a
+  clash.v
+  bash.v
+  whack.v
+  slam.v
+  impact.v
+  bump.v
+  slam.n
+  slap.n
+  slap.v
+Frame_Fluffy:
+  fluffy.a
+  billowy.a
+  gauzy.a
+  gauziness.n
+  weightlessness.n
+  pillowy.n
+  airiness.n
+  diaphanous.a
+  feathery.a
+  weightless.a
+  airy.a
+  featheriness.n
+  lightweight.a
+  billow.v
+  wispy.a
+  fluffiness.n
+  gossamer.n
+  wispiness
+Frame_Furry:
+  downy.a
+  furriness.n
+  wooly.a
+  shagginess.n
+  fuzzy.a
+  furred.a
+  shaggy.a
+  fleeciness.n
+  fleecy.a
+  fuzziness.n
+  plush.a
+  furry.a
+  plushness.n
+Frame_Destructive_force:
+  destructive.a
+Frame_Rich_food:
+  steak.n
+  slice of the pie.n
+  pie.n
+  pastry.n
+  slice of pie.n
+  dessert.n
+  cheese.n
+  gravy.n
+  cake.n
+Frame_Physical_affliction:
+  canker.n
+  disable.v
+  paralyzing.a
+  ulcer.n
+  torpefy.v
+  unhealthy.a
+  tumour.n
+  affliction.n
+  infect.v
+  afflict.v
+  tumorous.a
+  blister.n
+  paralysis.n
+  lesion.n
+  postule.n
+  paralysis.n
+  handicap.n
+  incontinence.n
+  paralyzed.a
+  sick.a
+  scarring.a
+  incapacitate.v
+  disability.n
+  crippled.a
+  blistering.a
+  swollen.a
+  twisted.a
+  broken.n
+  scar.v
+  impotent.a
+  sickness.n
+  infirm.a
+  infection.n
+  ailment.n
+  ulcer.n
+  rash.n
+  hemmorrhage.n
+  incontinent.a
+  symptom.n
+  wound.n
+  stye.n
+  crippling.a
+  cyst.n
+  blemish.n
+  hives.n
+  lesion.n
+  paralyze.v
+  tumor.n
+  cold sore.n
+  scar.n
+  bruise.n
+  ailing.a
+  hemmorhoid.n
+  chronic.a
+  ail.v
+  illness.n
+  hurt.a
+  cardiotoxicity.n
+  impotence.n
+Frame_Motionless:
+  immobile.a
+  motionless.a
+  motionlessness.n
+  still.a
+  stillness.n
+  stock-still.a
+  unstirring.a
+  stationary.a
+  unmoving.a
+Frame_Release_liquid:
+  flow.v out
+  filter.n
+  trickling.n
+  tap.n
+  extract.v
+  tap.v
+  leach.v
+  liquidate.v
+  filter.v
+  wring.v
+  funnel.v
+  extract.n
+  leak.n
+  draining.n
+  suck.v
+  leaking.v
+  ooze.v
+  vacuum.v
+  squeeze.v
+  pipe.n
+  evaporation.n
+  suck.v the lifeblood
+  empty.v
+  liquidation.n
+  evaporate.v
+  gush.v
+  pump.v
+  siphon.v
+  wring.v out
+  funnel.n
+  leak.v
+  outlet.n
+  drain.v
+  squeeze.v out
+  sap.v
+Frame_Economic_status:
+  economic status
+Frame_Across:
+  ford.v
+  cross.v
+  traverse.v
+  crossing.n
+  traversal.n
+  crossed.a
+  vault
+  crossing.a
+  cut.v across
+  across.prep
+Frame_Dissect:
+  dissect.v
+  scalpel.n
+  dismember.v
+Frame_Storm:
+  supercell thunderstorm.n
+  storm.n
+  monsoon.n
+  monsoon trough.n
+  thunderstorm.n
+  windstorm.n
+  Beaufort wind force scale.n
+  non-supercell thunderstorm.n
+  electrical storm.n
+  sandstorm.n
+  dust storm.n
+  ice storm.n
+  convective storm.n
+Frame_Excess_body_weight:
+  bulgy.a
+  fat.a
+  bloated.a
+  puffed out.a
+  obese.a
+  bloat.v
+  fat cat.n
+  engorged.a
+  opulent.a
+  obesity.n
+  bilge.n
+Frame_Volcano:
+  volcanic crater.n
+  volcano.n
+  base surge.n
+  volcanic tsunami.n
+  magma.n
+  lava.n
+  volcanic bomb.n
+  Phreatic eruption.n
+  volcanic debris flow.n
+  volcanic tremor.n
+  volcanic eruption.n
+Frame_Human_life_cycle:
+  child.n
+  childhood.n
+  elderly.a
+  adolescent.a
+  puberty.n
+  dotage.n
+  juvenile.n
+  youthful.a
+  fetus.n
+  babyhood.n
+  youth.n
+  pubescent.n
+  nascent.a
+  infancy.n
+  newborn.a
+  teenaged.a
+  beget.v
+  adolescent.n
+  embryonic.a
+  adolescence.n
+  toddler.n
+  newborn.n
+  infant.n
+  senility.n
+  adulthood.n
+  baby.n
+  grown-up.n
+  birth.n
+  adult.n
+  teenager.n
+  embryo.n
+Frame_Process_start:
+  restart.v
+  starting.a
+  start.n
+  initiating.a
+  inception.n
+  onset.n
+  start.v
+  begin.v
+  commence.v
+  beginning.n
+  commencement.n
+  initiate.v
+  initial.a
+  restart.n
+Frame_Being_unstable:
+  dangle.v
+  wobbling.a
+  wobble.v
+  unstable.a
+  unsteadiness.n
+  unsteady.a
+  stumble.v
+  wobbly.a
+  shakiness.n
+  waver.v
+  shaky.a
+  teetering.a
+  lurch.v
+  stagger.v
+  tottering.a
+  dodder.v
+  teeter.v
+  totter.v
+  instability.n
+Frame_Ability_to_act:
+  capability.n
+  able.a
+  ability.n
+Frame_Front:
+  ahead.adv
+  front.a
+  toward.p
+  forward.adv
+  front.adv
+  forward.a
+  towards.p
+Frame_Mass_motion:
+  mob.v
+  crowd.v
+  swarm.v
+  throng.n
+  throng.v
+  parade.v
+  pelt.v
+  teem.v
+  hail.v
+  troop.v
+  clump.v
+  flock.v
+Frame_Time_brief:
+  second.n
+  moment.n
+  hour.n
+  split second.n
+  minute.n
+  instant.n
+Frame_Motion_back_and_forth:
+  shake.v
+  bobble.v
+  swing.v
+  vascillate.v
+  tremble.v
+  vibration.n
+  judder.v
+  pendulate.v
+  vibratory.a
+  wave.v
+  quake.v
+  rock.v
+  jounce.v
+  waver.v
+  jiggle.v
+  pulse.v
+  undulate.v
+  convulse.v
+  sway.v
+  joggle.v
+  tremulous.a
+  teeter-totter.v
+  shiver.v
+  pulsate.v
+  vibrate.v
+  seesaw.v
+  wriggle.v
+  quiver.v
+  oscillate.v
+  trembling.a
+  wobble.v
+  seesaw.n
+  quaver.v
+  waggle.v
+  throb.v
+  wiggle.v
+  writhe.v
+  teeter.v
+Frame_Gun_ownership:
+  gun-ownership.n
+  gun.n owner.n
+  gun.n ownership.n
+  own.v gun.n
+  own.v guns.n
+  gun-owner.n
+Frame_Treating_a_physical_affliction:
+  rehabilitate.v
+  soothe.v
+  remedy.v
+  alleviate.v
+  treat.v
+  prescription.n
+  recover.v
+  eradicate.v
+  rehabilitation.n
+  band-aid.n
+  medicine.n
+  incurable.a
+  remedy.n
+  assuage.v
+  bandage.n
+  curable.a
+  relieve.v
+  heal.v
+  alleviation.n
+  nurse.n
+  bandage.v
+  patient.n
+  hospitalization.n
+  treatment.n
+  recovery.n
+  prescribe.v
+  convalescence.n
+  eradication.n
+  ameliorate.v
+  fine needle aspiration.n
+  amelioration.n
+  antinauseant.n
+  cure.n
+  relief.n
+  cure-all.n
+  cure.v
+Frame_Climate_pessimism:
+  climate change pessimist.n
+  climate doom.n
+  climate doomist.n
+  climate doomism.n
+  global warming pessimism.n
+  climate change pessimism.n
+  climate pessimism.n
+  global warming pessimist.n
+  climate dooming.n
+  climate pessimist.n
+Frame_Circular_path:
+  circle.n
+  circuit.n
+  carousel.n
+  merry-go-round.n
+  dead end.n
+  rollercoaster.n
+  cul de sac.n
+  roundabout.n
+  rotary.n
+  round-a-bout.n
+  merry go round.n
+  traffic circle.n
+Frame_Motion_to_a_location:
+  make.v a beeline
+  land.n
+  make.v for
+  come.v
+  reach.v
+  landing.n
+  arrive.v
+  enter.v
+  arrival.n
+  destination.n
+Frame_Cost:
+  toll.n
+  price tag.n
+  expense.n
+  cost.v
+  cost.n
+  price.n
+  fee.n
+Frame_Mystery:
+  puzzle.n
+  mysterious.a
+  baffling.a
+  conundrum.n
+  enigmatic.a
+  riddle.n
+  perplexing.a
+  enigma.n
+  mystifying.a
+  mystery.n
+  puzzling.a
+Frame_Pandemic:
+  pandemic epicenter.n
+  global outbreak.n
+  caseload.n
+  pandemic.n
+  death toll.n
+  mortality rate.n
+  pandemic recovery.n
+Frame_Military_leadership:
+  admiral.n
+  commodore.n
+  general.n
+  officer.n
+  major.n
+  chieftain.n
+  lieutenant.n
+  command.v
+  corporal.n
+  commander.n
+  marshal.n
+  sergeant.n
+  captain.n
+Frame_Deforming:
+  twist.n
+  twist.v
+  crunch.n
+  squish.v
+  deform.v
+  grind.v
+  warp.v
+  squeeze.n
+  crumple.v
+  pinch.v
+  scrunch.v
+  mash.v
+  pinch.n
+  mangle.v
+  squeeze.v
+  compress.v
+  flatten.v
+  tweak.v
+  grind.n
+  crush.v
+  trample.v
+  smush.v
+  tweak.n
+  crush.n
+  crunch.v
+  squash.v
+Frame_Searching:
+  look.v for.prep
+  hunt.v for.prep
+  seek.v
+  search.v
+  quest.n
+  hunt.v
+  hunt.n
+  search.n
+  hunting.n
+Frame_Body_weight:
+  bodyweight.n
+  body weight.n
+Frame_Motion_to_a_bounded_region:
+  set.v foot in
+  infiltrate.v
+  on ramp.n
+  go.v into
+  entrance.n
+  onramp.n
+  ingress.v
+  entry.n
+  get.v into
+  go.v in
+  enter.v
+  penetrate.v
+  get.v in
+  rush.v in
+  on-ramp.n
+  move.v into
+  entrance ramp.n
+Frame_Fitting_in:
+  dovetail.v
+  adaptation.n
+  conforming.a
+  mainstream.n
+  incorporation.n
+  assimilation.n
+  inclusion.n
+  conform.v
+  integration.n
+  assimilate.v
+  compliance.n
+  traditionalist.n
+  conformist.n
+  fit.v in.prep
+  integrate.v
+  accomodate.v
+  conventionalist.n
+  adapt.v
+  incorporate.v
+  blend.v in.prep
+  comply.v
+  join.v in.prep
+Frame_Cancer_treatment:
+  hormone suppression therapy.n
+  mitotic inhibitor.n
+  antibody-drug conjugate.n
+  mitotic inhibitor.n
+  mastectomy.n
+  monoclonal antibody.n
+  antineoplastic antibiotic.n
+  antiandrogen.n
+  armed antibodies.n
+  chemotherapy drug.n
+  radical mastectomy.n
+  chemo.n
+  cancer treatment.n
+  antitumor antibiotic.n
+  chemotherapeutic drug.n
+  cancer care.n
+  chimeric monoclonal antibody.n
+  neoadjuvant therapy.n
+  neoadjuvant.a
+  anticancer antibiotic.n
+  chimeric antibody.n
+  integrated palliative care.n
+  radiation therapy.n
+  chemotherapy.n
+  volumetric modulated arc therapy.n
+  radiation treatment.n
+  antitumour antibiotic.n
+  radical surgery.n
+  chemo treatment.n
+  immunotherapy.n
+Frame_Discussing:
+  discuss.v
+  converse.v
+Frame_Legality:
+  illicit.a
+  illegal.a
+  illegality.n
+  legal.a
+  lawful.a
+  legality.n
+Frame_Warmth:
+  warm.v
+  toasty.a
+  warmish.a
+  warm.a
+  warmth.n
+  toastiness.a
+  warmness.n
+Frame_Survival:
+  survivor.n
+  survival.n
+  survive.v
+Frame_Network:
+  network.n
+Frame_Regulation:
+  regulation.n
+  directive.n
+  regulate.v
+  regulatory.a
+  rule.n
+Frame_Impeding_downward_motion:
+  safety net.n
+  net.n
+  parachute.n
+Frame_Accepting:
+  acceptance.n
+  accepting.a
+  accept.v
+Frame_Equality:
+  equal.a
+  equality.n
+Frame_Cyclone:
+  Saffir-Simpson Hurricane Wind Scale.n
+  tropical storm watch.n
+  tropical storm warning.n
+  vortex fix.n
+  hurricane season.n
+  post-tropical cyclone.n
+  hurricane warning.n
+  subtropical cyclone.n
+  Hurricane Katrina.n
+  maximum sustained surface wind.n
+  Hurricane Harvey.n
+  Fujiwhara effect.n
+  Central Pacific Hurricane Center.n
+  potential tropical cyclone.n
+  hurricane local statement.n
+  hurricane watch.n
+  tropical cyclone.n
+  cyclone.n
+  typhoon.n
+  subtropical storm.n
+  subtropical depression.n
+  major hurricane.n
+  tropical storm.n
+  central dense overcast.n
+  extratropical cyclone.n
+Frame_Analysis:
+  scrutinize.v
+  study.n
+  criticize.v
+  analyse.v
+  analyze.v
+Frame_Value:
+  precious.a
+  valuable.a
+  value.n
+  worth.n
+  worthwhile.a
+  worthy.a
+  preciousness.n
+  value.v
+Frame_Manner_verbs:
+  motor.v
+  canter.v
+  fly.v
+  slosh.v
+  trickle.v
+  sail.v
+  leak.v
+  goosestep.v
+  stretch.v
+  pounce.v
+  wobble.v
+  cavort.v
+  straggle.v
+  lurch.v
+  jog.v
+  lumber.v
+  turn.v
+  waver.v
+  trip.v
+  slither.v
+  sled.v
+  bus.v
+  spout.v
+  shake.v
+  scuttle.v
+  bolt.v
+  gallop.v
+  swing.v
+  creep.v
+  bounce.v
+  sledge.v
+  punt.v
+  mosey.v
+  drift.v
+  samba.v
+  circle.v
+  pedal.v
+  vault.v
+  judder.v
+  twist.v
+  slop.v
+  sweep.v
+  roll.v
+  scud.v
+  trundle.v
+  polka.v
+  take to the air.v
+  eddy.v
+  gondola.v
+  somersault.v
+  squaredance.v
+  flutter.v
+  storm.v
+  throng.v
+  scutter.v
+  kayak.v
+  pad.v
+  throb.v
+  saunter.v
+  parade.v
+  slip.v
+  revolve.v
+  skim.v
+  undulate.v
+  strut.v
+  skedaddle.v
+  bustle.v
+  dash.v
+  balloon.v
+  boat.v
+  tear.v
+  helicopter.v
+  crowd.v
+  rip.v
+  weave.v
+  spiral.v
+  cab.v
+  slog.v
+  shamble.v
+  dodder.v
+  rumba.v
+  swim.v
+  leap.v
+  step.v
+  shrink.v
+  drip.v
+  scamper.v
+  steal.v
+  toboggan.v
+  hiss.v
+  percolate.v
+  moped.v
+  cruise.v
+  sleigh.v
+  stream.v
+  rush.v
+  scurry.v
+  shadow.v
+  shuffle.v
+  commute.v
+  whisk.v
+  chariot.v
+  spill.v
+  quiver.v
+  bow.v
+  jiggle.v
+  bicycle.v
+  goose-step.v
+  skulk.v
+  lope.v
+  jive.v
+  dogsled.v
+  teeter.v
+  swerve.v
+  purl.v
+  prowl.v
+  slalom.v
+  slide.v
+  clomp.v
+  promenade.v
+  frolic.v
+  trot.v
+  skate.v
+  scram.v
+  hobble.v
+  rock.v
+  wiggle.v
+  pour.v
+  pulsate.v
+  tremble.v
+  canoe.v
+  wade.v
+  jig.v
+  skitter.v
+  coach.v
+  ooze.v
+  stray.v
+  make.v
+  snake.v
+  waltz.v
+  perambulate.v
+  bob.v
+  wander.v
+  journey.v
+  cascade.v
+  scoot.v
+  zoom.v
+  march.v
+  stir.v
+  bop.v
+  lunge.v
+  quake.v
+  swarm.v
+  skateboard.v
+  foxtrot.v
+  spin.v
+  caper.v
+  sashay.v
+  caravan.v
+  speed.v
+  bowl.v
+  limp.v
+  sleepwalk.v
+  wriggle.v
+  pursue.v
+  mince.v
+  amble.v
+  taxi.v
+  trudge.v
+  meander.v
+  spew.v
+  rove.v
+  sway.v
+  flood.v
+  raft.v
+  stump.v
+  hasten.v
+  clog.v
+  sneak.v
+  paddle.v
+  hop.v
+  wind.v
+  drive.v
+  swagger.v
+  flit.v
+  stomp.v
+  totter.v
+  venture.v
+  ride.v
+  tango.v
+  pump.v
+  clump.v
+  wave.v
+  squirt.v
+  rickshaw.v
+  twirl.v
+  file.v
+  inch.v
+  zigzag.v
+  bubble.v
+  trolley.v
+  writhe.v
+  stalk.v
+  gambol.v
+  shower.v
+  stumble.v
+  glide.v
+  tail.v
+  lollop.v
+  bike.v
+  dribble.v
+  motorbike.v
+  travel.v
+  ferry.v
+  pace.v
+  roam.v
+  romp.v
+  splash.v
+  swirl.v
+  row.v
+  traipse.v
+  spring.v
+  trail.v
+  splatter.v
+  hitchhike.v
+  tack.v
+  waft.v
+  hail.v
+  stride.v
+  oar.v
+  boogie.v
+  oscillate.v
+  spurt.v
+  parachute.v
+  course.v
+  scramble.v
+  flock.v
+  waddle.v
+  proceed.v
+  soar.v
+  sprint.v
+  streak.v
+  flow.v
+  carom.v
+  spray.v
+  tread.v
+  conga.v
+  tiptoe.v
+  whiz.v
+  tramp.v
+  coast.v
+  sidle.v
+  shoulder.v
+  yacht.v
+  gallivant.v
+  prance.v
+  troop.v
+  motorcycle.v
+  stroll.v
+  trek.v
+  teem.v
+  toddle.v
+  jeep.v
+  pirouette.v
+  plod.v
+  skip.v
+  backpack.v
+  joggle.v
+  hurtle.v
+  walk.v
+  pelt.v
+  track.v
+  gush.v
+  nip.v
+  flap.v
+  soak.v
+  press.v
+  rain.v
+  stagger.v
+  rotate.v
+  blow.v
+  chase.v
+  slink.v
+  jet.v
+  rocket.v
+  hover.v
+  seep.v
+  vibrate.v
+  cancan.v
+  jitterbug.v
+  ramble.v
+  run.v
+  tour.v
+  tapdance.v
+  follow.v
+  hurry.v
+  voyage.v
+  bound.v
+  quickstep.v
+  jump.v
+  barge.v
+  flounce.v
+  dance.v
+  float.v
+  bobsled.v
+  race.v
+  ski.v
+  tram.v
+  slouch.v
+  crawl.v
+  cycle.v
+  clamber.v
+  dart.v
+Frame_Fruit:
+  persimmon.n
+  peach.n
+  pear.n
+  pumpkin.n
+  currant.n
+  fig.n
+  cherry.n
+  watermelon.n
+  cantaloupe.n
+  pluot.n
+  nectarine.n
+  apricot.n
+  grape.n
+  quince.n
+  fruity.a
+  plum.n
+  pomegranate.n
+  plumcot.n
+  apple.n
+  honeydew.n
+  fruit.n
+Frame_Resource_consumption:
+  resource.n
+  consumption.n
+Frame_Gun_control_legislation:
+  regulation on gun.n
+  gun-ban.a
+  gun control politics.n
+  regulation of firearm.n
+  Brady campaign.n
+  gun control measure.n
+  gun-ban.n
+  gun ban.n
+  gun violence prevention measure.n
+  NY SAFE Act.n
+  gun measure.n
+  anti-gun measure.n
+  gun control legislation.n
+  gun control statute.n
+  assault weapons ban.n
+  gun regulation.n
+  gun safety measure.n
+  policy.n
+  gun law.n
+  regulation on firearm.n
+  gun ownership regulation.n
+  SAFE Act.n
+  gun control policy.n
+  Brady bill.n
+  gun bill.n
+  handgun regulation.n
+  regulation of gun.n
+  firearm regulation.n
+  gun control bill.n
+  gun rule.n
+  gun control regulation.n
+  S.A.F.E. Act.n
+Frame_Process_pause:
+  hiatus.n
+  interruption.n
+  hesitation.n
+  suspension.n
+  interrupt.v
+  pause.v
+  disruption.n
+  hesitate.v
+  lapse.n
+  disrupt.v
+  suspend.v
+  pause.n
+Frame_Attacking:
+  assault.n
+  strike.v
+  assault.v
+  jab.v
+  assailment.n
+  thrash.v
+  whack.v
+  beat.v
+  aggression.n
+  assailant.n
+  spear.v
+  shoot.v down
+  attack.v
+  pummel.v
+  slap.v
+  assail.v
+  kick.v
+  aggressor.n
+  smack.v
+  attack.n
+  stab.v
+  offensive.n
+  tackle.v
+  wallop.v
+  attacker.n
+  assailing.v
+  thrashing.n
+  onslaught.n
+  bludgeon.v
+  punch.v
+  beating.n
+  beseige.v
+Frame_Support:
+  support.v
+  support.n
+  supporting.a
+  supportive.a
+  supportable.a
+Frame_Mother:
+  foster mother.n
+  maternal love.n
+  mother figure.n
+  mummy.n
+  stay-at-home-mom.n
+  ma.n
+  foster mom.n
+  mom brain.n
+  mommyish.a
+  mother.n
+  motherly.a
+  surrogate mother.n
+  adoptive mother.n
+  postpartum depression.n
+  maternity clinic.n
+  mama.n
+  expectant mother.n
+  mother love.n
+  motherly love.n
+  maternal leave.n
+  granny.n
+  adoptive mom.n
+  maternity ward.n
+  new mother.n
+  mommy brain.n
+  birth mom.n
+  expectant mom.n
+  new mom.n
+  labor.n
+  mommy.n
+  mum.n
+  maternity service.n
+  postpartum mother.n
+  moming.v
+  maternal bond.n
+  matriarch.n
+  mothering.n
+  biological mother.n
+  stepmother.n
+  maternal instinct.n
+  mothering.a
+  grandmother.n
+  maternity unit.n
+  mater.n
+  matriarchal.a
+  grandma.n
+  early motherhood.n
+  maternal aftercare.n
+  mommy glow.n
+  female parent.n
+  mom glow.n
+  maternal health.n
+  birth mother.n
+  postpartum care.n
+  momism.n
+  maternal care.n
+  matrilineal.a
+  mamma.n
+  stay-at-home-mother.n
+  ["mothers' wisdom.n"]
+  mommish.a
+  biological mom.n
+  mother.v
+  female parental figure.n
+  mom.v
+  mom.n
+  maternity.n
+  supermom.n
+  mother-in-law.n
+  late motherhood.n
+  maternal.a
+  ["mother's womb.n"]
+  maternal duty.n
+  ["Mother's Day.n"]
+  momnesia.n
+  maternity hospital.n
+  surrogate mom.n
+  motherhood.n
+Frame_Boat:
+  tiller.n
+  pilot.n
+  captain.n
+  pilot.v
+  raft.n
+  canoe.n
+  helm.n
+  bateau.n
+  admiral.n
+  captain.v
+  rudderless.a
+  rudder.n
+  navigate.v
+  boat.n
+  ship.n
+Frame_Avoiding_obstacles:
+  avoidance.n
+  keep.v at bay
+  aversion.n
+  evade.v
+  bypass.n
+  sidestep.n
+  elusive.a
+  duck.v
+  sidestep.v
+  dodge.v
+  detour.n
+  detour.v
+  evader.n
+  evasion.n
+  elude.v
+  bypass.v
+  avoid.v
+  side-step.v
+  dodger.n
+  dodge.n
+Frame_Taxes:
+  tax rate.n
+  capital gains tax.n
+  corporate tax.n
+  sales tax.n
+  inheritance tax.n
+  tort tax.n
+  estate tax.n
+  property tax.n
+  death tax.n
+  earnings tax.n
+  income tax.n
+  school tax.n
+Frame_Tight_fit:
+  taut.a
+  narrow.a
+  tightness.n
+  compact.a
+  stiff.a
+  tighten.v
+  snug.a
+  tight.a
+  strict.a
+  snugness.n
+  cramped.a
+Frame_Unstable:
+  tilt.v
+  be.v tilted
+  unstable.a
+  uneven.a
+  feeble.a
+  fragile.a
+  unsteady.a
+  tottery.n
+  wobbly.a
+  unbalanced.a
+  frail.a
+  insubstantial.a
+  flimsy.a
+  shaky.a
+Frame_Vitality:
+  liveliness.n
+  aliveness.n
+  life energy.n
+  vivaciousness.n
+  vivacity.n
+  life force.n
+  vivacious.a
+  vigour.n
+  vitality.n
+  vigor.n
+  verve.n
+Frame_Servitude:
+  peonage.n
+  serfdom.n
+  servility.n
+  enslave.v
+  slavery.n
+  subjugation.n
+  bondage.n
+  rule.v over
+  servitude.n
+  enslavement.n
+  oppress.v
+  oppressive.a
+  thralldom.n
+  subjugate.v
+Frame_Smoothness:
+  even.a
+  satiny.a
+  sleekness.n
+  sleek.a
+  silkiness.n
+  silky.a
+  velvety.a
+  smooth.a
+  flat.a
+  smoothness.n
+  rippleless.a
+Frame_Climate_optimism:
+  global warming optimism.n
+  climate optimism.n
+  climate change optimism.n
+  global warming optimist.n
+  climate optimist.n
+  climate hope.n
+  climate change hope.n
+Frame_Clothing:
+  jeans.n
+  garb.n
+  tank top.n
+  frock.n
+  jacket.n
+  cardigan.n
+  robe.n
+  scarf.n
+  bra.n
+  undergarment.n
+  bathrobe.n
+  sweatshirt.n
+  sandal.n
+  garment.n
+  sundress.n
+  smock.n
+  tights.n
+  panties.n
+  tracksuit.n
+  blazer.n
+  nightie.n
+  activewear.n
+  sarong.n
+  glove.n
+  nightgown.n
+  sweatpants.n
+  attire.n
+  apparel.n
+  parka.n
+  leggings.n
+  hoodie.n
+  petticoat.n
+  clothes.n
+  vest.n
+  clothing.n
+  trousers.n
+  miniskirt.n
+  knickers.n
+  pinafore.n
+  pants.n
+  shirt.n
+  underclothes.n
+  boot.n
+  jumper.n
+  brassiere.n
+  jumpsuit.n
+  dress.n
+  footwear.n
+  sneaker.n
+  hosiery.n
+  windbreaker.n
+  tweeds.n
+  nightdress.n
+  capris.n
+  tunic.n
+  shawl.n
+  coat.n
+  togs.n
+  shoe.n
+  lingerie.n
+  overcoat.n
+  stocking.n
+  shorts.n
+  slipper.n
+  sock.n
+  underclothing.n
+  pantyhose.n
+  skirt.n
+  raincoat.n
+  sweater.n
+  blouse.n
+  pullover.n
+  briefs.n
+  sari.n
+  suit.n
+  undershirt.n
+  underpants.n
+  t-shirt.n
+  gown.n
+  wind cheater.n
+  pajama.n
+  nightwear.n
+  pyjama.n
+  poncho.n
+  camisole.n
+  swimsuit.n
+  undies.n
+  mitten.n
+  kilt.n
+  outfit.n
+  kaftan.n
+  kimono.n
+Frame_Economic_resource:
+  funds.n
+  subsidize.v
+  subsidy.n
+  fund.v
+Frame_Caused_downward_motion:
+  lower.v
+  pull.v down
+  drag.v down
+  depress.v
+Frame_Proximal:
+  adjacent.a
+  reachable.a
+  approachable.a
+  proximal.a
+  within grasp.a
+  ["within one's grasp.a"]
+  attainable.a
+  nearby.a
+  within reach.a
+  handy.a
+  next to.a
+  nea.a
+  close.a
+Frame_Aid_to_upward_motion:
+  ladder.n
+  stairway.n
+  springboard.n
+  rope.n
+  trampoline.n
+  lifeline.n
+  rope.v
+  staircase.n
+  foothold.n
+  leg.n up
+Frame_Computer:
+  computer.n
+Frame_Insurmountable_differences_in_distance:
+  canyon.n
+  gulf.n
+  chasm.n
+Frame_Control:
+  control.v
+  controlled.a
+  controllable.a
+  control.n
+  out of control.n
+  uncontrolled.a
+  power.n
+  uncontrollable.a
+Frame_Right_to_self_defense:
+  right.n to self-defence.n
+  defensive use.n
+  right to self-protection.n
+  right.n to self-defense.n
+  self-defence.n right.n
+  self-defense.n right.n
+Frame_Climate_grief:
+  ecological mourning.n
+  climate grief support.n
+  climate mourning.n
+  eco-mourning.n
+  eco-grief.n
+  ecogrieving.n
+  ecological grief.m
+  climate grieving.n
+  climate grief.n
+  eco-grieving.n
+  ecogrief.n
+  climate grief support group.n
+  environmental grief.n
+  ecomourning.n
+Frame_Closing_a_portal:
+  shut.v
+  close.v off
+  close.v
+  locked.a
+  slam.v shut
+  lock.v
+  close.v the door
+  shutter.v
+  lock.n
+  shuttered.a
+  closed.a
+Frame_Axis:
+  axis.n
+  axial.a
+Frame_Crimes_to_protect_the_environment:
+  ecosaboteur.n
+  monkeywrenching.n
+  radical environmentalist.n
+  radical environmentalism.n
+  green anarchy.n
+  environmental extremist.n
+  William David Foreman.n
+  Tre Arrow.n
+  Earth Liberation Front.n
+  tree spiking.n
+  eco-radical organization.n
+  ecoterrorism.n
+  ecosabotage.n
+  Wiebo Arienes Ludwig.n
+  Earth First!.n
+  green anarchist.n
+  ecoterrorist.n
+  ecotage.n
+  environmental extremism.n
+  eco-radical.n
+  climate radical.n
+  Jeffrey Luers.n
+  Marius Mason.n
+  Daniel Gerard McGowen.n
+Frame_Ease_of_use:
+  handy.a
+  usefulness.n
+  wieldy.a
+  foolproof.a
+  handiness.n
+  convenient.a
+  manageable.a
+  straightforward.a
+  user-friendly.a
+  untroublesome.a
+  user-friendliness.n
+  easy.a to use
+  convenience.n
+  useful.a
+Frame_Motion_impediments:
+  captive.a
+  detainee.n
+  capture.v
+  render.v motionless
+  hold-up.n
+  immobilize.v
+  bring.v to a standstill
+  stand.v in the way
+  curb.v
+  captivity.n
+  keep.v back
+  captive.n
+  keep.v from
+  deflect.v
+  cripple.v
+  rein.v in
+  interference.n
+  slow.v
+  deflection.n
+  stood.v in the way
+  halt.v
+  hamper.v
+  interfere.v
+  detain.v
+  detainment.n
+  stop.v
+Frame_Sanction:
+  embargo.n
+  sanction.n
+Frame_Tiredness:
+  exhaustion.n
+  sleepiness.n
+  weariness.n
+  tiredness.n
+  weary.a
+  wear.v out
+  fatigue.n
+  fatigued.a
+  tired.a
+  sleepy.a
+  exhausted.a
+Frame_Discard:
+  dispense.v
+  dump.v
+  scrap.v
+  discard.v
+  dump.n
+  ditch.v
+  throw.v away
+  discard.n
+  disposal.n
+  get.v rid of
+  dispose.v
+  rid.v
+  jettison.v
+  scrap.n
+Frame_Natural_resource:
+  minerals.n
+  plants.n
+  natural resource.n
+  sunlight.n
+  biomethane.n
+  biomass.n
+  air.n
+  land.n
+  livestock.n
+  biogas.n
+  metals.n
+  precious metals.n
+  water.n
+  timber.n
+  soil.n
+  trees.n
+Frame_Vehicle:
+  airplane.n
+  car.n
+  train.n
+  vehicle.n
+  slam.v on the brake.n
+  transportation.n
+  plane.n
+  hit.v the brake.n
+  driver.n
+  stall.v
+  jump start.v
+  transport.v
+  grind.v to a halt
+Frame_Action:
+  do.n
+  act.v
+  act.n
+  action.n
+  actor.n
+Frame_Create_object:
+  creation.n
+  create.v
+  form.v
+  maker.n
+  producer.n
+  produce.v
+  generate.v
+  creator.n
+Frame_Depth:
+  deep.a
+  superficiality.n
+  shallowness.n
+  deepen.v
+  shallow.a
+  deepening.n
+  superficial.a
+  depth.n
+Frame_Absorption:
+  saturate.v
+  soak.v
+  soak.v up
+  sop.v up
+  absorb.v
+  sponge.v
+  absorption.n
+  soaking.n
+  sponge up.v
+  sponge.n
+Frame_Restaurant:
+  bistro.n
+  restaurant.n
+Frame_Flight:
+  take to the air.v
+  jet.v
+  helicopter.v
+  flutter.v
+  glide.v
+  balloon.v
+  float.v
+  fly.v
+  flit.v
+  waft.v
+  hover.v
+Frame_Affectionate_action:
+  kiss.v
+  snuggle.v
+  cuddle.v
+  embrace.v
+  caress.v
+  bear-hug.n
+  caress.n
+  hug.v
+  embrace.n
+  bear hug.n
+  hug.n
+  kiss.n
+Frame_Operating_a_machine:
+  operate.v
+Frame_Birth:
+  childbirth.n
+  give.v birth
+  birth.n
+  birth.v
+  child-bearing.n
+  bear.v
+  birthing.n
+  parturition.n
+Frame_Tornado:
+  DAPPL database.n
+  damage area per path length database.n
+  intense tornado.n
+  stovepipe tornado.n
+  anticyclonic tornado.n
+  rope tornado.n
+  twister.n
+  mini-tornado.n
+  cone tornado.n
+  wedge tornado.n
+  multi-vortex tornado.n
+  waterspout tornado.n
+  tornadogenesis.n
+  tornado.n
+Frame_Government:
+  govern.n
+  governance.n
+  the state.n
+  congress.n
+  governmental.a
+  government.n
+Frame_COVID_19_pandemic:
+  free travel.n
+  global COVID.n
+  essential workers.n
+  triple-vaxxed.a
+  COVID-19 variants.n
+  pandemic fatigue.n
+  anti-mask.a
+  COVID-19 self assessment.n
+  rapid antigen test.n
+  non-esstential workers.n
+  red zone.n
+  COVID test.n
+  proof of vaccination.n
+  essential services.n
+  non-essential services.n
+  vaccine card.n
+  anti-masker.n
+  green zone.n
+  COVID fatigue.n
+  vaccine passport.n
+  double-vaxxed.a
+Frame_Obscenity:
+  pornographically.adv
+  indecency.n
+  perverse.a
+  vulgarity.n
+  porn.n
+  vulgar.a
+  perversity.n
+  pornography.n
+  obscene.a
+  indecent.a
+  pornographic.a
+Frame_Vehicular_accident:
+  sideswipe.n
+  train wreck.n
+  wreckage.n
+  derail.v
+  flameout.n
+  side-swipe.n
+  train-wreck.n
+  collide.v
+  nosedive.n
+  fender bender.n
+  tailspin.n
+  collision.n
+  wreck.v
+  pile-up.n
+  t-bone.a
+  trainwreck.n
+  blindside.v
+  pileup.n
+  flame-out.n
+  fender-bender.n
+  plow.v into
+  crash.n
+  off the rails.a
+  derailment.n
+  wreck.n
+  shipwreck.n
+  head-on.a
+Frame_Entity:
+  anything.n
+  it.n
+  entity.n
+  another.n
+  something.n
+  everything.n
+  itself.n
+Frame_Jealousy:
+  envy.n
+  enviousness.n
+  covetous.a
+  jealousy.n
+  jealousness.n
+  envious.a
+  jealous.a
+  covetousness.n
+Frame_Vaccine_hesitancy:
+  vaccine hesitant.a
+  vaccine hesitancy.n
+Frame_Decay:
+  rotten.a
+  rust.v
+  rust.n
+  decayed.a
+  decay.n
+  decay.v
+  rot.n
+  rot.v
+Frame_Second_Amendment:
+  2nd Amendment right.n
+  2nd Amendment.n
+  2nd amendment.n
+  Second Amendment policy.n
+  Second Amendment.n
+  Second Amendment right.n
+  2nd Amendment policy.n
+Frame_Social_class:
+  working-class.a
+  social class.n
+  middle class.n
+  the haves.n
+  the haves and the have-nots.n
+  upper class.n
+  class.n
+  lower class.n
+  the have-nots.n
+  underclass.a
+  have-nots.n
+  working class.n
+Frame_Animal_life_cycle:
+  breed.v
+  calf.n
+  pup.n
+  spawn.v
+  fledgling.n
+  hatch.v
+  egg.n
+  spawn.n
+  croak.v
+Frame_Factory:
+  assembly line.n
+  factory.n worker.n
+  manufacture.v
+  factory.n
+Frame_Social_congregate:
+  flock.n
+  herd.n
+  crowd.n
+  pack.n
+  team.n
+  tribe.n
+Frame_Function_word:
+  s
+  to
+  a
+  on
+  as
+  the
+  of
+  from
+Frame_Light_reflection:
+  glinting.a
+  glistening.a
+  sheen.n
+  glittering.a
+  glint.n
+  glossiness.n
+  sparkling.a
+  shimmer.n
+  glint.v
+  shiny.a
+  glittery.a
+  gloss.n
+  glisten.v
+  glitter.n
+  shimmering.a
+  sparkle.n
+  glitter.v
+  luster.n
+  shimmer.v
+  sparkle.v
+  lustre.n
+  glossy.a
+  sparkly.a
+Frame_Maze:
+  blind corner.n
+  labyrinthine.adj
+  cul de sac.n
+  labyrinthian.a
+  dead end.n
+  maze.n
+  obstacle course.n
+  labyrinth.n
+  convoluted.a
+Frame_Social_event:
+  meeting.n
+  get-together.n
+  social event.n
+  gathering.n
+Frame_Misrepresentation_of_ecological_utility:
+  green hushing.n
+  climate change virtue signalling.n
+  greened.a
+  green advertising.n
+  climate change virtue signaling.n
+  green PR.n
+  climate virtue signalling.n
+  green marketing.n
+  green virtue signaling.n
+  climate virtue signaling.n
+  green public relations.n
+  green virtue signalling.n
+  green sheen.n
+Frame_Boldness:
+  spunkiness.n
+  sauciness.n
+  brazen.a
+  boldness.n
+  presumptuous.a
+  impudent.a
+  daring.n
+  audacity.n
+  impudence.n
+  spunk.n
+  saucy.a
+  brash.a
+  brashness.n
+  gutsy.a
+  spunky.a
+  bold.a
+  audacious.a
+  daring.a
+Frame_Functionality:
+  functional.a
+  functionality.n
+Frame_Clarity:
+  clarity.n
+  obscurity.n
+Frame_Position:
+  position.n
+  job.n
+  career.n
+  office.n
+  employment.n
+Frame_Evil_creature:
+  demonization.n
+  fiendish.a
+  troll.n
+  demon.n
+  hobgoblin.n
+  demonic.a
+  bedevil.v
+  beast.n
+  ghoul.n
+  specter.n
+  ogre.n
+  villain.n
+  ghoulish.a
+  fiend.n
+  monster.n
+  haunt.v
+  Frankenstein.n
+  goblin.n
+  villainous.a
+  ["frankenstein's monster.n"]
+  devil.n
+  mammon.n
+  ghostly.a
+  monstrosity.n
+  kraken.n
+  werewolf.n
+  dragon.n
+  godzilla.n
+  zombie.n
+  behemoth.n
+  ghost.n
+  menace.v
+Frame_COVID_19_vaccine:
+  protein subunit vaccine.n
+  Moderna spikevax.n
+  mRNA vaccine.n
+  COVID-19 vaccine.n
+  viral-vector based vaccine.n
+  plant-based vaccine.n
+  Moderna.n
+  Pfizer.n
+  Medicago Covifenz.n
+  AstraZeneca.n
+  COVID vaccine.n
+  Pfizer-BioNTech.n
+  Johnson & Johnson.n
+  Novavax.n
+Frame_Carbon_emissions:
+  black carbon aerosol.n
+  fluorocarbon.n
+  human-induced heat emission.n
+  perfluorocarbon.n
+  carbon storage.n
+  CO2 sink.n
+  carbon reservoir.n
+  chlorofluorocarbon.n
+  carbon leakage.n
+  carbon intensity.n
+  halocarbon.n
+  CCS.n
+  CO2.n
+  black carbon.n
+  carbon cycle.n
+  carbon budget.n
+  carbon sink.n
+  hydrofluorocarbon.n
+  anthropogenic emission.n
+Frame_Temperature:
+  temperature.n
+Frame_Transfer_scenario:
+  transfer.n
+  transfer.v
+Frame_Accompany:
+  together.adv
+  accompaniment.n
+  accompany.v
+Frame_Beauty:
+  lovely.a
+  beautiful.a
+  beauty.n
+  loveliness.n
+Frame_Evaluation:
+  evaluate.v
+  evaluation.n
+  appraise.v
+  appraisal.n
+  assessment.n
+  assess.v
+Frame_Into:
+  into.prep
+Frame_Fullness:
+  filled.a
+  fullness.n
+  emptiness.n
+  half-empty.a
+  devoid.a
+  half-full.a
+  full.a
+  empty.a
+  fill.v
+Frame_Quantity:
+  increase.n
+  some.a
+  add.v
+  augmentation.n
+  less.a
+  few.a
+  many.a
+  decrease.v
+  several.a
+  increase.v
+  augment.v
+  most.a
+  decrease.n
+  more.a
+  addition.n
+  much.a
+  quantity.n
+  amount.n
+Frame_Desire:
+  desire.n
+  yen.v
+  yen.n
+  yearn.v
+  yearn.v for
+  desire.v
+  craving.a
+  crave.v
+  long.v for.prep
+  longing.n
+  hankering.n
+  covet.v
+  want.v
+  hanker.v
+  yearning.n
+  covetousness.n
+Frame_Parent:
+  dad.n
+  paternal.a
+  parent.n
+  parent.v
+  daddy.n
+  nurture.v
+  father.n
+  baby.v
+Frame_Water_confinement:
+  underwater.adj
+  deep water.n
+  mire.v
+  drown.v
+  quagmire.n
+  moor.n
+  underwater.adv
+  mire.n
+  submerge.v
+  suck.v into
+  awash.a
+  flounder.v
+  marsh.n
+  keeping.v afloat
+  tread.v
+  marshland.n
+  whirlpool.n
+  morass.n
+  undertow.n
+  immersion.n
+  went.v under
+  awash.a in
+  slough.n
+  undertow.v
+  bog.n
+  immerse.v
+  keep.v afloat
+  engulf.v
+  go.v under
+  tread.v water
+  peatbog.n
+  swamp.n
+Frame_Smelly:
+  reek.n
+  stinking.a
+  foul-smelling.a
+  stink.v
+  stinky.a
+  reeking.a
+  malodorous.a
+  smelly.a
+  fishy.a
+  stink.n
+  stench.n
+  reek.v
+Frame_Politics:
+  politics.n
+  politic.n
+  political.a
+  politician.n
+Frame_Poverty:
+  underprivileged.a
+  impoverished.a
+  impoverishment.n
+  poverty.n line.n
+  indigence.n
+  poverty.n rate.n
+  poverty.n
+  underprivileged.n
+  poorer.a
+  the 47 percent.n
+  poor.a
+  destitution.n
+  the 53 percent.n
+Frame_Religion:
+  Lutheran.a
+  feminist theology.n
+  diocese.n
+  religious scripture.n
+  Islam.n
+  exegetical theology.n
+  sin.v
+  church of England.n
+  doomsday.n
+  synod.n
+  ["apostles' creed.n"]
+  Satanism.n
+  Ash Wednesday.n
+  Atheism.n
+  religious text.n
+  basilica.n
+  Bible.n
+  Judaism.n
+  Shinto.n
+  piousness.n
+  theology.n
+  Epistle.n
+  creed.n
+  heaven.n
+  commandment.n
+  religious population.n
+  gospel.n
+  pious.n
+  angel.n
+  religious holiday.n
+  archangel.n
+  Eve.n
+  Christmas Eve.n
+  atheist.n
+  Pantheism.n
+  Lutheran.n
+  polytheism.n
+  religious group.n
+  polytheistic.a
+  religious faith.n
+  Theism.n
+  religious devotion.n
+  Catholic.n
+  faith.n
+  Buddhism.n
+  annunciation.n
+  Deism.n
+  Anglican.a
+  religion.n
+  apocrypha.n
+  religious syncretism.n
+  Christ.n
+  monotheistic.a
+  Calvinism.n
+  Good Friday.n
+  holy spirit.n
+  impious.a
+  clergy.n
+  Archbishop.n
+  Orthodox church.n
+  Protestant.n
+  religious freedom.n
+  religious affiliation.n
+  religious significance.n
+  blessed.a
+  impiety.n
+  crucifixion.n
+  religious constraint.n
+  biblical covenant.n
+  religiousness.n
+  crucifix.n
+  Agnostic.n
+  piety.n
+  doctrine.n
+  religious creed.n
+  mosque.n
+  religious teaching.n
+  religious symbol.n
+  sin.n
+  Psalm.n
+  religious persuasion.n
+  religious symbolism.n
+  Calvinist.n
+  Hinduism.n
+  religious dogma.n
+  sinful.a
+  religious doctrine.n
+  religious view.n
+  syncretic religion.n
+  religiosity.n
+  religious following.n
+  religious dogmatism.n
+  theologian.n
+  religiously significant.a
+  exegesis.n
+  beatitude.n
+  religious saint.n
+  religious sanctuary.n
+  saint.n
+  baptistry.n
+  biblical.a
+  religious covenant.n
+  advent.n
+  temple.n
+  Abrahamic religion.n
+  Jesus Christ.n
+  Abrahamic covenant.n
+  Christian.a
+  Muslim.n
+  Easter.n
+  apocalypse.n
+  religious.a
+  Taoism.n
+  Protestant.a
+  day of judgement.n
+  crucify.v
+  acolyte.n
+  Ascension.n
+  religious acolyte.n
+  Abraham.n
+  Baha’i.n
+  religious sect.n
+  Adam.n
+  Jainism.n
+  bishop.n
+  religious community.n
+  religious leader.n
+  Sikhism.n
+  Eucharist.n
+  religious belief.n
+  apostle.n
+  Confucianism.n
+  faith group.n
+  aumbry.n
+  Christmas.n
+  monotheism.n
+  religious figure.n
+  Satan.n
+  church.n
+  Garden of Eden.n
+  Bethlehem.n
+  Christianity.n
+  holy trinity.n
+  Anglican.n
+  devil.n
+  Satanist.a
+  hell.n
+  religious theology.n
+Frame_Looking:
+  stare.v
+  look.n
+  gaze.n
+  peep.v
+  peep.n
+  look.v
+  glance.v
+  gaze.v
+  glance.n
+  peer.v
+  stare.n
+Frame_Religious_practice:
+  revere.v
+  prayer.n
+  gospel.n
+  canonize.v
+  idolatry.n
+  bow down to.v
+  glorify.v
+  altar.n
+  reverence.n
+  deify.v
+  worshipper.n
+  bow to.v
+  worship.v
+  venerate.v
+  idolize.v
+  worship.n
+  shrine.n
+  pray.v
+  veneration.n
+Frame_COVID_19_treatment:
+  oxygen-therapy.n
+  Paxlovid.n
+  intubation.n
+  Remdesivir.n
+Frame_Roughness:
+  lumpiness.n
+  uneven.a
+  stony.a
+  jagged.a
+  pot-holed.a
+  rockiness.n
+  jaggedness.n
+  dimply.a
+  grittiness.n
+  gritty.a
+  choppiness.n
+  rough.a
+  choppy.a
+  roughness.n
+  lumpy.a
+  bumpy.a
+  scratchy.a
+  bumpiness.n
+  scaly.a
+  unevenness.n
+  scratchiness.n
+  rocky.a
+Frame_Love:
+  cherish.v
+  dote.v
+  affection.n
+  devoted.a
+  affectionate.a
+  love.n
+  love.v
+  enamored.a
+  beloved.a
+  fond.a
+  fondness.n
+  besottedness.n
+  endearing.a
+  adoration.n
+  devotion.n
+  adore.v
+  besotted.a
+  amity.n
+Frame_Media:
+  press.n
+  broadcasting.n
+  reporting.n
+  newspaper.n
+  journalism.n
+  broadcast.v
+  reporter.n
+  journalist.n
+  media.n
+Frame_Impurity:
+  impure.a
+  sully.v
+  taint.n
+  contaminate.v
+  contaminated.a
+  tarnish.v
+  impurity.n
+  tainted.a
+  contaminant.n
+  taint.v
+Frame_State_leadership:
+  tsar.n
+  monarch.n
+  president.n
+  shah.n
+  sheik.n
+  minister.n
+  prime minister.n
+  chancellor.n
+  vice-president.n
+  vizier.n
+  king.n
+  sultan.n
+  dictator.n
+  queen.n
+  premier.n
+  despot.n
+  emperor.n
+  reign.v
+  sovereign.n
+Frame_Wilderness:
+  boondocks.n
+  hinterland.n
+  wild.n
+  wastelands.n
+  back country.a
+  backwoods.n
+  jungle.n
+  sticks.n
+  boonies.n
+  moors.n
+  desolation.n
+  forest.n
+  backwater.n
+  wilderness.n
+  desert.n
+  woods.n
+  moonscape.n
+  bush.n
+  outback.n
+  wasteland.n
+  woodlands.n
+  badlands.n
+  swamp.n
+Frame_Dimensionality:
+  two-dimensional.a
+  three-dimensional.a
+  dimensionality.n
+  dimension.n
+  one-dimensional.a
+Frame_Rotation:
+  swivel.n
+  twirl.v
+  gyre.n
+  pivot.v
+  bowl.v
+  stir.v
+  rotation.n
+  whirl.v
+  rotate.v
+  spin.v
+  cycle.n
+  gyrate.v
+  whirligig.n
+  revolve.v
+  circle.v
+  roll.v
+  somersault.v
+  swirl.v
+  pirouette.v
+  wheel.v
+  spin.n
+  whirl.n
+  cycle.v
+Frame_Crimes_damaging_to_the_environment:
+  climate criminal.n
+  environmental vandal.n
+  ecocriminal.n
+  climate change criminal.n
+  illegal logging.n
+  eco-crime.n
+  environmental terrorist.n
+  environmental terrorism.n
+  illegal toxic waste dumping.n
+  eco-criminal.n
+  illegal mining.n
+  environmental crime.n
+  wildlife trafficking.n
+  environmental vandalism.n
+  ecocrime.n
+Frame_Antagonistic_force:
+  keep.v away
+  pin.v down
+  impede.v
+  pin.v down by
+  forcible.a
+  bring.v to knees
+  turn.v away
+  ["bring.v to one's knees"]
+  catch.v
+  hold.v back
+  push.v away
+  overwhlem.v
+Frame_Edge:
+  contour.n
+  shore.n
+  edge.n
+  outline.n
+  border.n
+  borderline.n
+  perimeter.n
+  verge.n
+  rim.n
+  margin.n
+  circumference.n
+  threshold.n
+  boundary.n
+  fringe.n
+  limit.n
+  brink.n
+Frame_Eating:
+  eat.v
+  feed.v
+  gorge.v
+  eating.v
+  gobble.v up
+  gobble.v
+  meal.n
+  snack.v
+  devour.v
+  snack.n
+  engorge.v
+  nibble.v
+Frame_Anxiety:
+  anxiousness.n
+  anxiously.adv
+  restless.a
+  anxiety.n
+  terror.n
+  jittery.a
+  uneasy.a
+  disquietude.n
+  terrified.a
+  panic-stricken.a
+  jumpy.a
+  fret.v
+  worried.a
+  terror-stricken.a
+  uneasiness.n
+  anxious.a
+  timorous.a
+  panicked.a
+  angst.n
+  nervous.a
+  worry.v
+  anxious rumination.n
+  apprehension.n
+  jitters.n
+  restlessness.n
+  panicky.a
+  worry.n
+  anxiety-ridden.a
+  phobia.n
+  fretfulness.n
+  nervousness.n
+  fretful.a
+  phobic.a
+  generalized anxiety disorder.n
+Frame_Speech_act:
+  say.v
+  question.n
+  address.v
+  speech.n
+  suggest.v
+  speak.v
+  ask.v
+  tell.v
+  request.n
+  talk.v
+  request.v
+  question.v
+Frame_Election:
+  campaign.v
+  electoral.a system.n
+  elect.v
+  election.n
+  gerrymander.v
+  campaign.n
+  electoral.a
+  election.a
+  electorate.n
+  candidate.n
+Frame_Humor:
+  hilarious.a
+  hilarity.n
+  jocularity.n
+  humour.n
+  humor.n
+  waggish.a
+  jolly.a
+  whimsical.a
+  ludicrous.a
+  witty.a
+  humorous.a
+  whimsy.n
+  amuse.v
+  levity.n
+  humorousness.n
+  drollness.n
+  absurd.a
+  absurdity.n
+  absurdness.n
+  ludicrousness.n
+  droll.a
+  humorousness.n
+  jocoseness.n
+  funny.a
+  amused.a
+  humourous.a
+  comical.a
+  amusement.n
+  jocular.a
+  hilariousness.n
+Frame_Self_defense:
+  self-defence.n
+  self-protection.n
+  self-defense.n
+Frame_Access:
+  access.v
+Frame_Attach:
+  stick.v
+  glue.n
+  attach.v
+  fasten.v
+  affix.v
+  secure.v
+  cement.v
+  adjoin.v
+  glue.v
+  cement.n
+  cleave.v
+  attachment.n
+  solder.v
+  epoxy.n
+  append.v
+  adhere.v
+  weld.v
+  cling.v
+Frame_Deity:
+  god-like.a
+  demi-god.n
+  sacredness.n
+  divine.a being
+  goddess.n
+  Almighty.n
+  divine.a
+  almighty.a
+  divinity.n
+  deity.n
+  god.n
+  hallowed.a
+  saintliness.n
+  sanctity.n
+  sacred.a
+  saintly.a
+  holiness.n
+  godliness.n
+  pantheon.n
+  idol.n
+  holy.a
+Frame_Being_in_a_bounded_region:
+  linger.v in.prep
+  bear.v in.prep
+  dwell.v in.prep
+  born.v into.prep
+  live.v in.prep
+  reside.v in.prep
+  living.v in.prep
+  bear.v into.prep
+  remain.v in.prep
+  exist.v in.prep
+Frame_Accomplishment:
+  attainment.n
+  accomplishment.n
+  success.n
+  accomplish.v
+  achievement.n
+  feat.n
+  achieve.v
+  performance.n
+Frame_Containment:
+  container.n
+  contain.v
+  containment.n
+Frame_Stop_flow_of_substance:
+  congest.v
+  clog.v
+  clog.n
+  constrict.v
+Frame_Remove_burden:
+  ease.v burden.n
+  load.n off
+  take.v a load off
+  disencumber.v
+  relieve.v
+  relief.n
+  unburden.v
+  take.v the load off
+  unload.v
+  relinquish.v
+  lift.v burden.n
+  lighten.v
+Frame_Hiding:
+  cloak.n
+  stow.v away
+  bury.v
+  shroud.n
+  cache.n
+  hide.v
+  camouflage.n
+  obscure.v
+  mask.v
+  camouflage.v
+  cover.v up
+  cover.v
+Frame_Sensitivity:
+  sensitivity.a
+  perceptivity.a
+  sensorial.a
+Frame_Plastic:
+  plastic container.n
+  plastic covering.n
+  plastic.n
+  microplastic.n
+  plastic package.n
+  PVC.n
+  plastic wrapping.n
+  plastic.a
+  plastic packaging.n
+  plastic wrap.n
+  piece.n of plastic.n
+  plastic box.n
+  plastic bottle.n
+  plastic cover.n
+  plastic wrapper.n
+Frame_Contact:
+  tap.v
+  touch.v
+  touch.n
+  contact.v
+  contact.n
+  swipe.n
+  graze.v
+  brush.v
+  swipe.v
+Frame_Blood_flow:
+  circulate.v
+  hemorrhage.v
+  vein.n
+  bloodletting.n
+  pulse.n
+  staunch.v
+  stanch.v
+  bleeding.n
+  bloodloss.n
+  blood stream.n
+  artery.n
+  circulation.n
+  circulatory system.n
+  blood.n
+  bleed.v
+  exsanguination.n
+  exsanguinate.v
+Frame_Music:
+  rhapsody.n
+  musician.n
+  opera.n
+  maestro.n
+  jazz.n
+  musical.a
+  tune.n
+  dulcet.a
+  tuneful.a
+  melodic.a
+  music.n
+  symphony.n
+  melodious.a
+  choral.a
+  symphonic.a
+  composer.n
+  harmonize.v
+  in tune
+  hymn.n
+  choir.n
+  melody.n
+  operatic.a
+  song.n
+  chorus.n
+  harmony.n
+  harmonious.a
+Frame_Competition:
+  rival.n
+  contest.n
+  win.v
+  competition.n
+  defeat.v
+  triumph.n
+  challenge.v
+  winner-take-all.a
+  adversary.n
+  rival.v
+  loss.n
+  challenge.n
+  defeat.n
+  loser.n
+  contestant.n
+  compete.v
+  champion.n
+  opponent.n
+  competitive.a
+  winner.n
+  competitor.n
+  challenger.n
+  lose.v
+  opposer.n
+Frame_Leftover_food:
+  sliver.n
+  tiny sliver.n
+  crumb.n
+  piece.n of the pie
+  leftover.n
+  dreg.n
+  sliver.n of the pie
+  scrap.n
+Frame_Punishment:
+  crack.v down
+  life sentence.n
+  crack.v the whip
+  put.v in jail
+  punitive.a
+  punish.v
+  condemnation.n
+  chastize.v
+  penalize.v
+  jail.n
+  penalty.n
+  condemn.v
+  arrest.n
+  prison sentence.n
+  arrest.v
+  punishment.n
+Frame_Constitution:
+  constitution.n
+  American constitution.n
+  US constitution.n
+  constitutional.a
+Frame_Straightness:
+  twisty.a
+  arced.a
+  straight.a
+  winding.a
+  twisting.a
+  curvy.a
+  crookedness.n
+  crooked.a
+  straightness.n
+  windy.a
+  curved.a
+  bent.a
+Frame_Change_direction:
+  tack.v
+  swerve.v
+  turn.v
+  weave.v
+  zigzag.v
+  slant.v
+  wind.v
+  carom.v
+  twist.v
+  angle.v
+Frame_Sunken_confinement:
+  cave.n
+  hellhole.n
+  fissure.n
+  dig.v
+  void.n
+  deep.a
+  sink hole.n
+  deepen.v
+  hell-hole.n
+  gorge.n
+  wormhole.n
+  chasm.n
+  hell hole.n
+  pit.n
+  wedge.n
+  cavity.n
+  sinkhole.n
+  black-hole.n
+  crater.n
+  ravine.n
+  crevasse.n
+  abyss.n
+  black.a hole.n
+  rift.n
+  canyon.n
+  gaping.a maw.n
+  gulch.n
+  hell.n
+Frame_Thinking_about:
+  contemplation.n
+  speculate.v
+  speculation.n
+  introspection.n
+  musing.n
+  thinking.n
+  introspect.v
+  contemplate.v
+  think.v
+Frame_Inability_to_access_a_location:
+  ["can't access"]
+Frame_Firearm:
+  firearm.n
+  guns.n
+  assault weapon.n
+  shotgun.n
+  pistol.n
+  gun.n
+  revolver.n
+  sidearm.n
+  handgun.n
+  rifle.n
+Frame_Comforting:
+  reassure.v
+  reassuring.a
+  soothe.v
+  console.v
+  soothing.a
+  reassurance.n
+  consolation.n
+  comforting.a
+  calming.a
+  consoling.a
+  comfort.v
+Frame_Bounded_region:
+  within.prep
+  sphere.n
+  outside.prep
+  boundary.n
+  expansive.a
+  in.prep
+  inside.prep
+  out.prep
+  out of.prep
+  outside of.prep
+Frame_Fear:
+  frighten.v
+  scared.a
+  unnerving.a
+  dread.v
+  dread.n
+  terrified.a
+  horrifying.a
+  frightened.a
+  fear.n
+  spooky.a
+  spine-chilling.a
+  scary.a
+  horrify.v
+  fearful.a
+  bloodcurdling.a
+  frightening.a
+  scare.v
+  hair-raising.a
+  fright.n
+  alarming.a
+  afraid.a
+  horror.n
+  fear.v
+Frame_Firmness:
+  firmness.n
+  solidity.n
+  hardness.n
+  rigidity.n
+Frame_Increase_size:
+  swell.v
+  enlarged.a
+  fattened.a
+  mushroom.v
+  bloated.a
+  bloating.n
+  bloat.v
+  explode.v
+  spread.n
+  balloon.v
+  get.v fat.a
+  amplification.n
+  explosion.n
+  fatten.v up
+  puff.v up
+  expansion.n
+  spread.v
+  burst.v
+  bulge.v
+  expand.v
+  enlargening.n
+  billow.v
+  enlargement.n
+  puff.v
+  fatten.v
+  amplify.v
+  inflate.v
+  enlarge.v
+  swell.n
+Frame_Contagious_disease_prevention:
+  sanitize.v
+  face-shield.n
+  mask.n
+  mask.v
+  contact mapping.v
+  sanitzed.v
+  hand sanitizer.n
+  gloves.n
+  mitigation strategy.n
+  attenuation strategy.n
+  handwash.n
+  N-95 mask.n
+  COVID curfew.n
+  contact-list.n
+  santization.n
+  elbow-bump.n
+  self-isolate.v
+  contact tracking.v
+  quarantine.v
+Frame_Burden:
+  weight.n
+  burden.n
+  stress.n
+  bear.v
+  brunt.n
+  heap.n
+  encumberment.n
+  back-breaking.a
+  overburden.v
+  pile.v
+  burden.v
+  milestone.n
+  encumber.v
+  saddle.n
+  baggage.n
+  burden.v with
+  strain.n
+  heavy.a load.n
+  heavy.a
+  strain.v
+  saddle.v
+  burdensome.a
+  pile.n
+  weigh.on
+  shoulder.v
+  weigh.v down
+  albatross.n
+  stress.v
+  ton.n
+  overload.v
+  load.n
+  hardship.n
+Frame_Barrier:
+  road block.n
+  blockage.n
+  barrier.n
+  stumbling block.n
+  obstruct.v
+  bottleneck.n
+  wall.n
+  obstacle.n
+  block.v
+  blocked.a
+  blockade.n
+  road-block.n
+  obstruction.n
+  roadblock.n
+  blockade.v
+  barred.a
+Frame_Seeing:
+  blind.n
+  see.v
+  sight.n
+  blind.v
+  blinder.n
+  blindfold.n
+  vision.n
+  blinders.n
+  blindness.n
+  blinded.a
+  open eye.n
+Frame_Distant:
+  removed.a
+  unreachable.a
+  faraway.a
+  out of grasp.a
+  outlying.a
+  far away.a
+  distant.a
+  out of reach.a
+  a long way.a from
+  far-off.a
+  far.a from
+  far-removed.a
+  outlier.n
+  far.a
+  distance.n
+Frame_Institution:
+  institute.n
+  institution.n
+  institute.v
+Frame_Health_treatment:
+  dose.n
+  acupuncture.n
+  ointment.n
+  pharmacy.n
+  immune system.n
+  alternative medicine.n
+  sauna.n
+  medicate.v
+  treatment.n
+  immunity.a
+  balm.n
+  serum.n
+  blood thinner.n
+  therapy.n
+  immunity.a
+  anti-inflammatory.a
+  medication.n
+  therapeutic.a
+  ventilator.n
+  medicine.n
+  pill.n
+  placebo.n
+  oxygen therapy.n
+  salve.n
+  complementary medicine.n
+  oxygen therapy.n
+  tonic.n
+  homeopathic medicine.n
+  liptropic agent.n
+  immune system.n
+  medical care.n
+  elixir.n
+  massage.n
+  herbal remedy.n
+  pharmaceutical.a
+  panacea.n
+  respirator.n
+  allopathic medicine.n
+  anticoagulant.n
+  red-light therapy.n
+  antidote.n
+Frame_Virus:
+  mutation.n
+  viral load.n
+  mutate.v
+  viral.a
+  virus.n
+  replicate.v
+  replication cycle.n
+  viral outbreak.n
+  viral shedding.n
+Frame_Courage:
+  valorous.a
+  dauntless.a
+  undaunted.a
+  braveness.n
+  courageous.a
+  valiant.a
+  fearless.a
+  heroism.n
+  dauntlessness.n
+  plucky.a
+  heroic.a
+  intrepidity.n
+  herolike
+  bravery.n
+  intrepid.a
+  stouthearted.a
+  valor.n
+  intrepiness.n
+  brave.a
+  stoutheartedness.n
+  courage.n
+  lion-hearted.a
+  courageousness.n
+  fearlessness.n
+Frame_Effervescence:
+  carbonated.a
+  fizz.n
+  effervesce.v
+  frothiness.n
+  foamy.a
+  foam.n
+  spumy.a
+  effervescent.a
+  carbonate.v
+  effervescence.n
+  fizz.v
+  spume.n
+  foaminess.n
+  frothy.a
+  bubbling.a
+  fizzy.a
+  fizzing.a
+  spume.v
+  bubbly.a
+  froth.n
+Frame_Pessimism:
+  negativistic.a
+  despairing.a
+  negativist.n
+  pessimism.n
+  defeatist.a
+  cynicism.a
+  cynic.n
+  hopelessness.n
+  cynical.a
+  pessimist.n
+  defeatism.n
+  despair.n
+  downbeat.a
+  non-optimistic.a
+  pessimistic.a
+  bearish.a
+  hopeless.a
+Frame_Race:
+  lead.n
+  starting gate.n
+  finish.n
+  front-runner.n
+  finish.v
+  handicap.n
+  foot race.n
+  sprint.n
+  starting line.n
+  horse race.n
+  lap.n
+  neck and neck.a
+  lap.v
+  handicapped.a
+  race.v
+  headstart.n
+  marathon.n
+  race.n
+  finish line.n
+  racer.n
+  sprint.v
+  front runner.n
+Frame_Time_of_day:
+  mid-day.n
+  mid-morning.n
+  daytime.n
+  night.n
+  nightfall.n
+  afternoon.n
+  eve.n
+  nighttime.n
+  tonight.n
+  dawn.n
+  night-time.n
+  sunset.n
+  morn.n
+  morning.n
+  evening.n
+  dusk.n
+  daybreak.n
+  noon.n
+Frame_Governing_action:
+  govern.v
+Frame_Pleasure:
+  enjoy.v
+  pleasurable.a
+  delight.n
+  enjoyable.a
+  entertaining.a
+  delightful.a
+  delightfulness.n
+  revel.v in
+  pleasant.a
+  enjoyment.n
+  pleasure.n
+  fun.n
+  fun.a
+Frame_Debt:
+  insolvency.n
+  indebted.a
+  insolvent.a
+  mortgage.n
+  indebtedness.n
+  owing.a
+  owe.v
+  debt.n
+  unpaid.a
+  financial liability.n
+  arrears.n
+  due.adj
+  bankrupt.a
+  bankruptcy.n
+  financially liable.a
+Frame_Textile:
+  interwoven.a
+  woven.a
+  textile.n
+  reweave.v
+  loose knit
+  loose-knit.a
+  fabric.n
+  knit.v
+  stitch.v
+  weave.v
+  interweave.v
+  tight-knit.a
+  embroidery.n
+  cloth.n
+  unravel.v
+  tight knit
+  stitch.n
+  embroider.v
+  fray.v
+  material.n
+  tapestry.n
+Frame_Spontaneity:
+  spontaneous.a
+  spontaneity.n
+Frame_Microorganism:
+  pathogen.n
+  cellular.a
+  pathogenic.a
+  bacteria.n
+  microorganism.n
+  cell.n
+  microbe.n
+Frame_Misinformation:
+  misinformation.n
+  conspiracy theory.n
+  deepfake.n
+  disinformation.n
+  misinformed.a
+  conspiracy.n
+Frame_Coffee:
+  dark roast.n
+  caffeine.n
+  expresso.n
+  light roast.n
+  de-caf.n
+  mug of coffee.n
+  coffee.n
+  java.n
+  cup of Joe.n
+  cappuccino.n
+  coffee moment.n
+  decaf.a
+  medium roast.n
+  mocha.n
+  coffee blend.n
+  latte.n
+  coffee bean.n
+  cafe noir.n
+  americano.n
+  coffee time.n
+  macchiato.n
+  de-caf.a
+  brew.n
+  espresso.n
+  cafe royale.n
+  cup of coffee.n
+  cafe au lait.n
+Frame_Cause_contact:
+  apply.v
+  touch.v
+Frame_Assets:
+  asset.n
+  holdings.n
+Frame_Process_end:
+  cessation.n
+  halt.v
+  end.v
+  terminate.v
+  end.n
+  discontinue.v
+  complete.n
+  completion.n
+  cease.v
+  stop.v
+  final.a
+  complete.v
+  finish.n
+  halt.n
+  discontinuation.n
+  ending.n
+  finish.v
+  stop.n
+Frame_Past:
+  yesterday.n
+  past.n
+Frame_Rights:
+  right.n to
+  inalienable.a
+  right.n
+Frame_Self_propelled_motion:
+  stride.n
+  jog.v
+  hurtle.v
+  run.v
+  pace.v
+  stagger.v
+  bow.v
+  clomp.v
+  crawl.v
+  spring.v
+  clamber.v
+  saunter.v
+  trip.v into
+  bound.v
+  skim.v
+  tread.v
+  march.v
+  promenade.v
+  sprint.v
+  vault.v
+  hop.v
+  dance.v
+  bop.v
+  goosestep.v
+  shoulder.v
+  caper.v
+  goose-step.v
+  cavort.v
+  totter.v
+  step.v
+  lollop.v
+  press.v on
+  steal.v into
+  lunge.v
+  lurch.v
+  walk.v
+  hobble.v
+  stride.v
+  creep.v
+Frame_Cause_of_climate_change:
+  anthropogenic.a
+  climate colonialism.n
+  capitalocene.n
+  climate coloniality.n
+  anthropogenic climate change.n
+  anthropocene.n
+Frame_Luminosity:
+  luminosity.n
+Frame_Sound:
+  din.n
+  quietness.n
+  sound.n
+  quiet.a
+  silence.n
+  blare.v
+  noisy.a
+  loudness.n
+  noise.n
+  deafening.a
+  silent.a
+  loud.a
+  blaring.a
+Frame_Anger:
+  ire.n
+  pissed.a off
+  outrage.n
+  fury.n
+  rage.n
+  angry.a
+  infuriated.a
+  furious.a
+  anger.n
+  peeved.a
+  mad.a
+  tantrum.n
+  road rage.n
+  irate.a
+  outraged.a
+Frame_Fierce_animal:
+  python.n
+  cobra.n
+  savagery.n
+  predator.n
+  bloodthirsty.a
+  leviathan.n
+  jaw.n
+  viper.n
+  claw.v
+  wolf.n
+  fang.n
+  claw.v at
+  maw.v
+  ravage.v
+  feral.a
+  vulturous.a
+  crocodile.n
+  viciousness.n
+  rabid.a
+  spider.n
+  maneater.n
+  gorilla.n
+  predatory.a
+  serpent.n
+  tentacle.n
+  squid.n
+  shark.n
+  lion.n
+  maul.v
+  scorpion.n
+  roar.v
+  octopus.n
+  growl.v
+Frame_Laundry_locale:
+  onsite laundry.n
+  laundry room.n
+  in-unit laundry.n
+  on-site laundry.n
+  cleaners.n
+  coin laundry.n
+  washerette.n
+  coin-op laundry.n
+  dry cleaner.n
+  laundromat.n
+  on-premise laundry.n
+  launderette.n
+Frame_Reasoning:
+  reason.n
+  prove.v
+  reasoning.n
+  reason.v
+  inference.n
+  proof.n
+  conclusion.n
+  infer.v
+  deduce.v
+  conclude.v
+Frame_Monetary_evaluation:
+  value.n
+  costliness.n
+  expensiveness.n
+  priciness.n
+Frame_Zealotry:
+  religious fanatic.n
+  jihad.n
+  extremist.n
+  jihadist.n
+  jihadi.n
+  fanaticism.n
+  zeal.n
+  zealotry.n
+  zealot.n
+  fanatic.n
+Frame_Force_application:
+  press.v
+  shove.v
+  ram.v
+  nudge.v
+  pull.v
+  jolt.n
+  push.v
+  jolt.v
+  jerk.v
+Frame_Surprise:
+  stupefaction.n
+  bewilder.v
+  startle.v
+  surprised.a
+  surprise.n
+  surprise.v
+  surprising.a
+  stupefy.v
+  astonishment.n
+  astonish.v
+  startled.a
+  amazed.a
+  unexpectedness.n
+  revelation.n
+  astonished.a
+  bewilderment.n
+  shocked.a
+  unexpected.a
+  astound.v
+  shock.n
+  shocker.n
+  wonderment.n
+  amaze.v
+  astoundment.n
+  amazement.n
+Frame_Upright_posture:
+  stand.v up
+  upstanding.a
+  upright.a
+  backbone.n
+Frame_Condition_of_physical_object:
+  jerry-rigged.a
+  weathered.a
+  tumbledown.a
+  run-down.a
+  crumbly.a
+  crumbling.a
+  gimcrack.a
+  haggard.a
+  staunch.a
+  decrepit.a
+  fallen-in.a
+  dingy.a
+  shabby.a
+  dilapidated.a
+  worn out.a
+  worn-out.a
+  ramshackle.a
+  tumble-down.a
+  jerrybuilt.a
+  rickety.a
+  shoddy.a
+  miss-hapen.a
+  deteriorated.a
+  deformed.a
+  derelict.a
+Frame_Health:
+  able.a bodied
+  healthful.a
+  healthy.a
+  wellness.n
+  health.n
+  able-bodied.a
+  healthiness.n
+Frame_Happiness:
+  elation.n
+  glee.n
+  elated.a
+  happy.a
+  gladness.n
+  happiness.n
+  ecstatic.a
+  joy.n
+  gleeful.a
+  overjoyed.a
+  joyfulness.n
+  glad.a
+  joyful.a
+  gleefulness.n
+Frame_Judicial_action:
+  defendant.n
+  jury.n
+  legal.a
+  judge.n
+  justice.n
+  constitutionality.n
+  court.n
+Frame_Violence:
+  violent.a
+  violence.n
+Frame_Authority:
+  authoritative.a
+  authority.n
+Frame_Food_preservation:
+  smoked.a
+  pickling.n
+  frozen.a
+  preserved.a
+  fresh.a
+  dehydrated.a
+  raw.a
+  sugared.a
+  salted.a
+  stewed.a
+  fermented.a
+  gingered.a
+  canned.a
+  crystallized.a
+  jellied.a
+  candied.a
+  dried.a
+  pickled.a
+  freeze-dried.a
+Frame_Danger:
+  menace.v
+  threaten.v
+  exigency.n
+  endanger.v
+  pose.v danger
+  treacherous.a
+  danger.n
+  unsafe.a
+  menace.n
+  endangerment.n
+  perilous.a
+  hazardous.a
+  dangerous.a
+  risk.v
+  exigent.a
+  imperil.v
+  risky.a
+  menacing.a
+  jeopardy.n
+  threat.n
+  threatening.a
+  jeopardize.v
+  hazard.n
+  risk.n
+  peril.n
+Frame_Legislation_enactment:
+  bill.n
+  resolution.n
+  legislation.n
+Frame_Food:
+  nourishment.n
+  honey.n
+  sugar.n
+  bread.n
+  nourish.v
+  meat.n
+  foodstuff.n
+  food.n
+  rice.n
+  candy.n
+Frame_Cultivation:
+  cultivate.v
+  bumper crop.n
+  plant.v
+  plow.v
+  sow.v
+  yield.v
+  plow.n
+  yield.n
+  crop.n
+  harvest.n
+  cultivation.n
+  cull.v
+  reap.v
+  plant.n
+  pluck.v
+  harvest.v
+  crop yield.n
+Frame_Pest:
+  pestilence.n
+  roach.n
+  infest.v
+  mold.n
+  fungi.n
+  infestation.n
+  termite.n
+  pest.n
+  blight.v
+  pest-hole.n
+  vermin.n
+  swarm.n
+  cockroach.n
+  dry rot.n
+  mildew.n
+  blight.n
+  fungus.n
+Frame_Embarrassment:
+  embarrass.v
+  abashed.a
+  abash.v
+  humiliate.v
+  shamedfacedness.n
+  abashment.n
+  shamefulness.n
+  shamefaced.a
+  embarrassment.n
+  humiliation.n
+  humiliating.a
+  shameful.a
+  embarrassing.a
+  shame.n
+Frame_Geographic_feature:
+  vale.n
+  hill.n
+  archipelago.n
+  beach.n
+  island.n
+  peninsula.n
+  valley.n
+  plateau.n
+  cliff.n
+  oasis.n
+Frame_Overeating:
+  fatter.a
+  gobble.v
+  hefty.a
+  binge.v
+  obese.a
+  overeat.v
+  gobble.v up
+  feast.n
+  gluttonize.v
+  pig.v out
+  gluttony.n
+  fat.a
+  pig.n
+  gorge.v
+  surfeit.v
+  stuffed.a
+  hog.n
+  stout.a
+  feeding trough.n
+  glutton.n
+  overeater.n
+  scarf.v
+  eat.v like a horse
+  guzzle.v
+  pack.v away
+  plump.a
+  feast.v
+  overindulge.v
+Frame_Lax:
+  flaccid.a
+  spongy.a
+  elastic.a
+  flexibility.n
+  pliable.a
+  flexible.a
+  stretchy.a
+  limp.a
+  ductile.a
+  compressible.a
+  lax.a
+  laxness.n
+  moldable.a
+  squishy.a
+  slack.a
+  mushy.a
+  soft.a
+  malleable.a
+  super-soft.a
+Frame_Physical_combat:
+  duel.v
+  duke.v
+  boxing match.n
+  tussle.n
+  fight.v
+  skirmish.v
+  wrestle.v
+  box.v
+  scuffle.v
+  joust.v
+  struggle.v
+  combatant.n
+  combative.a
+  battle.n
+  row.n
+  fight.n
+  combat.v
+  hassle.v
+  brawl.n
+  struggle.n
+  fist fight.n
+  wrangle.v
+  strife.n
+  grapple.v
+  skirmish.n
+  duel.n
+  brawl.v
+  clash.v
+  hassle.n
+  clinch.v
+  melee.v
+  spar.v
+Frame_Calendric_unit:
+  Friday.n
+  Sunday.n
+  weeknight.n
+  Tuesday.n
+  decade.n
+  seasonal.a
+  century.n
+  fortnight.n
+  summer.n
+  April.n
+  month.n
+  holiday.n
+  January.n
+  Saturday.n
+  February.n
+  day.n
+  November.n
+  era.n
+  Thursday.n
+  Wednesday.n
+  Monday.n
+  May.n
+  weekend.n
+  July.n
+  week-end.n
+  August.n
+  June.n
+  October.n
+  winter.n
+  December.n
+  weekday.n
+  week.n
+  year.n
+  March.n
+  September.n
+  season.n
+Frame_Physical_strength:
+  toughen.v
+  brawny.a
+  muscle.n
+  brawn.n
+  burly.a
+  strength.n
+  powerful.a
+  stamina.n
+  brace.v
+  mighty.a
+  strong.a
+  tough.a
+  brute.a force.n
+  backbone.n
+  strengthen.v
+  muscular.a
+  might.n
+  fortify.v
+Frame_Forward_motion:
+  cut.v through
+  charge.v
+  proceed.v
+  edge.v
+  move.v forward
+  headway.n
+  advancement.n
+  head.v
+  progress.v
+  advance.n
+  progress.n
+  course.v
+  advance.v
+Frame_Nutritious_food:
+  nutrient.n
+  healthy.a food.n
+  nourishing.a
+  nutritious.a
+  nutrition.n
+  nutritious.a
+  nutritional.a
+  nutritious.a food.n
+  nutritive.a
+Frame_Dwelling_place:
+  estate.n
+  cottage.n
+  home.n
+  abode.n
+  hovel.n
+  house.n
+  residence.n
+  hut.n
+  mansion.n
+  dwelling.n
+  den.n
+  apartment.n
+  domicile.n
+Frame_Spirituality:
+  devoutness.n
+  mystic.n
+  metaphysical.a
+  ethereal.a
+  spiritual.a
+  spirituality.n
+  mysticism.n
+  devout.a
+  supernatural.a
+  mystical.a
+Frame_Wealth:
+  well-heeled.a
+  weathliest.a
+  rich.n
+  riches.n
+  well-off.a
+  rich.a
+  richer.a
+  prosperous.a
+  affluence.n
+  hoity toity.a
+  financially independent.a
+  well-to-do.a
+  prosperity.n
+  extremely rich.a
+  wealth.n
+  wealthy.a
+  richest.a
+Frame_Shepherding:
+  shepherd.v
+  shepherd.n
+  sheep.n
+Frame_Insanity:
+  hysteria.n
+  zany.a
+  insane.a
+  wingnut.n
+  whacko.a
+  nuts.n
+  nutcase.n
+  nutjob.n
+  whack-job.n
+  whackjob.n
+  deranged.a
+  loony.a
+  wacko.n
+  crazy.a
+  kooky.a
+  madness.n
+  nutty.a
+  mania.n
+  madman.n
+  hysterics.n
+  bonkers.a
+  mad.a
+  whack job.n
+  rabid.a
+  lunatic.n
+  insanity.n
+  hysterical.a
+  whacko.n
+  hysteric.a
+  nut.n
+  loon.n
+  wacko.a
+  kook.n
+  batty.a
+  hysteric.n
+Frame_Tempting:
+  alluring.a
+  seductive.a
+  enticing.a
+  beguiling.a
+  temptation.n
+  entice.v
+  tempt.v
+  beguile.v
+  allure.n
+  tempting.a
+  enticement.n
+Frame_Emotion:
+  emotional.a
+  feeling.n
+  emotion.n
+Frame_Motion_away_from_an_undesirable_location:
+  flee.v
+  run away.v
+  abandon.v
+  desert.v
+  break.v out
+  scram.v
+  escape.n
+  escape.v
+  get.v out
+  dig.v out
+Frame_Conservation:
+  NCC.n
+  climate conservation.n
+  wildlife conservation.n
+  Nature Conservancy of Canada.n
+  environmental conservation.n
+  WWF.n
+  wilderness conservation.n
+  nature conservation.n
+  World Wildlife Fund.n
+  conservatory.n
+Frame_Placing_in_a_protected_location:
+  harbor.v
+  haven.n
+  asylum.n
+  paradise.n
+  refuge.n
+  shelter.n
+  sanctuary.n
+  shelter.v
+Frame_Fluid_motion:
+  ebb.n
+  pour.v
+  surge.v
+  spurt.v
+  flow.v
+  squirt.v
+  fountain.n
+  wave.n
+  rain.v
+  brim.v
+  eddy.v
+  dribble.v
+  slop.v
+  gush.v
+  splatter.v
+  slosh.v
+  spout.v
+  shower.v
+  stream.v
+  tide.n
+  drainage.n
+  ripple.n
+  flow.n
+  drain.v
+  seep.v
+  trickle.n
+  spray.v
+  flood.v
+  drench.v
+  ebb.v
+  leak.v
+  hiss.v
+  spill.v
+  river.v
+  geyser.n
+  outpouring.n
+  runoff.n
+  ripple.v
+  waterfall.n
+  overflow.v
+  soak.v
+  surge.n
+  inundate.v
+  trickle.v
+  ooze.v
+  spew.v
+  channel.v
+  pump.v
+  drift.v
+  cascade.v
+  awash.a
+  splash.v
+  purl.v
+  drip.v
+  runoff.a
+  bubble.v
+Frame_Stockholders:
+  stockholder.n
+  stakes.n
+  stock.n
+  stake-holder.n
+Frame_Taste_positive:
+  yummy.a
+  appetizing.a
+  mouth-watering.a
+  palatable.a
+  ambrosial.a
+  good-tasting.a
+  tasty.a
+  delicious.a
+  flavorful.a
+  juicy.a
+Frame_Group:
+  set.n
+  group.n
+Frame_Environmental_restraints:
+  snag.n
+  tarpit.n
+  entanglement.n
+  web.n
+  muddle.n
+  bog.v down
+  snag.v
+  jungle.n
+  muddle.v
+  maelstrom.n
+  tangle.v
+  tar pit.n
+  quicksand.n
+  catch.v
+  thicket.n
+  stuck.n
+  snarl.n
+  tangle.n
+Frame_Berry:
+  açai.n
+  strawberry.n
+  cranberry.n
+  mulberry.n
+  lingonberry.n
+  huckleberry.n
+  berry.n
+  juniper berry.n
+  boysenberry.n
+  blueberry.n
+  gooseberry.n
+  goji.n
+  elderberry.n
+  raspberry.n
+  blackberry.n
+Frame_Future:
+  future.n
+  forthcoming.a
+  tomorrow.n
+  morrow.n
+  futurity.a
+  hereafter.n
+  time.n to come
+Frame_Inspiration:
+  inspiration.n
+  inspire.v
+  encouragement.n
+  motivate.v
+  motivation.n
+  encourage.v
+Frame_Confinement:
+  inescapable.a
+  confine.v
+  limitation.n
+  confinement.n
+Frame_Body_of_water:
+  lagoon.n
+  lake.n
+  inlet.n
+  pond.n
+  loch.n
+  bay.n
+  seaway.n
+  cove.n
+  fjord.n
+  stream.n
+  sea.n
+  pool.n
+  brook.n
+  gulf.n
+  channel.n
+  strait.n
+  river.n
+  ocean.n
+Frame_Climate_change:
+  climate change.n
+  human-induced climate change.n
+  naturally occurring climate change.n
+  global warming.n
+  naturally occurring global warming.n
+  climate-sensitive.a
+  human-induced global warming.n
+Frame_Visual_obstruction:
+  cloak.v
+  blanket.n
+  smokescreen.n
+  mask.v
+  hidden.a
+  curtain.n
+  shroud.v
+  conceal.v
+  smoke screen.n
+  blanket.v
+  hide.v
+  facade.n
+  obscure.v
+  cover.v
+Frame_Democratic_institution:
+  democratic.a institution.n
+Frame_Person:
+  ourselves.n
+  someone.n
+  him.n
+  somebody.n
+  human being.n
+  guy.n
+  gentleman.n
+  she.n
+  I.n
+  everyone.n
+  anyone.n
+  myself.n
+  who.n
+  herself.n
+  boy.n
+  individual.n
+  person.n
+  lady.n
+  whom.n
+  anybody.n
+  he.n
+  himself.n
+  they.n
+  ourself.n
+  human.n
+  man.n
+  woman.n
+  her.n
+  yourself.n
+  kid.n
+  them.n
+  you.n
+  me.n
+  girl.n
+  everybody.n
+  themself.n
+Frame_Stability:
+  instability.n
+  sturdiness.n
+  steadiness.n
+  stability.n
+Frame_Hunger:
+  drool.v
+  appetite.n
+  famine.n
+  hunger.n
+  hunger.v
+  thirsty.a
+  peckish.a
+  thirst.n
+  ravenousness.n
+  munchies.n
+  ravenous.a
+  salivate.v
+  hungry.a
+Frame_Losing:
+  misplace.v
+Frame_Servant:
+  butler.n
+  maid.n
+  vassal.n
+  peon.n
+  slave.n
+  servant.n
+  subservient.a
+  lackey.n
+  footman.n
+  in chains.a
+  serf.n
+  thrall.n
+Frame_Connective_words:
+  or.c
+  if.c
+  as.c
+  yet.c
+  however.c
+  and.c
+  but.c
+  so.c
+  which.p
+Frame_Wealth_redistribution:
+  apportion.v
+  allotment.n
+  reallocate.v
+  mete.v
+  budget.v
+  allocate.v
+  budget.n
+  allot.v
+  earmark.v
+Frame_Motion:
+  movement.n
+  mobility.n
+  shift.n
+  shift.v
+  immovable.a
+  mobile.a
+  motion.n
+  move.v
+Frame_Climate_change_belief:
+  global warming avowal.n
+  climate belief.n
+  climate change consensus.n
+  climate avowal.n
+  climate change stance.n
+  global warming believer.n
+  global warming stance.n
+  climate consensus.n
+  epistemology.n of climate change
+  climate change supporter.n
+  epistemology.n of global warming
+  climate believer.n
+  climate stance.n
+  climate change avowal.n
+  global warming consensus.n
+  global warming belief.n
+  climate change belief.n
+  climate supporter.n
+  climate change believer.n
+Frame_Decision_making:
+  decision-maker.n
+  decision.n
+  decide.v
+  decision-making.n
+  choice.n
+  choose.v
+Frame_Legislative_action:
+  legislative.a agenda.n
+  constitution.n
+  lawmaking.n
+  bill.n
+  legislative.a
+  legislature.n
+  charter.n
+  law.n
+  ruling.n
+  legislation.n
+Frame_Restore_to_life:
+  breathe.v new life into
+  resuscitation.n
+  reinvigorate.v
+  invigoration.n
+  restoration.n
+  revivify.v
+  renewal.n
+  revitalize.v
+  resurrection.n
+  revivification.n
+  renewed.a
+  resurrect.v
+  restore.v
+  revival.n
+  revive.v
+  re-energize.v
+  resuscitate.v
+  refresh.v
+  invigorate.v
+  breathe.v life into
+  renew.v
+  enliven.v
+  rejuvenate.v
+  revitalization.n
+  invigorated.a
+  rejuvenation.n
+Frame_Linens:
+  bedsheet.n
+  tablecloth.n
+  duvet.n
+  linen.n
+  blanket.n
+  coverlet.n
+  washcloth.n
+  pillowcase.n
+  sheet.n
+  towel.n
+  bedding.n
+  dishtowel.n
+  bedspread.n
+  comforter.n
+  quilt.n
+  duvet cover.n
+  placemat.n
+  napkin.n
+  linens.n
+Frame_Morality:
+  morality
+  moral
+Frame_Gun_control:
+  firearm.n control.n
+  control.n of firearm.n
+  gun.n control.n
+  background check.n
+  gun.n restriction.n
+  control.n of gun.n
+  firearm.n restriction.n
+Frame_Burial:
+  bury.v
+  heap.n
+  blanketed.n
+  heap.v
+  buried.v
+  plow.v under
+Frame_Cause_to_see:
+  show.v
+Frame_Amassing:
+  accumulate.v
+  stockpile.n
+  gather.v
+  stockpile.v
+  accrue.v
+  aggregate.v
+  collection.n
+  amass.v
+  hoard.n
+  collect.v
+  accumulation.n
+  glean.v
+  hoard.v
+Frame_Relationship:
+  relationship.n
+  relate.v
+  related.a
+Frame_Country:
+  The United States.n
+  country.n
+  U.S..n
+  Iran.n
+  The U.S..n
+  US.n
+  The US.n
+  United States.n
+  Russia.n
+  Mexico.n
+Frame_Pursue:
+  track.v
+  tail.v
+  follow.v
+  chase.v
+  stalk.v
+  track.v down
+  shadow.v
+  go.v after
+  pursue.v
+  pursuit.n
+  hunt.v down
+  prowl.v
+  pounce.v
+  chase.n
+  run.v down
+Frame_Aids_to_motion:
+  thrust.v
+  accelerate.v
+  streamline.v
+  speed up.v
+  fuel.v
+  yank.v
+  spur.n
+  boost.v
+  spur.v
+Frame_Gun_rights_advocate:
+  pro gun advocate.n
+  weekend rambo.n
+  gun-rights advocate.n
+  gun freedom advocate.n
+  second amendment advocate.n
+  ammosexual.a
+  gun-supporter.n
+  gun rights advocate.n
+  gun advocate.n
+  gun rights activist.n
+  pro-gun.a
+  pro-gun advocate.n
+  gun clinger.n
+  gun supporter.n
+  firearm activist.n
+  gun rights.n proponent
+  advocate.n for gun right.n
+  gundamentalist.n
+  advocate.n of gun right.n
+  gun enthusiast.n
+  ammosexual.n
+  pro gun.a
+  armchair commando.n
+  gun-clinging.n
+Frame_Boat_motion:
+  oar.v
+  navigate.v
+  row.v
+  anchor.v
+  adrift.a
+  canoe.v
+  float.v
+  afloat.a
+  kayak.v
+  barge.v
+  sail.v
+  drift.v
+  raft.v
+  cast off.v
+  ferry.v
+  paddle.v
+  embark.v
+  moor.v
+  on.prep course
+  boat.v
+  off.prep course
+  ski.v
+  yacht.v
+Frame_Membership:
+  belonging.n
+  membership.n
+  belong.v
+  member.n
+Frame_Climate_change_denial:
+  climate change skepticism.n
+  global warming skepticism.n
+  global warming skeptic.n
+  climate denier.n
+  climate change denial.n
+  global warming denier.n
+  climate change denier.n
+  climate skeptic.n
+  climate denial.n
+  climate skepticism.n
+  global warming denial.n
+Frame_Decrease_size:
+  erode.v
+  shrinkage.n
+  deflate.v
+  diminishment.n
+  reduce.v
+  diminish.v
+  hollow.v
+  dwindling.a
+  smaller.a
+  dwindle.v
+  shrunken.a
+  condense.v
+  shrink.v
+  erosion.n
+  contract.v
+  shrinking.n
+  hollow.a
+  reduction.n
+  compress.v
+Frame_Political_region:
+  village.n
+  town.n
+  city.n
+  territory.n
+  province.n
+  district.n
+  municipality.n
+  jurisdiction.n
+  county.n
+  state.n
+Frame_Confidence:
+  self-confident.a
+  poised.a
+  reliable.a
+  rely.v on
+  confident.a
+  confidence.n
+  assured.a
+  self-confidence.n
+  self-assured.a
+Frame_Work_scenario:
+  earnings.n
+  occupation.n
+  worker.n
+  wage.n
+  earn.v
+  compensation.n
+  toiler.n
+  compensate.v
+  work.n
+  salary.n
+  income.n
+  work.v
+  well-paying.a job.n
+  working.n
+Frame_Seafaring_vehicle:
+  cruise.v
+  boat.n
+  ship.n
+  marine.adj
+  aquatic.adj
+  nautical.adj
+  oceangoing.adj
+  seagoing.adj
+  seafaring.adj
+Frame_Social_status:
+  social.a status.n
+Frame_Upward_motion:
+  sky rocket.n
+  jump.v
+  upsurge.n
+  sky-rocket.v
+  climb.v out
+  upwardly mobile.a
+  skyrocket.n
+  climbing.v
+  heighten.v
+  climb.v
+  upswing.n
+  jump.n
+  pull.v oneself up
+  pull.v self up
+  ascendance.n
+  pull.v self out
+  loft.v
+  mount.v
+  leap.v
+  rise.n
+  ascent.n
+  upward mobility.n
+  climbing.v ladder
+  rising.a
+  move.v up
+  climb.v the ladder
+  leap.n
+  ascend.v
+  upswell.n
+  jump.v up
+  rise.v out
+  ascension.n
+  scale.v
+  rocket.v
+  upsurge.v
+  buoy.v
+  go.v up
+  rise.v
+  scaling.a
+  lift.v
+  skyrocket.v
+  soar.v
+Frame_Rate_of_motion:
+  zoom.v
+  speed.v
+  tear.v
+  trot.v
+  charge.v
+  straggle.v
+  lope.v
+  hurry.v
+  toddle.v
+  hasten.v
+  scamper.v
+  bolt.v
+  totter.v
+  gallop.v
+  slog.v
+  crawl.v
+  scurry.v
+  dash.v
+  skedaddle.v
+  bustle.v
+  nip.v
+  hurtle.v
+  bound.v
+  quickstep.v
+  dodder.v
+  mosey.v
+  creep.v
+  shamble.v
+  cruise.v
+  saunter.v
+  lumber.v
+  whiz.v
+  streak.v
+  rush.v
+  plod.v
+  canter.v
+  trudge.v
+  inch.v
+  dart.v
+  stray.v
+  amble.v
+  trundle.v
+Frame_Object_insertion:
+  install.v
+  inject.v
+  lug.v in
+  stab.v
+  squeeze.v in
+  stick.v in
+  embed.v
+  tuck.v
+  ingrain.v
+  insert.v
+  inlay.v
+  force.v in
+  implant.v
+  ingress.v
+  poke.v
+  sink.v in
+  drill.v
+  shove.v in
+Frame_Card_game:
+  trump.v
+  UNO.n
+  card.n game.n
+  ace and eights.n
+  game of cards.n
+  flush.n
+  poker.n
+  cut.v the cards
+  cards.n
+Frame_Cleaning_substance:
+  soap.n
+  soap.n and water.n
+  laundry detergent.n
+  shampoo.n
+  facial bar.n
+  cleaning substance.n
+  soap flake.n
+  bleach.n
+  cleansing agent.n
+  cleanser.n
+  stain remover.n
+  soap flakes.n
+  dishwashing detergent.n
+  detergent.n
+  liquid soap.n
+  body wash.n
+  soap powder.n
+Frame_Physical_connection:
+  tie.n
+  bond.v
+  connection.n
+  bond.n
+  link.n
+  bind.v
+  connector.n
+  chain.n
+  strap.v
+  binding.n
+  strap.n
+  chain.v
+  connect.v
+  link.v
+Frame_Protect_against_contact:
+  safeguard.v
+  fender.n
+  armor.v
+  shield.v
+  armor.n
+  buffer.n
+  shock absorber.n
+  bumper.n
+  fend.v
+  cushion.n
+  screen.n
+  cushion.v
+  screen.v
+  bulwark.n
+  shield.n
+  buffer.v
+Frame_Romantic_love:
+  love.n
+  love.v
+  adore.v
+  lust.n
+  lust.v
+Frame_Climate_science:
+  global warming science.n
+  atmospheric science.n
+  global warming scientist.n
+  Global Circulation Model.n
+  climate model.n
+  hydrologic system.n
+  climate forcing.n
+  global warming potential.n
+  global warming statistic.n
+  climate change statistic.n
+  meteorologist.n
+  climate scientist.n
+  ground level ozone.n
+  hydrosphere.n
+  global warming adaptation.n
+  GCM.n
+  climate change adaptation.n
+  stratospheric ozone.n
+  climate change data.n
+  global warming projections.n
+  climate change projections.n
+  climatology.n
+  global warming prediction.n
+  climate feedback.n
+  climate attribution science.n
+  ozone forming potential.n
+  climate projections.n
+  climate scenario.n
+  climate normal.n
+  borehole.n
+  climate science.n
+  climate statistic.n
+  climate prediction.n
+  GWP.n
+  Earth energy imbalance.n
+  climatologist.n
+  climate forcing factor.n
+  diminished ozone layer.n
+  climate change prediction.n
+  climate change science.n
+  global warming data.n
+  General Circulation Model.n
+  climate data.n
+  climate change scientist.n
+  meteorology.n
+  Earth system modeling.n
+  climate system.n
+  biogenic emission.n
+Frame_Responsibility:
+  responsibly.adv
+  responsible.a
+  responsibility.n
+Frame_Detach:
+  detach.v
+  unlace.v
+  unshackle.v
+  unchain.v
+  untether.v
+  unhitch.v
+  unbind.v
+  disengage.v
+  unfasten.v
+  unknot.v
+  untie.v
+Frame_Fit:
+  fit.v
+  fit.n
+Frame_Problem:
+  predicament.n
+  quandary.n
+  issue.n
+  problem.n
+  dilemma.n
+Frame_Manner_of_motion:
+  storm.v
+  skulk.v
+  samba.v
+  coast.v
+  slither.v
+  traipse.v
+  swagger.v
+  mince.v
+  frolic.v
+  gallivant.v
+  scud.v
+  stump.v
+  cavort.v
+  romp.v
+  slouch.v
+  snake.v
+  jitterbug.v
+  scutter.v
+  sashay.v
+  stretch.v
+  boogie.v
+  conga.v
+  prance.v
+  jive.v
+  sidle.v
+  hop.v
+  waltz.v
+  gambol.v
+  stride.v
+  bounce.v
+  dance.v
+  shrink.v
+  flounce.v
+  cascade.v
+  strut.v
+  wade.v
+  tramp.v
+  sleepwalk.v
+  clog.v
+  lurch.v
+  tango.v
+  flap.v
+  cancan.v
+  slink.v
+  bob.v
+  pad.v
+  tiptoe.v
+  squaredance.v
+  waddle.v
+  hobble.v
+  jig.v
+  rumba.v
+  skitter.v
+  stomp.v
+  scramble.v
+  swim.v
+  shuffle.v
+  slide.v
+  foxtrot.v
+  limp.v
+  rip.v
+  stagger.v
+  polka.v
+  sneak.v
+  skip.v
+  scuttle.v
+  tapdance.v
+  stumble.v
+  lollop.v
+Frame_Protecting:
+  safeguard.v
+  look out for.v
+  protect.v
+  shelter.v
+  safeguard.n
+  guard.n
+  harbor.v
+  guard.v
+  security blanket.n
+  look after.v
+  shelter.n
+  harbor.n
+  protection.n
+  sanctuary.n
+Frame_Methane_emissions:
+  CH4.n
+  methane.n
+  methane leakage.n
+  methane emissions.n
+  enteric fermentation.n
+  coalbed methane.n
+Frame_Infectious_disease:
+  ringworm.n
+  epidemic.n
+  asymptomatic.a
+  turberculosis.n
+  vulnerable population.n
+  polio.n
+  comorbidity.n
+  fungal infection.n
+  shingles.n
+  sexually transmitted disease.n
+  chlamydia.n
+  strep throat.n
+  whooping cough.n
+  stomach flu.n
+  hepititus b.n
+  chicken pox.n
+  flu.n
+  pestilent.a
+  infection.n
+  pestilence.n
+  syphillus.n
+  AIDS.n
+  menigitus.n
+  vulnerable person.n
+  bacterial infection.n
+  pnemonia.n
+  measles.n
+  infectious.a
+  gonorrhea.n
+  influenza.n
+  contagion.n
+  human papillomavirus.n
+  contagious.a
+  mumps.n
+  plague.v
+  hepititus c.n
+  diphtheria.n
+  endemic.a
+  rubella.n
+  yeast infection.n
+  HIV.n
+  urinary tract infection.n
+  plague.n
+Frame_Intelligent:
+  brainiac.n
+  perspicacious.a
+  whiz.n
+  savvy.a
+  smart.a
+  wise.a
+  brainy.a
+  ingenious.a
+  crafty.a
+  clever.a
+  genius.n
+  intelligent.a
+  astute.a
+  resourceful.a
+  cunning.a
+  insightful.a
+Frame_Tyranny:
+  authoritarianism.n
+  tyranny.n
+  totalitarian.a
+  tyrannical.a
+  despotic.a
+  dictatorship.n
+  tyrant.n
+  totalitarianism.n
+  communism.n
+  authoritarian.a
+  autocracy.n
+  despotism.n
+  thug tactic.n
+  autocratic.a
+  dictator.n
+  communist.a
+  fascism.n
+  fascist.a
+  despot.n
+Frame_Valued_object:
+  reward.n
+  treasure.n
+  gem.n
+  jewel.n
+  prize.v
+  gift.n
+  prized.a
+  prize.n
+  treasure.v
+  pearl.n
+Frame_Weather:
+  humid.a
+  snowy.a
+  rainy.a
+  weather.n
+  forecast.v
+  snow.n
+  forecast.n
+  temperature.n
+  rain.n
+  climate.n
+Frame_Coldness:
+  frosty.a
+  freezing.a
+  cold.a
+  chilled.a
+  icy.a
+  coolness.n
+  frostiness.n
+  coldness.n
+  nippy.a
+  iciness.n
+  chill.n
+  cool.a
+  chilly.a
+  frozen.a
+  wintry.a
+  chilliness.a
+  frigid.a
+  chill.v
+Frame_Being_at_a_high_location:
+  higher.a
+  sky-high.a
+  uppermost.a
+  summit.n
+  highest peak.n
+  mountaintop.n
+  peak.v
+  high.a
+  peak.n
+  top one percent.n
+  top of the totem pole.n
+  top of the pyramid.n
+  apex.n
+  high.n
+  pinnacle.n
+  on.prep top.a
+  stratosphere.n
+  highest level.n
+  upper.a
+  top.a
+  highest.a
+  up.prep
+  stratospheric.a
+Frame_Drought:
+  ecological drought.n
+  climate-induced drought.n
+  hydrological drought.n
+  meteorological drought.n
+  drought preparedness.n
+  drought.n
+  drought prevention.n
+  agricultural drought.n
+Frame_Legislative_branch:
+  Congress.n
+  legislature.n
+  Senate.n
+Frame_Excitement:
+  exhilaration.n
+  stimulate.v
+  arouse.v
+  agitate.v
+  excitement.n
+  thrill.n
+  thrill.v
+  agitation.n
+  excite.v
+  frenzy.n
+  exhilarate.v
+  stimulation.n
+  frenzied.a
+Frame_Verticality:
+  verticality.n
+  vertical.a
+Frame_Finance:
+  investment.n
+  financial.a
+  finance.n
+  fiscal.a
+Frame_Physical_path:
+  avenue.n
+  fast lane.n
+  alley.n
+  skyway.n
+  pathway.n
+  fasttrack.n
+  road.n
+  turnpike.n
+  lane.n
+  roadway.n
+  superhighway.n
+  route.n
+  expressway.n
+  toll road.n
+  bridge.n
+  freeway.n
+  passage.n
+  street.n
+  bridge.v
+  way.n
+  fast track.n
+  track.n
+  slow lane.n
+  beltway.n
+  highway.n
+  parkway.n
+  byway.n
+  path.n
+  thoroughfare.n
+  aisle.n
+  boulevard.n
+  trail.n
+Frame_Environmental_harm:
+  pollute.v
+  pollution.n
+  oil spill.n
+  acid rain.n
+  smog.n
+  deforestation.n
+  greenhouse gas.n
+Frame_Robot:
+  robotic.a
+  robot.n
+Frame_Friendship:
+  chumminess.n
+  pal.n
+  amity.a
+  amigo.n
+  friendship.n
+  chummy.a
+  chum.n
+  friendly.a
+  buddy.n
+  friendliness.n
+  amiability.n
+  amiable.a
+  friend.n
+  sidekick.n
+  befriend.v
+  friend.v
+Frame_Judgment:
+  judgement.n
+  judge.v
+  judgment.n
+Frame_Laughter:
+  grin.n
+  laugh.n
+  smile.v
+  chortle.v
+  grinning.a
+  chuckle.n
+  guffaw.n
+  chuckle.v
+  giggle.v
+  snicker.v
+  giggle.n
+  snicker.n
+  grin.v
+  laughter.n
+  smiling.a
+  chortle.n
+  laugh.v
+  smile.n
+  smirk.v
+  smirk.n
+  guffaw.v
+Frame_Effort:
+  effort.n
+  effortful.a
+  toil.n
+  labor.v
+  toil.v
+  effortless.a
+  exert.v
+  exertion.n
+  work.n
+  labor.n
+Frame_Unintelligent:
+  dummy.n
+  idiot.n
+  unthinking.a
+  dumb.a
+  birdbrain.n
+  slow-witted.a
+  empty-headed.a
+  birdbrained.a
+  inane.a
+  moronic.a
+  stupid.a
+  unwise.a
+  simpleminded.a
+  witless.a
+  simple-minded.a
+  idiotic.a
+  moron.n
+  hare-brained.a
+  imbecilic.a
+  ignorant.a
+  brainless.a
+  bone-headed.a
+  unclever.a
+  dim-witted.a
+  thick-headed.a
+  unintelligent.a
+Frame_Disease:
+  immune.a to
+  virus.n
+  symptom.n
+  scourge.v
+  diarreah.n
+  fever.n
+  fatigue.n
+  sick.a
+  infected.a
+  infectious.a
+  chills.n
+  illness.n
+  ill.a
+  infection.n
+  vomiting.n
+  sickness.n
+  virulent.a
+  parasite.n
+  leper.n
+  gangrene.n
+  immunity.n to
+  pathology.n
+  leprosy.n
+  fever.n
+  blight.n
+  congestion.n
+  genetic disease.n
+  blighted.a
+  cough.n
+  flu.n
+  immune.a
+  auto-immune disease.n
+  nausea.n
+  disease.n
+  immunity.n
+Frame_Taste:
+  flavored.a
+  flavorless.a
+  tasty.a
+  sweeten.v
+  flavor.n
+  salty.a
+  tastelessness.n
+  taste.n
+  tart.a
+  spicy.a
+  salted.a
+  spiciness.n
+  umami.a
+  tanginess.n
+  sweetness.n
+  sour.a
+  tasteless.a
+  flavorful.a
+  bitterness.n
+  blandness.n
+  sugary.a
+  bland.a
+  bittersweet.a
+  flavourless.a
+  spiced.a
+  saltiness.n
+  flavour.n
+  savory.a
+  tastiness.n
+  taste.v
+  flavourful.a
+  tangy.a
+  sourness.n
+  tang.n
+  tartness.n
+  sweet.a
+  bitter.a
+Frame_Extinguish:
+  blow out.v
+  put out.v
+  quench.v
+  douse.v
+  snuff out.v
+  extinguish.v
+Frame_Employment:
+  employee.n
+  employ.v
+  employment.n
+  employer.n
+Frame_Grasp:
+  cling.v
+  grip.v
+  clasping.v
+  grip.n
+  clench.v
+  clutch.v
+  grasp.n
+  grab.v
+  cinching.v
+  grasp.v
+  hold.n
+  clinging.v
+  clutch.n
+  clasp.v
+  cinch.v
+  clenching.v
+  hold.v
+Frame_Investment:
+  buy.v stock in
+  stock holder.n
+  bankroll.n
+  dividend.n
+  stock.n
+  invest.v
+  loan.n
+  investor.n
+  investment.n
+  divest.v
+  endowment.n
+  grant.n
+  divestment.n
+Frame_Artificial:
+  synthetic.a
+  unnatural.a
+  fabricated.a
+  man-made.a
+  manufactured.a
+  human-made.a
+  artificial.a
+Frame_Harm_to_living_entity:
+  injure.v
+  poison-pill.n
+  toxin.n
+  torture.n
+  poison pill.n
+  torture.v
+  injurious.a
+  wound.v
+  mutilate.v
+  abuse.v
+  abuse.n
+  sting.n
+  venom.n
+  flog.v
+  bruise.v
+  poison.v
+  maim.v
+  bruise.n
+  hurt.v
+  break.v the back
+  poisonous.a
+  bite.v hard
+  venin.n
+  hurtful.a
+  toxic.a
+  bite.v
+  stunt.v
+  cripple.v
+  harm.n
+  backbreaking.n
+  sting.v
+  back-breaking.a
+  disembowel.v
+  eviscerate.v
+  noxious.a
+  chomp.v
+  injury.n
+  poison.n
+  hamstring.v
+  flagellate.v
+Frame_Body:
+  feet.n
+  throat.n
+  neck.n
+  foot.n
+  nose.n
+  head.n
+  nerve.n
+  bowel.n
+  knee.n
+  ear.n
+  tooth.n
+  belly.n
+  back.n
+  cheek.n
+  finger.n
+  lip.n
+  arm.n
+  heart.n
+  spine.n
+  bosom.n
+  mouth.n
+  heel.n
+  skin.n
+  gut.n
+  hand.n
+  leg.n
+  face.n
+  body.n
+  hair.n
+  eye.n
+Frame_Assistance:
+  helper.n
+  assistance.n
+  aid.v
+  helpful.a
+  help.v
+  assist.v
+Frame_Enable_ability_to_access_locations:
+  open.v door.n
+  ease.v the way
+  open.v doors.n
+  smooth.v the way
+  pave.v the way
+Frame_Tea:
+  matcha.n
+  green tea.n
+  oolong.n
+  darjeeling.n
+  earl grey.n
+  iced tea.n
+  herbal tea.n
+  rooibos.n
+  ice tea.n
+  tea.n
+  chai.n
+  camomile.n
+  black tea.n
+  lapsang souchong.n
+Frame_Object_propulsion:
+  toss.v
+  pitch.n
+  catapult.v
+  fire off.v
+  shoot.v
+  hurl.v
+  launch.v
+  propel.v
+  sling.v
+  throw.v
+  cast.v
+  thrust.v
+  fire.v
+  fling.v
+  rapid fire.n
+  propulsion.n
+  chuck.v
+Frame_Fabric:
+  chiffon.n
+  wool.n
+  corduroy.n
+  spandex.n
+  seersucker.n
+  brocade.n
+  denim.n
+  silk.n
+  velvet.n
+  cotton.n
+  fleece.n
+  satin.n
+  flannel.n
+  muslin.n
+  cashmere.n
+  tweed.n
+  nylon.n
+  lycra.n
+  lace.n
+  canvas.n
+  polyester.n
+  rayon.n
+Frame_Idea:
+  notion.n
+  idea.n
+  concept.n
+  thought.n
+  conceptualization.n
+Frame_Immorality:
+  immoral
+  immorality
+Frame_Lose_possession:
+  misplace.v
+  give.v away
+  loss.n
+  forfeit.v
+  lose.v
+Frame_Motion_away_from_a_bounded_region:
+  exit.v
+  go.v out
+  egress.n
+  climb.v out
+  get.v out
+  move.v out
+Frame_Large_geographic_features:
+  Alps.n
+  Himalayas.n
+  mountain.n
+  pyramid.n
+  vast.a
+  prairie.n
+Frame_War:
+  warrior.n
+  battleground.n
+  seige.n
+  battlefield.n
+  ambush.n
+  torpedo.n
+  bomb.v
+  conquer.v
+  alliance.n
+  skirmish.n
+  war.n
+  battle.v
+  troop.n
+  blitz.v
+  allies.n
+  blitz.n
+  victory.n
+  ambush.v
+  revolution.n
+  combat.n
+  combat.v
+  blitzkrieg.n
+  combat zone.n
+  soldier.n
+  front line.n
+  bomb.n
+  warfare.n
+  vanquish.v
+  foe.n
+  ally.n
+  conquest.n
+  battle.n
+  besiege.v
+  minefield.n
+  skirmish.v
+  vanquishment.n
+  enemy.n
+  bombard.v
+Frame_Contagion:
+  droplet.n
+  infectivity.a
+  spread.v
+  droplet transmission.n
+  direct contact transmission.n
+  transmission.n
+  airborne transmission.n
+  contact transmission.n
+  superspreading event.n
+  supercontamination.n
+  infect.v
+  outbreak.n
+  person-to-person transmission.n
+  contact.n
+  supercontamination event.n
+  indirect contact transmission.n
+  aerosol.n
+  local transmission.n
+  contagious.a
+  animal-to-human transmission.n
+Frame_Optimism:
+  positivity.n
+  positive.a outlook.n
+  optimistic.a
+  positive.a attitude.n
+  hope.v
+  hope.n
+  hopefulness.n
+  positive.a view.n
+  upbeat.a
+  optimist.n
+  rosy.a
+  optimism.n
+  eager.a
+  eagerness.n
+  sanguine.a
+  winning attitude.n
+  hopeful.a
+  positiveness.n
+  starry-eyed.a
+  sanguinity.a
+Frame_Building:
+  citadel.n
+  cornerstone.n
+  framework.n
+  bastion.n
+  palace.n
+  edifice.n
+  window.n
+  building.n
+  bedrock.n
+  undermine.v
+  pillar.n
+  keystone.n
+  brick.n
+  door.n
+  superstructure.n
+  skyscraper.n
+  fort.n
+  sky-scraper.n
+  foundation.n
+  castle.n
+  shore.v up
+  fortress.n
+  house.n
+  tower.n
+Frame_Caused_upward_motion:
+  heighten.v
+  boost.v up
+  jack.v up
+  hike.v
+  help.v up
+  uplifting.a
+  pull.v out
+  yank.v out
+  lift.v out
+  hoist.v
+  boost.v
+  elevate.v
+  uplift.n
+  lift.v
+  boost.n
+  bolster.v
+  pull.v up
+  raise.v
+Frame_Experience_pain:
+  aching.a
+  suffer.v
+  pain.n
+  ache.v
+  suffering.n
+  ache.n
+  agony.n
+  achy.a
+  hurt.v
+  pained.a
+  painful.a
+  twinge.n
+  excruciating.a
+  pain.v
+  painfully.adv
+  agonizing.a
+  pang.n
+Frame_Erosion:
+  corrode.v
+  erode.v
+  eat.v away
+  erosion.n
+  corrosion.n
+  corrosiveness.n
+Frame_Force:
+  forceful.a
+  force.n
+  power.n
+  pressure.n
+  powerful.a
+Frame_Intelligence:
+  smarts.n
+  smartness.n
+  cleverness.n
+  intelligence.n
+  acumen.n
+  intellect.n
+  IQ.n
+  perspicacity.n
+  brainpower.n
+  astuteness.n
+Frame_Taxation:
+  taxman.n
+  tax policy.n
+  tax payer.n
+  tax man.n
+  tax-payer.n
+  tax code.n
+  income tax rate.n
+  tax dollar.n
+  property tax.n
+  tax.v
+  taxpayer.n
+  tax system.n
+  taxing.n
+  income tax.n
+  tax.n
+  tax rate.n
+  International Revenue Service.n
+  taxation.n
+  tax revenue.n
+  IRS.n
+  tax payment.n
+  taxes.n
+  tax credit.n
+Frame_Gun_debate:
+  gun rights debate.n
+  gun debate.n
+  gun control debate.n
+  gun-rights debate.n
+  gun-control debate.n
+Frame_Environmental_regulation:
+  US EPA.n
+  Comprehensive Environmental Response
+  Kyoto Protocol.n
+  environmental protection compliance orders.n
+  carbon tax.n
+  national pollution release inventory.n
+  Canadian Environmental Protection Act.n
+  environmental compliance inspection.n
+  climate disclosure.n
+  Annex I Country.n
+  Compensation
+  emissions disclosure.n
+  Clean Water Act.n
+  environmental quality objective.n
+  COP28.n
+  EPA.n
+  climate regulation.n
+  environmental regulation.n
+  Clean Air Act.n
+  virtual elimination plan.n
+  polluter pays principle.n
+  transboundary permits.n
+  Intergovernmental Panel on Climate Change.n
+  virtual elimination list.n
+  carbon emission target.n
+  UNFCC.n
+  environmental legislation.n
+  environmental monitoring.n
+  IPCC.n
+  pollution prevention.n
+  United States Environmental Protection Agency.n
+  United Nations Framework Convention on Climate Change.n
+  Environmental Protection Act.n
+  and Liability Act.n
+  emission target.n
+  environmental assessment.n
+  Non-Annex I Country.n
+  Paris Agreement.n
+  United Nations Climate Change Conference.n
+  Minister of the Environment.n
+  COP26.n
+  Environment and Climate Change Canada.n
+  COP27.n
+  Montreal Protocol.n
+Frame_Gun_control_advocate:
+  2nd Amendment denier.n
+  hoplophobe.n
+  gun-grabber.n
+  gun-control advocate.n
+  gun control proponent.n
+  anti-gun.a
+  Second Amendment denier.n
+  disarmer.n
+  gun-control lobbyist.n
+  anti-gunner.n
+  anti-rights.a
+  anti gun lobbyist.n
+  anti-gun lobbyist.n
+  anti gun.a
+  gun-control proponent.n
+  hoplophobia.n
+  gun grabber.n
+  gun control advocate.n
+  gun control lobbyist.n
+Frame_Gun_rights_legislation:
+  pro gun law.n
+  pro-gun bill.n
+  pro-gun law.n
+  pro-gun legislation.n
+  gun rights legislation.n
+  pro gun bill.n
+  pro gun legislation.n
+Frame_Freedom_of_action:
+  unimpeded.a
+  autonomy.n
+  autonomous.a
+  free.v
+  independent.a
+  free.a
+Frame_Air_pollution:
+  air pollution.n
+  Non-Methane Volatile Organic Compounds.n
+  emission factor.n
+  home clean air shelter.n
+  emission.n
+  ozone-depleting substance.n
+  nitrous oxide.n
+  ozone depletion.n
+  N2O.n
+  ambient air quality.n
+  particulate matter.n
+  indirect emission.n
+  ozone.n
+  atmospheric pollution.n
+  cleaner air shelter.n
+  AQHI.n
+  air quality.n
+  outdoor air quality.n
+  ozone precursor.n
+  indoor air quality.n
+  ambient air pollution.n
+  NOx.n
+  community clean air shelter.n
+  Sulfur Hexafluoride.n
+  nitrogen oxide.n
+  SF6.n
+  clean air shelter.n
+  smog.n
+Frame_Non_purposive_motion:
+  ramble.v
+  amble.v
+  perambulate.v
+  roam.v
+  rove.v
+  meander.v
+  wander.v
+  drift.v
+  stroll.v
+Frame_Environmentally_responsible:
+  sustainability.n
+  ethical energy usage.n
+  minimalism.n
+  sustainable travel practice.n
+  ethical consumption.n
+  environmental steward.n
+  sustainable.a
+  biodegradable.a
+  recyclable.a
+  re-use.v
+  environmentally sustainable habit.n
+  eco-conscious.n
+  green quotient.n
+  reusable.a
+  organic agricultural practice.n
+  environmentally conscious living.n
+  eco-friendly.a
+  ecoconscious living.n
+  biodynamic farming.n
+  environmentally responsible practices.n
+  environmental sustainability.n
+  biodynamic agricultural practice.n
+  recylcing.n
+  compost bin.n
+  ethical consuming.n
+  sustainable business owner.n
+  ethical farming.n
+  reclaim.v
+  sustainable farming.n
+  organic agriculture.n
+  composting.v
+  ecoconscious.n
+  responsible energy usage.n
+  eco-conscious living.n
+  minimalist.n
+  environmental stewardship.n
+  electric car.n
+  compost.n
+  biodynamic agriculture.n
+  environmentally responsible.n
+  environmentally responsible habit.n
+  environmentally conscious.n
+  conscious travel.n
+  recycle.v
+  paperless.a
+  environmentally responsible.n
+  compostable.a
+  sustainable travel.n
+  biodynamic.a
+  sustainable travel guide.n
+  envrionmentally responsible living.n
+  sustainable farming practice.n
+  sustainable business.n
+  biodynamics.n
+  organic farming.n
+  hybrid car.n
+  sustainable farmer.n
+  responsible travel.n
+  environmental consciousness.n
+Frame_Being_in_the_middle_of_a_scale:
+  middle.n
+  middle-ground.a
+  middle.a
+  median.n
+  mid-level.a
+  middling
+  median.a
+Frame_Trespassing:
+  intrusion.n
+  invasion.n
+  trespass.v
+  unlawful.a entry.n
+  encroach.v
+  invade.v
+  intrusive.a
+  encroachment.n
+  infringe.v
+  infringement.n
+  intrude.v
+  incursion.n
+  trespass.n
+Frame_Bully:
+  bully.v
+  thug.n
+  bully.n
+  ruffian.n
+  harass.v
+  intimidate.v
+Frame_Game:
+  checkers.n
+  chess.n
+  pawn.n
+  UNO.n
+  game.n
+  score.n
+  player.n
+  checkmate.n
+  chess game.n
+Frame_Performance:
+  perform.v
+  standing ovation.n
+  applause.n
+  stage.n
+  performance.n
+  dramatic.a
+  drama.n
+Frame_Differences_in_distance:
+  step.n ahead
+  gap
+  apart
+Frame_Cancer:
+  cancerous.a
+  stage 2.n
+  stage 3.n
+  undifferentiated small cell lung cancer.n
+  epidermoid cell carcinoma.n
+  metastatic cascade.n
+  cancer cell.n
+  stage 3B.n
+  leukemia.n
+  ovarian cancer.n
+  thyroid cancer.n
+  cancerous tumour.n
+  cancerous tumor.n
+  stage 2B.n
+  prostate cancer.n
+  large cell lung cancer.n
+  invasive lobular carcinoma.n
+  lung carcinoma.n
+  colon and rectum cancer.n
+  metastatic cancer.n
+  secondary cancer.n
+  stage 1.n
+  cancer.n
+  stage 0.n
+  endocrine cancer.n
+  uterine cancer.n
+  secondary tumor.n
+  paraneoplastic.a
+  bronchogenic carcinoma.n
+  brain cancer.n
+  occult primary tumour.n
+  primary tumour.n
+  cancer.n
+  melanoma.n
+  carcinoma.n
+  secondary tumour.n
+  primary tumor.n
+  bronchial carcinoma.n
+  large cell carcinoma.n
+  non-small cell lung cancer.n
+  malignant cell.n
+  lung cancer.n
+  testicular cancer.n
+  carcinoma malignant epithelial tumour.n
+  pituitary cancer.n
+  bronchogenic cancer.n
+  carcinoid.a
+  metastatic.a
+  occult primary tumor.n
+  small cell lung carcinoma.n
+  infiltrating lobular carcinoma.n
+  cancerous.a
+  breast cancer.n
+  non-small cell cancer.n
+  ["hodgkin's lymphoma.n"]
+  large cell lung carcinoma.n
+  squamous cell carcinoma.n
+  tumor marker.n
+  non-small cell carcinoma.n
+  liver cancer.n
+  carcinoma malignant epithelial tumor.n
+  lobular carcinoma.n
+  cancerous cell.n
+  pancreatic cancer.n
+  inflammatory breast cancer.n
+  metastasize.v
+  neuroendorcrine tumour.n
+  metastase.n
+  ["non-hodgkin's lymphoma.n"]
+  stage 4.n
+  tumour marker.n
+  small cell lung cancer.n
+  colorectal cancer.n
+  neuroendorcrine tumor.n
+  metastasis.n
+  occult primary cancer.n
+  glandular carcinoma.n
+  lymphoma.n
+  glandular cancer.n
+Frame_Narrowing_width_of_bounded_region:
+  narrowing.v
+  narrow.v
+  narrow.v the scope
+  narrow.v the width
+Frame_Journey:
+  tour.n
+  trip.n
+  jaunt.v
+  venture.v
+  trek.v
+  backpack.v
+  tour.v
+  safari.n
+  journey.v
+  hitchhike.v
+  travel.v
+  pilgrimage.n
+  jaunt.n
+  odyssey.n
+  voyage.n
+  expedition.n
+  trek.n
+  journey.n
+  voyage.v
+Frame_Unemployment:
+  unemployment claims.n
+  jobless.a
+  joblessness.n
+  unemployment benefits.n
+  unemployed.adj
+  the unemployed.n
+  unemployment.n
+Frame_Money:
+  dollars.n
+  dollar bill.n
+  cash.n
+  currency.n
+  coin.n
+  money.n
+  capital.n
+  banknote.n
+  funds.n
+  dollar.n
+  legal.a tender.n
+  bucks.n
+Frame_Blood_sucking_creature:
+  barnacle.n
+  vampire.n
+  leech.n
+  scrounger.n
+  snake.n
+  bloodsucker.n
+  mosquito.n
+  tick.n
+  blood-sucker.n
+Frame_Group_membership:
+  group member.n
+  group membership.n
+  belonging.n
+  associate.n
+  community member.n
+  club member.n
+  member of society.n
+  crew member.n
+  team member.n
+Frame_Ownership:
+  owner.n
+  own.v
+  ownership.n
+Frame_Parasite:
+  drain.v the lifeblood
+  bloodsucker.n
+  parasitic.a
+  bloodsucking.a
+  leech.n
+  sponge.v
+  sponge.n
+  parasite.n
+  bleed.v white
+  leech.v
+Frame_Servitude_authority:
+  taskmaster.n
+  slave-master.n
+  lord.n
+  slave-driver.n
+  slave owner.n
+  slave-owner.n
+  slave master.n
+  slave driver.n
+  oppressor.n
+  slaveowner.n
+  overlord.n
+  master.n
+  slavemaster.n
+  rule.v over
+  overseer.n
+  slavedriver.n
+Frame_Dry_eyes:
+  dry.a eye.n
+  irritated.a eye.n
+  burning.a eye.n
+  gritty.a eye.n
+  scratchy.a eye.n
+  itchy.a eye.n
+  red.a eye.n
+  watery.a eye.n
+Frame_Citizen_participation:
+  civic.a
+  citizenship.n
+Frame_Sensitive:
+  thin-skinned.a
+  susceptibility.n
+  oversensitive.a
+  hypersensitive.a
+  allergic.a
+  touchy.a
+  ticklish.a
+  susceptible.a
+  sensitive.a
+Frame_Killing:
+  massacre.v
+  exterminate.v
+  exterminator.n
+  extermination.n
+  snuff.v
+  homocide.n
+  kill.v
+  assassin.n
+  murder.n
+  murder.v
+  slaughterer.n
+  squelch.v
+  executioner.n
+  murderer.n
+  slayer.n
+  cutthroat.n
+  annihilate.v
+  assassination.n
+  cutthroat.v
+  decimation.n
+  wipe out.v
+  slay.v
+  hired gun.n
+  annihilation.n
+  extinction.n
+  massacre.n
+  snuff out.v
+  killer.n
+  assassinate.v
+  decimate.v
+  deadly.a
+  hitman.n
+Frame_Limited_resource:
+  limited
+Frame_Healthcare_institution:
+  emergency room.n
+  World Health Organization.n
+  Public Health Agency of Canada.n
+  Public Health Agency of Canada.n
+  urgent care.n
+  provincial health authority.n
+  Health Canada.n
+  hospice.n
+  National Institute of Allergy and Infectious Diseases.n
+  hospital.n
+  CDC.n
+  Centers for Disease Control and Prevention.n
+  Wuhan lab.n
+  health clinic.n
+  nursing home.n
+  public health agency.n
+Frame_Romantic_relationship:
+  break-up.n
+  marriage.n
+  love.n
+Frame_Child_care:
+  childrearing.n
+  mother.v
+  nanny.n
+  babysitter.n
+  babysit.v
+  nanny.v
+Frame_Land_vehicle:
+  truck.n
+  brakes.n
+  bus.n
+  wheel.n
+  car.n
+Frame_Boundedness:
+  delimited.a
+  bounded.a
+  limited.a
+  finite.a
+  circumscribed.a
+  terminable.a
+Frame_Interior:
+  inside.n
+  innards.n
+  interior.n
+  innermost.a
+  within.prep
+  internal.a
+  inner.a
+Frame_Dream:
+  dream.n
+  daydream.n
+  reverie.n
+  fantasize.v
+  daydream.v
+  dream.v
+  fantasy.n
+Frame_Climate_anxiety:
+  climate anxiety.n
+  psychoterratic syndrome.n
+  eco-paralysis.n
+  ecotrauma.n
+  eco-trauma.n
+  global warming anxiety.n
+  ecoanxiety.n
+  ecoparalysis.n
+  eco-anxiety.n
+  climate change anxiety.n
+  solastalgia.n
